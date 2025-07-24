@@ -13,39 +13,39 @@ export default function AboutPage() {
           <h1 className="text-5xl font-bold mb-8 text-center">About Zuhraa</h1>
 
           <div className="lg:text-[18px] md:text-[16px] sm:text-[14px] text-[#0d1d16] p-3 mb-4 leading-relaxed">
-            Whenever conversations turned to the Prophets, I’d often find myself
+            Whenever conversations turned to the Prophets, I'd often find myself
             in a familiar struggle. <br />
             Sometimes, a story would come to mind instantly like the Prophet who
             spoke to an ant 🐜 clear as day. <br />
             But at other times, when I tried to remember which Prophet could
-            soften iron with his hands 🛠️, my mind would go completely blank.{" "}
+            soften iron with his hands 🛠️, my mind would go completely blank.
             <br />
             <br />
-            I’d try so hard to recall… but nothing would come. Just silence.{" "}
+            I'd try so hard to recall… but nothing would come. Just silence.
             <br />
             And in those moments, a wave of embarrassment would wash over me 🌊.
             Sometimes, even a deep shame. <br />
             I truly wanted to ask someone. I needed to. But a quiet, nagging
             voice in my head would whisper: <br />
             <i>"How can you forget this? This is basic Islam."</i> <br />
-            <i>"What kind of Muslim doesn't remember the Prophets?" 🕊️</i>{" "}
+            <i>"What kind of Muslim doesn't remember the Prophets?" 🕊️</i>
             <br />
             <br />
             So, I stayed quiet. I held that shame inside a secret burden I
-            didn’t dare share. <br />
+            didn't dare share. <br />
             But then, one day, something shifted. <br />A gentle thought bloomed
             in my heart 🌸. A soft whisper asked: <br />
             <i>"What if I'm not the only one who forgets?"</i> <br />
-            <i>"What if someone else out there also struggles like me?"</i>{" "}
+            <i>"What if someone else out there also struggles like me?"</i>
             <br />
             <i>"What if they're too afraid to ask just like I was?"</i> <br />
             <br />
             That quiet moment, that small realization, changed something deep
             within me. <br />
-            And that’s how <b>Zuhraa</b> was born. <br />
+            And that's how <b>Zuhraa</b> was born. <br />
             <br />
             <b>Zuhraa</b> is a gentle space crafted from my own heart, <br />
-            for anyone who’s ever forgotten, <br />
+            for anyone who's ever forgotten, <br />
             for anyone who deeply wants to remember, and <br />
             for anyone who longs to understand without fear or shame 💛. <br />
             <br />
@@ -58,7 +58,7 @@ export default function AboutPage() {
             longing to remember 🤍. <br />
             For the ones who forget the names of the noble Sahabiyat, but still
             carry love for them in their hearts. <br />
-            For the ones who can’t recall the legacies of the Khulafaa, but wish
+            For the ones who can't recall the legacies of the Khulafaa, but wish
             they could 🏛️. <br />
             For the ones who forget the miracles of the Awliyaa and the signs of
             the Prophets, but feel something stir inside when they hear them
@@ -71,7 +71,7 @@ export default function AboutPage() {
             For the ones whose hearts have always quietly whispered, “I wish I
             knew more.” 💫 <br />
             <br />
-            <b>Zuhraa</b> isn’t just an app. It’s a prayer 🕊️. <br />
+            <b>Zuhraa</b> isn't just an app. It's a prayer 🕊️. <br />
             A warm hand reaching out 🤝. <br />
             A quiet return to love ❤️. <br />
             And a safe journey into remembrance together 🌌. <br />
@@ -85,22 +85,22 @@ export default function AboutPage() {
           <div className="lg:text-[18px] md:text-[16px] sm:text-[14px] p-3 leading-relaxed">
             🌙 <b>Zuhraa — a name born from light</b> <br />
             <br />
-            Zuhraa is not just an app. It’s a gentle space 🧡. <br />
-            It’s a return to what your soul might be yearning for 🌠. <br />
+            Zuhraa is not just an app. It's a gentle space 🧡. <br />
+            It's a return to what your soul might be yearning for 🌠. <br />
             But first... why the name Zuhraa? <br />
             <br />
             The name was first inspired by <b>Fatima al-Zahra (R.A.)</b> 🕊️{" "}
             <br />
             The daughter of the Prophet Muhammad ﷺ. <br />
-            She was known as <i>al-Zahra</i>, meaning <i>“The Radiant.”</i> 🌟{" "}
+            She was known as <i>al-Zahra</i>, meaning <i>"The Radiant."</i> 🌟{" "}
             <br />
             A woman of unmatched strength, purity, and light. <br />
             Whose legacy continues to glow through generations. <br />
             Her name carries a timeless softness that felt like the perfect
             beginning. <br />
             <br />
-            But there’s a second light behind the name… <br />
-            It’s also named after someone deeply precious to me, my friend{" "}
+            But there's a second light behind the name… <br />
+            It's also named after someone deeply precious to me, my friend{" "}
             <b>Fatima Zahraa</b> . <br />
             Her presence in my life has been a reflection of calmness, comfort,
             and courage 🌸. <br />
