@@ -27,7 +27,7 @@ export default function Navbar() {
             <Link href="/">Home</Link>
           </li>
           <li className="hover:text-[#FFD700] cursor-pointer transition-colors">
-            <a href="#about">About</a>
+            <a href="/about">About</a>
           </li>
         </ul>
 
@@ -62,7 +62,7 @@ export default function Navbar() {
                 className="hover:text-[#FFD700] cursor-pointer"
                 onClick={closeMobileMenu}
               >
-                <a href="#about">About</a>
+                <a href="/about">About</a>
               </li>
             </ul>
           </motion.div>
