@@ -10,7 +10,7 @@ interface Ayah {
   urdu: string;
   english: string;
   reference: string;
-  serial: number;
+  serial: string; // Change to string if your JSON uses string for serial
   background: string;
 }
 
