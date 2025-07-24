@@ -11,7 +11,6 @@ interface Ayah {
   english: string;
   reference: string;
   serial: number;
-  theme: string;
   background: string;
 }
 
