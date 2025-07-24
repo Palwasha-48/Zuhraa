@@ -86,7 +86,7 @@ export default function HomePage() {
           </h2>
           <p className="text-lg text-[#2D6A4F] mb-9">
             Zuhraa is a gentle space 🌸 for hearts that forget, yet still long
-            to remember 🌙. <br /> It’s a quiet return to faith 🤲, love ❤️, and
+            to remember 🌙. <br /> It&rsquo;s a quiet return to faith 🤲, love ❤️, and
             light ✨ without fear, without shame.
           </p>
 
@@ -109,7 +109,7 @@ export default function HomePage() {
           </h2>
           <p className="text-lg text-[#153024] mb-6">
             Have a question, a thought, or just want to say Salaam? 🤍 <br />{" "}
-            Reach out softly, I'm just a message away on{" "}
+            Reach out softly, I&rsquo;m just a message away on{" "}
             <a href="https://www.linkedin.com/in/palwashey-qureshi/">
               {" "}
               LinkedIn 🌿{" "}
