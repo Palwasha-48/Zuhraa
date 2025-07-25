@@ -106,10 +106,10 @@ export default function HomePage() {
       </section>
 
       {/* Language Toggle */}
-      <div className="text-center mt-8">
+      <div className="text-center bg-[#b2d1ba]">
         <button
           onClick={() => setLanguage(language === "en" ? "ur" : "en")}
-          className="px-4 py-2 bg-[#1B4332] text-white rounded-full shadow hover:bg-[#204d3a] transition"
+          className="px-4 py-2 mt-10 mb-10 text-lg bg-[#1B4332] text-white rounded-full shadow hover:bg-[#204d3a] transition"
         >
           {language === "en" ? "اردو میں دیکھیں" : "View in English"}
         </button>
