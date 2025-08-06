@@ -1,14 +1,12 @@
 "use client";
 import { useLanguage } from "@/context/LanguageContext";
 import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
 
 export default function TermsOfUsePage() {
   const { language } = useLanguage();
 
   return (
     <>
-      <Navbar />
       <div className="bg-[#b2d1ba] text-[#1B4332] min-h-screen pb-20">
         <main className="p-6 max-w-3xl mx-auto pt-40">
           {language === "en" ? (
@@ -73,7 +71,6 @@ export default function TermsOfUsePage() {
           )}
         </main>
       </div>
-      <Footer />
     </>
   );
 }
