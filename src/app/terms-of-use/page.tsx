@@ -1,6 +1,5 @@
 "use client";
 import { useLanguage } from "@/context/LanguageContext";
-import Footer from "@/components/Footer";
 
 export default function TermsOfUsePage() {
   const { language } = useLanguage();
@@ -74,3 +73,4 @@ export default function TermsOfUsePage() {
     </>
   );
 }
+
