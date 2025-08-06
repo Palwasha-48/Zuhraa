@@ -8,7 +8,6 @@ export default function PrivacyPolicyPage() {
 
   return (
     <>
-      <Navbar />
       <div className="bg-[#b2d1ba] text-[#1B4332] min-h-screen">
         <main className="p-6 max-w-3xl mx-auto pt-40">
           {language === "en" ? (
@@ -38,7 +37,6 @@ export default function PrivacyPolicyPage() {
           )}
         </main>
       </div>
-      <Footer />
     </>
   );
 }
