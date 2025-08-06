@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Footer from "@/components/Footer";
 import { useLanguage } from "@/context/LanguageContext";
 
 export default function AboutPage() {
@@ -253,3 +252,4 @@ function UrduContent() {
     </div>
   );
 }
+
