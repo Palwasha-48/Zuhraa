@@ -1,7 +1,5 @@
 "use client";
 import { useLanguage } from "@/context/LanguageContext";
-import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
 
 export default function PrivacyPolicyPage() {
   const { language } = useLanguage();
@@ -40,3 +38,4 @@ export default function PrivacyPolicyPage() {
     </>
   );
 }
+
