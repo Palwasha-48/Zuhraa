@@ -15,6 +15,7 @@ export default function Navbar() {
     en: {
       home: "Home",
       about: "About",
+      asmaulhusna: "Asma ul Husna",
       privacy: "Privacy",
       terms: "Terms",
       langToggle: "اردو",
@@ -22,6 +23,7 @@ export default function Navbar() {
     ur: {
       home: "صفحۂ اول",
       about: "تعارف",
+      asmaulhusna: "اسماء الحسنیٰ",
       privacy: "رازداری",
       terms: "شرائط",
       langToggle: "EN",
@@ -33,11 +35,13 @@ export default function Navbar() {
   const t = navTexts[language as Language];
 
   return (
-    <nav className="backdrop-blur-md bg-[#1B4332]/90 text-[#F9F7F3] shadow-lg fixed w-full z-50 border-b border-[#F9F7F3]/10">
+    <nav className="backdrop-blur-md font-urdu bg-[#1B4332]/90 text-[#F9F7F3] shadow-lg fixed w-full z-50 border-b border-[#F9F7F3]/10">
       <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center space-x-2">
-          <h1 className="text-2xl font-bold tracking-wide text-[#F9F7F3]">Zuhraa</h1>
+          <h1 className="text-2xl font-bold tracking-wide text-[#F9F7F3]">
+            Zuhraa
+          </h1>
         </div>
 
         {/* Desktop Menu */}
@@ -48,6 +52,10 @@ export default function Navbar() {
           <li className="hover:text-[#FFD700] cursor-pointer transition-colors">
             <Link href="/about">{t.about}</Link>
           </li>
+          <li className="hover:text-[#FFD700] cursor-pointer transition-colors">
+            <Link href="/Asmaulhusna">{t.asmaulhusna}</Link>
+          </li>
+
           <li className="hover:text-[#FFD700] cursor-pointer transition-colors">
             <Link href="/privacy-policy">{t.privacy}</Link>
           </li>
@@ -83,19 +91,43 @@ export default function Navbar() {
             className="md:hidden bg-[#1B4332]/95 backdrop-blur-md rounded-b-lg shadow-lg px-4 py-4 space-y-2"
           >
             <ul className="flex flex-col gap-2 text-lg">
-              <li onClick={closeMobileMenu} className="hover:text-[#FFD700] cursor-pointer">
+              <li
+                onClick={closeMobileMenu}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
                 <Link href="/">{t.home}</Link>
               </li>
-              <li onClick={closeMobileMenu} className="hover:text-[#FFD700] cursor-pointer">
+              <li
+                onClick={closeMobileMenu}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
                 <Link href="/about">{t.about}</Link>
               </li>
-              <li onClick={closeMobileMenu} className="hover:text-[#FFD700] cursor-pointer">
+              <li
+                onClick={closeMobileMenu}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
+                <Link href="/Asmaulhusna">{t.asmaulhusna}</Link>
+              </li>
+              <li
+                onClick={closeMobileMenu}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
                 <Link href="/privacy-policy">{t.privacy}</Link>
               </li>
-              <li onClick={closeMobileMenu} className="hover:text-[#FFD700] cursor-pointer">
+              <li
+                onClick={closeMobileMenu}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
                 <Link href="/terms-of-use">{t.terms}</Link>
               </li>
-              <li onClick={() => { toggleLanguage(); closeMobileMenu(); }} className="hover:text-[#FFD700] cursor-pointer">
+              <li
+                onClick={() => {
+                  toggleLanguage();
+                  closeMobileMenu();
+                }}
+                className="hover:text-[#FFD700] cursor-pointer"
+              >
                 {t.langToggle}
               </li>
             </ul>
