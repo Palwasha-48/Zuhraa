@@ -14,7 +14,7 @@ export default function AsmaDetailPage() {
   }
 
   return (
-    <div className="min-h-screen pt-32 px-6 py-12 bg-[#f4f9f4] text-[#1B4332]">
+    <div className="min-h-screen pt-32 px-6 py-12 bg-[#b2d1ba] text-[#1B4332]">
       {language === "en" ? (
         <EnglishDetail nameDetail={nameDetail} />
       ) : (
@@ -30,15 +30,19 @@ function EnglishDetail({ nameDetail }: { nameDetail: NameDetail }) {
   return (
     <div className="max-w-3xl mx-auto">
       {/* Heading section (center aligned) */}
-      <h1 className="text-5xl font-bold text-center mb-4">{nameDetail.arabic}</h1>
-      <h2 className="text-2xl font-semibold text-center mb-8">{content.name}</h2>
+      <h1 className="text-5xl font-bold text-center mb-8">
+        {nameDetail.arabic}
+      </h1>
+      <h2 className="text-2xl font-semibold text-center mb-8">
+        {content.name}
+      </h2>
 
       {/* Content section (left aligned) */}
       <div className="text-left leading-relaxed space-y-4">
         <p>{content.details}</p>
         <p className="text-green-800 font-semibold">📖 {content.lesson}</p>
-        <p className="text-blue-800 font-semibold">🌸 {content.virtues}</p>
-        <p className="text-blue-900 font-semibold">{content.wazifa}</p>
+        <p className="text-green-800 font-semibold">🌸 {content.virtues}</p>
+        <p className="text-green-900 font-semibold">{content.wazifa}</p>
       </div>
     </div>
   );
@@ -50,8 +54,12 @@ function UrduDetail({ nameDetail }: { nameDetail: NameDetail }) {
   return (
     <div dir="rtl" className="max-w-3xl mx-auto font-urdu">
       {/* Heading section (center aligned) */}
-      <h1 className="text-5xl font-bold text-center mb-4">{nameDetail.arabic}</h1>
-      <h2 className="text-2xl font-semibold text-center mb-8">{content.name}</h2>
+      <h1 className="text-5xl font-bold text-center mb-4">
+        {nameDetail.arabic}
+      </h1>
+      <h2 className="text-2xl font-semibold text-center mb-8">
+        {content.name}
+      </h2>
 
       {/* Content section (right aligned) */}
       <div className="text-right leading-[2.5rem] space-y-4">
