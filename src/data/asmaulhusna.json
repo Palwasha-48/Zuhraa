@@ -98,5 +98,1885 @@
         "wazifa": "1) جو شخص فجر کے بعد 'یَا سَلَام' 131 مرتبہ پڑھے اللہ تعالیٰ اس کے دل کو سکون اور حفاظت عطا فرماتا ہے۔ 2) سفر میں کثرت سے پڑھنے والا حادثات اور خطرات سے بچتا ہے۔ 3) نبی ﷺ نماز کے بعد یہ دعا پڑھتے تھے: 'اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالإكْرَامِ' (صحیح مسلم) – اس کو پڑھنے والا اللہ کے امن میں آ جاتا ہے۔"
       }
     }
+  },
+  {
+    "id": 6,
+    "arabic": "ٱلْمُؤْمِنُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mu’min – The One Who Gives Īmān and Security",
+        "details": "Al-Mu’min means The Giver of faith, security, and peace. Allah is the One who grants His servants the light of īmān (faith) and protects them from fear and harm. He provides spiritual assurance to the hearts of believers and guarantees safety in both worlds.",
+        "lesson": "The lesson of Al-Mu’min is to spread peace and security to others, never harming them, and to be a source of reassurance and honesty.",
+        "virtues": "Reciting 'Yā Mu’min' brings protection from fear, strengthens īmān, and fills the heart with confidence and peace.",
+        "wazifa": "1) Whoever recites 'Yā Mu’min' 630 times daily, Allah grants them safety from fear, enemies, and accidents. 2) Reciting it 100 times after Fajr strengthens faith and protects from doubts. 3) Reciting abundantly when anxious brings inner peace and spiritual security."
+      },
+      "urdu": {
+        "name": "الْمُؤْمِن – ایمان دینے والا اور امن عطا کرنے والا",
+        "details": "الْمُؤْمِن کا مطلب ہے وہ ذات جو اپنے بندوں کو ایمان عطا کرتی ہے اور انہیں امن و سلامتی بخشتی ہے۔ اللہ اپنے بندوں کو ایمان کی روشنی عطا کرتا ہے، انہیں خوف اور نقصان سے محفوظ رکھتا ہے اور ان کے دلوں میں اطمینان پیدا کرتا ہے۔",
+        "lesson": "اس نام سے سبق ملتا ہے کہ ہمیں دوسروں کے لیے بھی امن اور سکون کا ذریعہ بننا چاہیے، کسی کو نقصان نہ پہنچائیں اور سچائی و بھروسہ قائم کریں۔",
+        "virtues": "یَا مُؤْمِن کا ورد خوف اور بےچینی کو ختم کرتا ہے، ایمان کو مضبوط کرتا ہے اور دل کو اعتماد اور سکون عطا کرتا ہے۔",
+        "wazifa": "1) جو شخص 'یَا مُؤْمِن' کو روزانہ 630 مرتبہ پڑھے اللہ تعالیٰ اسے خوف، دشمنوں اور حادثات سے محفوظ رکھتا ہے۔ 2) فجر کے بعد 100 مرتبہ پڑھنے سے ایمان مضبوط ہوتا ہے اور شک و شبہات دور ہوتے ہیں۔ 3) بےچینی یا غیر محفوظ محسوس ہونے پر کثرت سے پڑھنے سے دل کو سکون اور روحانی تحفظ ملتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "arabic": "ٱلْمُهَيْمِنُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muhaymin – The Guardian, The Witness, The Overseer",
+        "details": "Al-Muhaymin means The Guardian, The Witness, The Protector, The Overseer. Allah watches over everything, protects His servants, and records every action. Nothing escapes His knowledge or control.",
+        "lesson": "We should try to protect others’ rights, act with responsibility, and avoid betraying trust—just as Allah is the Ultimate Guardian.",
+        "virtues": "Reciting 'Yā Muhaymin' brings safety, divine protection, and sincerity in deeds.",
+        "wazifa": "1) Recite 'Yā Muhaymin' 100 times daily for protection from harm. 2) Recite it before good deeds for sincerity and acceptance. 3) Whoever recites it 115 times after Fajr and ‘Ishā, Allah protects their home and family."
+      },
+      "urdu": {
+        "name": "الْمُهَيْمِن – نگہبان اور نگرانی کرنے والا",
+        "details": "الْمُهَيْمِن کا مطلب ہے نگہبان، گواہ اور نگرانی کرنے والا۔ اللہ اپنی مخلوق پر نگران ہے، اُن کی حفاظت کرتا ہے اور ہر چیز کو جانتا اور دیکھتا ہے۔ کوئی چیز اُس کی نظر سے اوجھل نہیں۔",
+        "lesson": "ہمیں بھی دوسروں کی حفاظت اور بھلائی کا ذریعہ بننا چاہیے اور امانت میں خیانت نہیں کرنی چاہیے۔",
+        "virtues": "یَا مُهَيْمِن کا ورد انسان کو اللہ کی خاص حفاظت اور اخلاص عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ پڑھنے سے اللہ برائیوں اور نقصان سے محفوظ رکھتا ہے۔ 2) نیک عمل شروع کرنے سے پہلے پڑھنے والا اخلاص پاتا ہے۔ 3) فجر اور عشاء کے بعد 115 مرتبہ پڑھنے سے گھر اور خاندان اللہ کی حفاظت میں رہتے ہیں۔"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "arabic": "ٱلْعَزِيزُ",
+    "translations": {
+      "english": {
+        "name": "Al-‘Azīz – The Almighty, The All-Powerful",
+        "details": "Al-‘Azīz means The Almighty, The All-Powerful, The Victorious. Allah is the One who is never overcome, whose might is unmatched, and who grants honor and power to whom He wills.",
+        "lesson": "We should rely only on Allah for strength and honor, and avoid arrogance, knowing that all power belongs to Him.",
+        "virtues": "Reciting 'Yā ‘Azīz' grants strength, dignity, and protection from humiliation.",
+        "wazifa": "1) Recite 'Yā ‘Azīz' 40 times after Fajr for respect and dignity. 2) Recite abundantly when facing enemies or challenges for victory. 3) Recite 100 times daily for protection from weakness and humiliation."
+      },
+      "urdu": {
+        "name": "الْعَزِيز – زبردست اور غالب",
+        "details": "الْعَزِيز کا مطلب ہے زبردست، غالب اور طاقت والا۔ اللہ وہ ذات ہے جس پر کوئی غالب نہیں آسکتا، جس کی طاقت بے مثال ہے اور جو جسے چاہے عزت اور جسے چاہے ذلت دے۔",
+        "lesson": "طاقت اور عزت کے لیے صرف اللہ پر بھروسہ رکھنا چاہیے اور تکبر سے بچنا چاہیے۔",
+        "virtues": "یَا عَزِيز کا ورد طاقت، عزت اور ذلت سے حفاظت عطا کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد 40 مرتبہ پڑھنے سے عزت اور وقار ملتا ہے۔ 2) دشمن یا مشکل کے وقت کثرت سے پڑھنے سے اللہ غلبہ عطا کرتا ہے۔ 3) روزانہ 100 مرتبہ پڑھنے سے کمزوری اور ذلت سے حفاظت ملتی ہے۔"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "arabic": "ٱلْجَبَّارُ",
+    "translations": {
+      "english": {
+        "name": "Al-Jabbār – The Compeller, The Restorer",
+        "details": "Al-Jabbār means The Compeller, The Restorer, The One who mends what is broken and compels the arrogant. Allah restores the broken hearts of His servants, grants them strength, and subdues the oppressors.",
+        "lesson": "We should be gentle to the weak and never act arrogantly, remembering that Allah alone has the power to elevate or break.",
+        "virtues": "Reciting 'Yā Jabbār' brings healing to the heart, strength in hardship, and protection from oppression.",
+        "wazifa": "1) Recite 'Yā Jabbār' 100 times after Fajr for healing broken hearts. 2) Whoever recites it 226 times is protected from oppressors. 3) Recite abundantly in hardship for courage and relief."
+      },
+      "urdu": {
+        "name": "الْجَبَّار – زبردست اور دلوں کو جوڑنے والا",
+        "details": "الْجَبَّار کا مطلب ہے زبردست، درست کرنے والا اور دلوں کو جوڑنے والا۔ اللہ وہ ذات ہے جو کمزوروں کے دلوں کو سہارا دیتی ہے اور ظالموں کو توڑ دیتی ہے۔",
+        "lesson": "کمزوروں پر رحم اور نرمی کریں اور تکبر سے دور رہیں کیونکہ اصل قدرت صرف اللہ کے پاس ہے۔",
+        "virtues": "یَا جَبَّار کا ورد دل کو سکون، مشکل میں حوصلہ اور ظالموں سے حفاظت عطا کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد 100 مرتبہ پڑھنے سے دل کا دکھ دور ہوتا ہے۔ 2) 226 مرتبہ پڑھنے والا ظلم و زیادتی سے محفوظ رہتا ہے۔ 3) مشکل میں کثرت سے پڑھنے سے ہمت اور حوصلہ ملتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "arabic": "ٱلْمُتَكَبِّرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mutakabbir – The Supreme, The Majestic",
+        "details": "Al-Mutakabbir means The Supreme, The Majestic, The One who is above all creation. Allah alone has the right to greatness and pride, free from any flaw. All arrogance in creation is false, but Allah’s magnificence is absolute truth.",
+        "lesson": "We should be humble before Allah and people, knowing that greatness belongs to Allah alone.",
+        "virtues": "Reciting 'Yā Mutakabbir' brings respect, removes arrogance from the heart, and fills the soul with humility.",
+        "wazifa": "1) Recite 'Yā Mutakabbir' 100 times daily to remove arrogance. 2) Whoever recites it 662 times gains dignity and protection from humiliation. 3) Recite it in sajdah for humility and closeness to Allah."
+      },
+      "urdu": {
+        "name": "الْمُتَكَبِّر – سب سے بڑا اور عظمت والا",
+        "details": "الْمُتَكَبِّر کا مطلب ہے سب سے بڑا اور عظمت والا۔ اللہ ہی وہ ذات ہے جس کو بڑائی زیب دیتی ہے۔ مخلوق میں تکبر جھوٹ ہے لیکن اللہ کی کبریائی برحق ہے۔",
+        "lesson": "ہمیں اللہ کے سامنے عاجزی اختیار کرنی چاہیے اور انسانوں کے ساتھ بھی انکساری کے ساتھ رہنا چاہیے۔",
+        "virtues": "یَا مُتَكَبِّر کا ورد دل کو غرور سے پاک کرتا ہے، عزت عطا کرتا ہے اور عاجزی پیدا کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ پڑھنے سے غرور دل سے نکل جاتا ہے۔ 2) 662 مرتبہ پڑھنے والا عزت پاتا ہے اور ذلت سے محفوظ رہتا ہے۔ 3) سجدے میں پڑھنے سے عاجزی اور قربِ الٰہی نصیب ہوتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "arabic": "ٱلْخَٰلِقُ",
+    "translations": {
+      "english": {
+        "name": "Al-Khāliq – The Creator, The Maker",
+        "details": "Al-Khāliq means The Creator, The Maker of everything from nothing. Allah alone creates all that exists in the heavens and the earth. His creation is not random but based on divine wisdom, balance, and perfection. Every creature, from the tiniest atom to the largest star, is a reflection of Al-Khāliq’s power.",
+        "lesson": "We should value Allah’s creation, respect all beings, and recognize our purpose in life. Since Allah created us with wisdom, our lives should reflect worship, gratitude, and good character.",
+        "virtues": "Reciting 'Yā Khāliq' increases creativity, brings barakah in one’s work, and strengthens faith in Allah’s power.",
+        "wazifa": "1) Recite 'Yā Khāliq' 731 times daily for creativity and success. 2) Recite it after Fajr prayer for ease in tasks and protection from hardship. 3) Abundant recitation fills the heart with gratitude and humility."
+      },
+      "urdu": {
+        "name": "الخالق – پیدا کرنے والا",
+        "details": "الخالق کا مطلب ہے پیدا کرنے والا، سب کو عدم سے وجود میں لانے والا۔ اللہ نے کائنات کی ہر چیز کو اپنی قدرت اور حکمت کے ساتھ بنایا ہے۔ اُس کی تخلیق بے عیب، مکمل اور حکمت سے بھرپور ہے۔",
+        "lesson": "اللہ کی مخلوق کی قدر کریں، دوسروں کے ساتھ حسنِ سلوک کریں اور اپنی زندگی کو اُس کے حکم کے مطابق گزاریں۔",
+        "virtues": "یَا خَالِق کا ورد انسان کے دل کو اللہ کی قدرت سے بھر دیتا ہے اور کاموں میں برکت عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 731 مرتبہ پڑھنے والا تخلیقی صلاحیت اور فہم حاصل کرتا ہے۔ 2) فجر کے بعد پڑھنے سے مشکلات آسان ہوتی ہیں۔ 3) کثرت سے پڑھنے والا دل شکرگزاری اور عاجزی سے بھر جاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "arabic": "ٱلْبَارِئُ",
+    "translations": {
+      "english": {
+        "name": "Al-Bāriʾ – The Originator",
+        "details": "Al-Bāriʾ means The Originator, The Evolver, The One who creates from nothing without any prior model. Unlike human beings who need patterns, materials, or inspiration to create, Allah originates everything purely by His command 'Be' — and it comes into existence. This Name shows Allah’s perfection in creating everything in balance and harmony. He brings life into existence stage by stage, forming each being with precision, proportion, and wisdom.",
+        "lesson": "The lesson of Al-Bāriʾ is that we should live in harmony, just as Allah created everything in perfect balance. We should also recognize that our life is not random—it has purpose and meaning defined by Allah.",
+        "virtues": "Reciting 'Yā Bāriʾ' brings spiritual and physical healing, relieves inner worries, and removes negativity from the soul.",
+        "wazifa": "1) Recite 'Yā Bāriʾ' 100 times after Fajr prayer for health and healing. 2) Recite it 214 times daily for ease in difficulties and relief. 3) Recite abundantly while making du‘ā for purity of the heart and protection from sins."
+      },
+      "urdu": {
+        "name": "ٱلْبَارِئ – پہلی بار وجود میں لانے والا",
+        "details": "ٱلْبَارِئ کا مطلب ہے پہلی بار وجود میں لانے والا، اصل پیدا کرنے والا۔ انسان جب کچھ بناتا ہے تو اسے مواد، نمونہ یا ڈیزائن چاہیے ہوتا ہے، لیکن اللہ بغیر کسی نمونے کے چیزوں کو محض اپنے حکم سے پیدا کرتا ہے۔ یہ نام اللہ کی کامل قدرت اور حکمت کو ظاہر کرتا ہے۔ وہ ہر چیز کو توازن، ترتیب اور حسن کے ساتھ مرحلہ وار وجود بخشتا ہے۔",
+        "lesson": "ہمیں اپنی زندگی میں بھی توازن اور ہم آہنگی قائم رکھنی چاہیے۔ ہماری زندگی کا مقصد اللہ کی عبادت اور اس کے حکم کے مطابق جینا ہے۔",
+        "virtues": "یَا بَارِئ کا ورد دل کو سکون دیتا ہے، بیماریوں سے شفا بخشتا ہے اور دل و روح کو پاک کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد روزانہ 100 مرتبہ پڑھنے والا بیماریوں سے محفوظ رہتا ہے۔ 2) روزانہ 214 مرتبہ پڑھنے والا مشکلات سے نجات پاتا ہے۔ 3) دعا کے وقت کثرت سے پڑھنے والا دل و روح کی پاکیزگی حاصل کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "arabic": "ٱلْمُصَوِّرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muṣawwir – The Fashioner, The Bestower of Forms",
+        "details": "Al-Muṣawwir means The Fashioner, The Bestower of Forms, The Giver of Shape and Beauty. Allah not only creates (Al-Khāliq) and originates (Al-Bāriʾ), but He also gives everything its distinct shape, form, and identity. Every creature is designed uniquely with perfection—from the patterns on a butterfly’s wings to the fingerprints of humans. This Name shows Allah’s artistry, creativity, and limitless wisdom in granting beauty, diversity, and uniqueness to creation.",
+        "lesson": "We should never mock or belittle someone’s looks, for Allah shaped each soul uniquely. Instead, we should spread positivity, accept ourselves, and value diversity as part of Allah’s plan.",
+        "virtues": "Reciting 'Yā Muṣawwir' fills the heart with inner light, removes negativity, and grants both inner and outer beauty.",
+        "wazifa": "1) Recite 'Yā Muṣawwir' 336 times daily for inner and outer beauty. 2) Recite it after Fajr for self-acceptance and gratitude. 3) Recite abundantly before starting a new task for barakah and completion."
+      },
+      "urdu": {
+        "name": "ٱلْمُصَوِّر – صورت دینے والا اور حسن عطا کرنے والا",
+        "details": "ٱلْمُصَوِّر کا مطلب ہے صورت دینے والا، شکل بنانے والا اور حسن عطا کرنے والا۔ اللہ نہ صرف پیدا کرتا ہے (الخالق) اور وجود میں لاتا ہے (البارئ) بلکہ وہ ہر مخلوق کو ایک خاص شکل، شناخت اور خوبصورتی عطا کرتا ہے۔ انسان کی انگلیوں کے نشان سے لے کر تتلی کے پروں تک ہر چیز اُس کی تخلیق کا شاہکار ہے۔ یہ نام اللہ کی فنکاری، حکمت اور قدرت کو ظاہر کرتا ہے کہ اُس نے ہر مخلوق کو الگ اور خوبصورت بنایا ہے۔",
+        "lesson": "کسی کے حسن یا شکل کا مذاق نہ اڑائیں، بلکہ ہر مخلوق کو اللہ کی نشانی سمجھیں۔ اپنی ذات کو قبول کریں اور دوسروں کی قدر کریں۔",
+        "virtues": "یَا مُصَوِّر کا ورد دل کو نور، سکون اور اندرونی و بیرونی حسن عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 336 مرتبہ پڑھنے والا دل و جسمانی حسن پاتا ہے۔ 2) فجر کے بعد پڑھنے والا احساسِ کمتری سے نجات پاتا ہے۔ 3) نیا کام شروع کرنے سے پہلے کثرت سے پڑھنے والا اپنے کام میں برکت اور تکمیل پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "arabic": "ٱلْغَفَّارُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ghaffār – The Constant Forgiver",
+        "details": "Al-Ghaffār means The Constant Forgiver, The One who forgives again and again. Allah forgives sins no matter how many times His servant returns to Him in repentance. His forgiveness is limitless, vast, and never-ending. Unlike human beings who may tire of forgiving, Allah’s mercy and forgiveness never stop. This Name highlights Allah’s attribute of mercy and His willingness to pardon His servants if they sincerely repent, regardless of the size or frequency of their sins.",
+        "lesson": "We should seek forgiveness regularly, remain humble, and never despair of Allah’s mercy. Also, we should learn to forgive others and not hold grudges, reflecting Allah’s attribute of forgiveness.",
+        "virtues": "Reciting 'Yā Ghaffār' softens the heart, erases sins, and brings closeness to Allah.",
+        "wazifa": "1) Recite 'Yā Ghaffār' 100 times after each prayer for forgiveness of sins. 2) Recite it abundantly in tahajjud to find Allah’s mercy open. 3) Recite 1281 times to remove hardness from the heart and gain humility."
+      },
+      "urdu": {
+        "name": "ٱلْغَفَّارُ – بار بار معاف کرنے والا",
+        "details": "ٱلْغَفَّارُ کا مطلب ہے بار بار معاف کرنے والا، ہمیشہ بخشنے والا۔ اللہ اپنے بندوں کے گناہ کتنے ہی زیادہ کیوں نہ ہوں، اگر وہ سچے دل سے توبہ کریں تو اللہ بار بار معاف کرتا ہے۔ انسان ایک یا دو بار معاف کرتا ہے مگر اللہ کی مغفرت لامحدود ہے۔ یہ نام اللہ کی رحمت اور کرم کو ظاہر کرتا ہے کہ وہ اپنے بندوں کی خطائیں ڈھانپ لیتا ہے اور ان کی عزت کو محفوظ رکھتا ہے۔",
+        "lesson": "ہمیں اللہ سے بار بار معافی مانگنی چاہیے، عاجزی اختیار کرنی چاہیے اور دوسروں کو بھی معاف کرنا سیکھنا چاہیے۔",
+        "virtues": "یَا غَفَّار کا ورد دل کو نرم کرتا ہے، گناہوں کو مٹاتا ہے اور اللہ کے قریب لے جاتا ہے۔",
+        "wazifa": "1) ہر نماز کے بعد 100 مرتبہ پڑھنے والا گناہوں کی معافی پاتا ہے۔ 2) تہجد میں پڑھنے والا اللہ کی مغفرت اور رحمت کا دروازہ کھلا پاتا ہے۔ 3) 1281 مرتبہ پڑھنے والا دل کی سختی سے نجات پاتا ہے اور عاجزی حاصل کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "arabic": "ٱلْقَهَّارُ",
+    "translations": {
+      "english": {
+        "name": "Al-Qahhār – The Subduer, The Ever-Dominating",
+        "details": "Al-Qahhār means The Subduer, The Irresistible, The One who has absolute power over everything and everyone. Allah dominates all creation with His supreme authority. Nothing can resist His will or escape His command. He subdues the oppressors, controls the arrogant, and humbles all beings before Him. This Name shows Allah’s majesty and power that overcomes all else. Every king, ruler, or strong being is under His dominion. No matter how powerful someone seems, they are weak before Al-Qahhār.",
+        "lesson": "We should remain humble, knowing Allah is the only irresistible authority. We should never misuse power, remembering that Allah can subdue anyone at any moment.",
+        "virtues": "Reciting 'Yā Qahhār' strengthens the heart, protects against enemies, and helps overcome sinful desires.",
+        "wazifa": "1) Recite 'Yā Qahhār' 306 times daily for protection from enemies. 2) Recite abundantly after Fajr for control over the ego. 3) Recite in times of fear for courage and strength."
+      },
+      "urdu": {
+        "name": "ٱلْقَهَّارُ – سب پر غالب آنے والا",
+        "details": "ٱلْقَهَّارُ کا مطلب ہے زبردست قابو پانے والا، سب پر غالب آنے والا۔ اللہ کی قدرت سب پر حاوی ہے۔ کوئی بھی اُس کے حکم کو ٹال نہیں سکتا اور نہ ہی اُس کی مرضی کے خلاف چل سکتا ہے۔ وہ ظالموں کو ذلیل کرتا ہے اور مغروروں کو توڑ دیتا ہے۔ دنیا کے بڑے سے بڑے بادشاہ اور طاقتور لوگ بھی اُس کے سامنے بے بس ہیں۔",
+        "lesson": "ہمیں عاجزی اختیار کرنی چاہیے اور طاقت کا غلط استعمال نہیں کرنا چاہیے کیونکہ اللہ کسی بھی وقت انسان کو ذلیل کر سکتا ہے۔",
+        "virtues": "یَا قَهَّار کا ورد دل کو طاقت دیتا ہے، دشمنوں سے بچاتا ہے اور نفس پر قابو عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 306 مرتبہ پڑھنے والا دشمنوں کے شر سے محفوظ رہتا ہے۔ 2) فجر کے بعد کثرت سے پڑھنے والا اپنے نفس پر قابو پاتا ہے۔ 3) خوف یا کمزوری کے وقت پڑھنے والا دل میں طاقت اور ہمت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "arabic": "ٱلْوَهَّابُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wahhāb – The Giver of Gifts",
+        "details": "Al-Wahhāb means The Giver of Gifts, The Bestower. Allah gives endlessly without expecting anything in return. His giving is out of pure mercy, not because we deserve it. From life, health, family, and knowledge to unseen blessings, all are gifts of Al-Wahhāb.",
+        "lesson": "We should be generous like Allah loves generosity. When He gives freely, we too should give without expecting return.",
+        "virtues": "Reciting 'Yā Wahhāb' opens the doors of rizq, blessings, and unexpected gifts.",
+        "wazifa": "1) Recite 'Yā Wahhāb' 40 times daily after prayer for rizq. 2) Recite 300 times in tahajjud for spouse or children. 3) Begin duʿā with 'Yā Wahhāb' for acceptance."
+      },
+      "urdu": {
+        "name": "ٱلْوَهَّابُ – بخشنے والا، عطا کرنے والا",
+        "details": "ٱلْوَهَّابُ کا مطلب ہے بخشنے والا، عطا کرنے والا۔ اللہ اپنے بندوں کو بے شمار نعمتیں دیتا ہے چاہے وہ شکر گزار ہوں یا نافرمان۔ اُس کی عطا بے حد ہے اور محض اُس کے کرم سے ہے۔",
+        "lesson": "ہمیں بھی سخاوت اختیار کرنی چاہیے اور دوسروں کو بغیر لالچ کے دینا چاہیے۔",
+        "virtues": "یَا وَهَّاب کا ورد دروازے کھولتا ہے اور غیب سے عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ نماز کے بعد 40 مرتبہ پڑھنے والا رزق کی برکت پاتا ہے۔ 2) تہجد میں 300 مرتبہ پڑھنے والا نیک شریکِ حیات اور اولاد پاتا ہے۔ 3) دعا کی ابتدا میں پڑھنے والا قبولیت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "arabic": "ٱلرَّزَّاقُ",
+    "translations": {
+      "english": {
+        "name": "Ar-Razzāq – The Ever-Providing",
+        "details": "Ar-Razzāq means The Provider, The Sustainer. Allah provides sustenance to every creature on earth — humans, animals, birds, and insects. He provides food, health, wealth, and spiritual rizq like faith and knowledge.",
+        "lesson": "We should rely on Allah for provision and not degrade ourselves for dunya.",
+        "virtues": "Reciting 'Yā Razzāq' attracts rizq, removes poverty, and fills the heart with tawakkul.",
+        "wazifa": "1) Recite 'Yā Razzāq' 308 times daily for expansion in rizq. 2) Recite after Fajr for jobs and halal income. 3) Recite abundantly to remove poverty."
+      },
+      "urdu": {
+        "name": "ٱلرَّزَّاقُ – رزق دینے والا",
+        "details": "ٱلرَّزَّاقُ کا مطلب ہے رزق دینے والا، پرورش کرنے والا۔ اللہ ہر مخلوق کو کھلاتا اور سنبھالتا ہے۔ اُس کا رزق دنیاوی بھی ہے اور روحانی بھی۔",
+        "lesson": "ہمیں صرف اللہ پر بھروسہ رکھنا چاہیے اور حلال پر قناعت کرنی چاہیے۔",
+        "virtues": "یَا رَزَّاق کا ورد فقر دور کرتا ہے اور رزق میں برکت دیتا ہے۔",
+        "wazifa": "1) روزانہ 308 مرتبہ پڑھنے والا رزق میں وسعت پاتا ہے۔ 2) فجر کے بعد پڑھنے والا روزگار میں کامیاب ہوتا ہے۔ 3) کثرت سے پڑھنے والا فقر سے نجات پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "arabic": "ٱلْفَتَّاحُ",
+    "translations": {
+      "english": {
+        "name": "Al-Fattāḥ – The Opener, The Judge",
+        "details": "Al-Fattāḥ means The Opener, The Judge, The Granter of Victory. Allah opens closed doors, solves problems, and grants victory to truth. He judges between people with justice.",
+        "lesson": "We should turn to Allah when doors seem closed and seek His help in all matters.",
+        "virtues": "Reciting 'Yā Fattāḥ' brings success, solutions, and relief from worries.",
+        "wazifa": "1) Recite 'Yā Fattāḥ' 71 times daily for solutions. 2) Recite before exams or jobs for success. 3) Abundant recitation brings inner peace."
+      },
+      "urdu": {
+        "name": "ٱلْفَتَّاحُ – کھولنے والا، فیصلہ کرنے والا",
+        "details": "ٱلْفَتَّاحُ کا مطلب ہے کھولنے والا، فیصلہ کرنے والا، فتح دینے والا۔ اللہ دلوں کو کھولتا ہے، مشکلات آسان کرتا ہے اور حق کو فتح دیتا ہے۔",
+        "lesson": "بند دروازوں کے وقت اللہ ہی سے رجوع کریں۔",
+        "virtues": "یَا فَتَّاح کا ورد مشکلات کو آسان کرتا ہے اور کامیابی عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 71 مرتبہ پڑھنے والا مشکلات سے نکلتا ہے۔ 2) اہم کام یا امتحان سے پہلے پڑھنے والا کامیابی پاتا ہے۔ 3) کثرت سے پڑھنے والا دل کا سکون پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "arabic": "ٱلْعَلِيمُ",
+    "translations": {
+      "english": {
+        "name": "Al-ʿAlīm – The All-Knowing",
+        "details": "Al-ʿAlīm means The All-Knowing, The Omniscient. Allah’s knowledge covers everything — past, present, future, hidden and seen. Nothing escapes His knowledge.",
+        "lesson": "We should act sincerely, knowing Allah sees and knows everything.",
+        "virtues": "Reciting 'Yā ʿAlīm' increases knowledge, wisdom, and understanding.",
+        "wazifa": "1) Recite 'Yā ʿAlīm' 100 times after Fajr for knowledge. 2) Recite before studying for ease in learning. 3) Recite abundantly for purification of the heart."
+      },
+      "urdu": {
+        "name": "ٱلْعَلِيمُ – سب کچھ جاننے والا",
+        "details": "ٱلْعَلِيمُ کا مطلب ہے سب کچھ جاننے والا، علم والا۔ اللہ ہر ظاہر و باطن، ماضی، حال اور مستقبل کو جانتا ہے۔ کوئی چیز اُس کے علم سے باہر نہیں۔",
+        "lesson": "اعمال میں اخلاص رکھیں کیونکہ اللہ سب جانتا ہے۔",
+        "virtues": "یَا عَلِيم کا ورد علم و حکمت میں اضافہ کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد 100 مرتبہ پڑھنے والا علم پاتا ہے۔ 2) پڑھائی سے پہلے پڑھنے والا سمجھ بوجھ حاصل کرتا ہے۔ 3) کثرت سے پڑھنے والا دل کا نور حاصل کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "arabic": "ٱلْقَابِضُ",
+    "translations": {
+      "english": {
+        "name": "Al-Qābiḍ – The Withholder",
+        "details": "Al-Qābiḍ means The Withholder, The Restrainer. Allah withholds provision, health, or opportunities for wisdom and purpose. Sometimes, restriction is a blessing that protects us from harm.",
+        "lesson": "We should be patient when things are withheld and trust Allah’s wisdom.",
+        "virtues": "Reciting 'Yā Qābiḍ' strengthens patience and contentment.",
+        "wazifa": "1) Recite 'Yā Qābiḍ' 10 times daily in hardship. 2) Recite abundantly for relief from debt. 3) Recite before sleeping for protection."
+      },
+      "urdu": {
+        "name": "ٱلْقَابِضُ – روکنے والا",
+        "details": "ٱلْقَابِضُ کا مطلب ہے روکنے والا، قبضہ کرنے والا۔ اللہ کبھی رزق، صحت یا مواقع کو روکتا ہے مگر اُس میں حکمت اور بھلائی ہوتی ہے۔ بعض اوقات روکنا ہی حفاظت اور رحمت ہوتی ہے۔",
+        "lesson": "مشکل وقت میں صبر کریں اور اللہ کی حکمت پر یقین رکھیں۔",
+        "virtues": "یَا قَابِض کا ورد صبر عطا کرتا ہے اور دل کو قناعت بخشتا ہے۔",
+        "wazifa": "1) مشکل میں روزانہ 10 مرتبہ پڑھنے والا صبر پاتا ہے۔ 2) قرض یا تنگی میں پڑھنے والا آسانی پاتا ہے۔ 3) سونے سے پہلے پڑھنے والا حفاظت میں رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "arabic": "ٱلْبَاسِطُ",
+    "translations": {
+      "english": {
+        "name": "Al-Bāsiṭ – The Extender",
+        "details": "Al-Bāsiṭ means The Extender, The Expander, The One who stretches out provision, mercy, knowledge, and hearts. Allah is the One who expands sustenance for whom He wills, who widens the chest with faith, and who extends ease after hardship. This Name is the opposite of Al-Qābiḍ (The Withholder). Sometimes Allah withholds for wisdom, and other times He expands for mercy. Both are necessary — like night and day — to balance human life.",
+        "lesson": "We should never despair in tight situations, because Al-Bāsiṭ can turn hardship into ease instantly. Also, when Allah expands our rizq or blessings, we must share generously with others.",
+        "virtues": "Reciting 'Yā Bāsiṭ' opens doors of rizq, expands the heart with faith, and increases barakah in life.",
+        "wazifa": "1) Recite 'Yā Bāsiṭ' 10 times after Fajr prayer, with open hands; Allah increases provision and barakah. 2) Recite 'Yā Bāsiṭ' 100 times daily; Allah removes anxiety and fills the heart with peace. 3) Recite 'Yā Bāsiṭ' abundantly after Tahajjud; Allah expands the heart with light and knowledge."
+      },
+      "urdu": {
+        "name": "ٱلْبَاسِطُ – کشادہ کرنے والا",
+        "details": "ٱلْبَاسِطُ کا مطلب ہے کشادہ کرنے والا، پھیلانے والا، وسعت دینے والا۔ اللہ جسے چاہے روزی میں وسعت دیتا ہے، جس کے دل کو چاہے ایمان اور سکون سے بھر دیتا ہے، اور جس کی زندگی چاہے خوشیوں سے کشادہ کر دیتا ہے۔ یہ نام ٱلْقَابِضُ (روکنے والا) کا الٹ ہے۔ کبھی اللہ حکمت سے تنگی دیتا ہے اور کبھی اپنی رحمت سے وسعت۔ دونوں ہی انسان کی بھلائی کے لیے ہیں۔",
+        "lesson": "جب اللہ ہمیں کشادگی عطا کرے تو ہمیں شکر ادا کرنا چاہیے اور دوسروں کے ساتھ بھی بانٹنا چاہیے۔",
+        "virtues": "یَا بَاسِط کا ورد دل کو سکون دیتا ہے، رزق میں اضافہ کرتا ہے اور روحانی ترقی عطا کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد ہاتھ کھول کر 10 مرتبہ 'یَا بَاسِط' پڑھنے والا رزق کی وسعت پاتا ہے۔ 2) روزانہ 100 مرتبہ پڑھنے والا غموں سے نجات اور دل کا سکون پاتا ہے۔ 3) تہجد کے بعد کثرت سے پڑھنے والا دل کے نور اور علم میں اضافہ پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "arabic": "ٱلْخَافِضُ",
+    "translations": {
+      "english": {
+        "name": "Al-Khāfiḍ – The Reducer, The Abaser",
+        "details": "Al-Khāfiḍ means The One who lowers, The Abaser, The One who brings down arrogance and false pride. Allah lowers whomever He wills — whether kings, nations, or individuals — and humiliates those who rebel against Him. This Name also reminds us of balance: just as Allah raises (Ar-Rāfiʿ), He also lowers. Those who are arrogant are brought down, and those who are humble are raised in honor.",
+        "lesson": "We should remain humble and avoid arrogance, because pride leads to downfall. True honor comes from Allah alone.",
+        "virtues": "Reciting 'Yā Khāfiḍ' protects from arrogance, keeps the heart soft, and safeguards from humiliation on the Day of Judgment.",
+        "wazifa": "1) Recite 'Yā Khāfiḍ' 500 times daily; Allah removes pride and grants sincerity. 2) Recite 'Yā Khāfiḍ' 70 times in sajdah; Allah lowers the enemies and protects the believer. 3) Recite 'Yā Khāfiḍ' abundantly; Allah protects from disgrace and keeps dignity intact."
+      },
+      "urdu": {
+        "name": "ٱلْخَافِضُ – گھٹانے والا",
+        "details": "ٱلْخَافِضُ کا مطلب ہے گھٹانے والا، ذلیل کرنے والا، نیچا کرنے والا۔ اللہ جسے چاہے نیچا کر دیتا ہے، چاہے وہ بادشاہ ہو یا طاقتور، اگر وہ غرور کرے تو اللہ اُسے ذلیل کر دیتا ہے۔ یہ نام ہمیں یاد دلاتا ہے کہ جس طرح اللہ بلند کرتا ہے (ٱلرَّافِعُ)، ویسے ہی وہ گھٹاتا بھی ہے۔ مغرور ذلیل کیا جاتا ہے اور عاجز کو بلند کیا جاتا ہے۔",
+        "lesson": "غرور سے بچو اور عاجزی اختیار کرو، کیونکہ تکبر انسان کو ذلت میں لے جاتا ہے۔",
+        "virtues": "یَا خَافِض کا ورد انسان کو عاجزی دیتا ہے اور قیامت کے دن ذلت سے بچاتا ہے۔",
+        "wazifa": "1) روزانہ 500 مرتبہ پڑھنے والا غرور سے بچتا ہے اور اخلاص پاتا ہے۔ 2) سجدے میں 70 مرتبہ پڑھنے والا دشمنوں کے شر سے محفوظ رہتا ہے۔ 3) کثرت سے پڑھنے والا دنیا و آخرت کی ذلت سے بچتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "arabic": "ٱلْرَّافِعُ",
+    "translations": {
+      "english": {
+        "name": "Ar-Rāfiʿ – The Exalter",
+        "details": "Ar-Rāfiʿ means The One who raises, The Exalter, The Uplifter. Allah is the One who elevates whom He wills — in rank, honor, and status — both in this world and the Hereafter. He raises the humble and the righteous and grants them dignity, knowledge, and nearness to Him. This Name is often mentioned alongside Al-Khāfiḍ (The Reducer). Where Allah lowers the arrogant, He raises the humble and sincere.",
+        "lesson": "We should remain humble, seek nearness to Allah, and strive for deeds that raise our rank in the Hereafter.",
+        "virtues": "Reciting 'Yā Rāfiʿ' removes hardships, increases respect, and raises one’s spiritual rank.",
+        "wazifa": "1) Recite 'Yā Rāfiʿ' 100 times daily; Allah grants dignity among people. 2) Recite 'Yā Rāfiʿ' after Tahajjud; Allah elevates the soul and increases closeness to Him. 3) Before starting a difficult task, recite 'Yā Rāfiʿ' 70 times; Allah grants success and ease."
+      },
+      "urdu": {
+        "name": "ٱلْرَّافِعُ – بلند کرنے والا",
+        "details": "ٱلْرَّافِعُ کا مطلب ہے بلند کرنے والا، عزت دینے والا۔ اللہ جسے چاہے بلند کرتا ہے، چاہے دنیاوی عزت ہو یا آخرت میں درجہ۔ وہ عاجزوں کو بلند کرتا ہے اور مغروروں کو گرا دیتا ہے۔ یہ نام ٱلْخَافِضُ (گھٹانے والا) کے ساتھ توازن رکھتا ہے۔ اللہ مغرور کو نیچا کرتا ہے اور عاجز کو عزت دیتا ہے۔",
+        "lesson": "ہمیں عاجزی اختیار کرنی چاہیے اور وہ اعمال کرنے چاہئیں جو ہمیں آخرت میں بلند درجہ دلائیں۔",
+        "virtues": "یَا رَافِع کا ورد عزت عطا کرتا ہے اور درجات بلند کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ پڑھنے والا عزت اور وقار پاتا ہے۔ 2) تہجد کے بعد پڑھنے والا روحانی ترقی پاتا ہے۔ 3) مشکل کام سے پہلے 70 مرتبہ پڑھنے والا کامیابی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "arabic": "ٱلْمُعِزُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Muʿizz – The Honourer",
+        "details": "Al-Muʿizz means The Honourer, The Bestower of Might. Allah is the One who grants honor, dignity, and power to whom He wills. He gives strength to nations, families, and individuals, and He is the source of all respect. This Name is often mentioned with Al-Mudhill (The Dishonorer). Allah alone decides who will be honored and who will be humiliated.",
+        "lesson": "We should seek Allah’s pleasure, because true honor is in His obedience, not in wealth or status.",
+        "virtues": "Reciting 'Yā Muʿizz' grants respect, victory, and strength in both worlds.",
+        "wazifa": "1) Recite 'Yā Muʿizz' 140 times after Isha; Allah grants respect among people. 2) Recite 'Yā Muʿizz' 41 times daily; Allah protects family honor and dignity. 3) In times of injustice, recite abundantly; Allah grants strength and victory."
+      },
+      "urdu": {
+        "name": "ٱلْمُعِزُّ – عزت دینے والا",
+        "details": "ٱلْمُعِزُّ کا مطلب ہے عزت دینے والا، طاقت عطا کرنے والا۔ اللہ جسے چاہے عزت دیتا ہے اور جسے چاہے ذلت دیتا ہے۔ وہ قوموں کو طاقت دیتا ہے اور پھر ان کی نافرمانی پر ذلیل بھی کر دیتا ہے۔ یہ نام ٱلْمُذِلُّ (ذلیل کرنے والا) کے ساتھ ذکر کیا جاتا ہے تاکہ انسان سمجھے کہ اصل عزت اور ذلت صرف اللہ کے ہاتھ میں ہے۔",
+        "lesson": "اصل عزت اللہ کی اطاعت اور خوشنودی میں ہے، نہ کہ دولت یا شہرت میں۔",
+        "virtues": "یَا مُعِز کا ورد عزت، طاقت اور کامیابی عطا کرتا ہے۔",
+        "wazifa": "1) عشاء کے بعد 140 مرتبہ پڑھنے والا عزت پاتا ہے۔ 2) روزانہ 41 مرتبہ پڑھنے والا خاندان کی عزت کی حفاظت پاتا ہے۔ 3) ظلم کے وقت کثرت سے پڑھنے والا طاقت اور کامیابی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "arabic": "ٱلْمُذِلُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Mudhill – The Dishonorer",
+        "details": "\"Al-Mudhill\" means The Dishonorer, The Humiliator, The One who brings disgrace and lowers whomever He wills. Allah strips away honor, power, and respect from those who rebel, disobey, or are arrogant. Just as He grants honor through His Name Al-Muʿizz, He also humiliates through Al-Mudhill. This balance shows that true honor and disgrace are in Allah’s hands alone.",
+        "lesson": "We should never be arrogant or rely on worldly status, because honor and disgrace belong only to Allah. The one who seeks honor through disobedience will ultimately be humiliated.",
+        "virtues": "Reciting 'Yā Mudhill' protects a believer from humiliation, defeats enemies, and keeps dignity safe in the Hereafter.",
+        "wazifa": "1) For Protection from Enemies: Recite 'Yā Mudhill' 75 times daily; Allah disgraces the enemies and protects the believer. 2) For Safety from Humiliation: Whoever recites 'Yā Mudhill' abundantly, Allah safeguards him from worldly and spiritual disgrace. 3) For Justice: In times of oppression, recite 'Yā Mudhill' sincerely; Allah humiliates the tyrant and grants relief."
+      },
+      "urdu": {
+        "name": "ٱلْمُذِلُّ – ذلیل کرنے والا",
+        "details": "ٱلْمُذِلُّ کا مطلب ہے ذلیل کرنے والا، رسوا کرنے والا۔ اللہ جسے چاہے عزت دیتا ہے (ٱلْمُعِزُّ) اور جسے چاہے ذلیل کرتا ہے۔ وہ مغروروں کو ذلیل کرتا ہے، نافرمانوں کو رسوا کرتا ہے اور ظالموں کی طاقت چھین لیتا ہے۔ یہ نام ہمیں یہ یاد دلاتا ہے کہ اصل عزت اور ذلت صرف اللہ کے ہاتھ میں ہے، دنیا کے مال یا طاقت سے نہیں۔",
+        "lesson": "ہمیں غرور اور تکبر سے بچنا چاہیے اور یہ سمجھنا چاہیے کہ عزت یا ذلت کسی انسان کے اختیار میں نہیں بلکہ صرف اللہ کے ہاتھ میں ہے۔",
+        "virtues": "'یَا مُذِل' کا ورد دشمنوں سے حفاظت دیتا ہے، ذلت سے بچاتا ہے اور آخرت میں عزت عطا کرتا ہے۔",
+        "wazifa": "1) دشمنوں کے شر سے بچنے کے لیے روزانہ 75 مرتبہ 'یَا مُذِل' پڑھیں۔ اللہ دشمن کو ذلیل کرتا ہے اور مومن کی حفاظت فرماتا ہے۔ 2) ذلت سے بچنے کے لیے کثرت سے 'یَا مُذِل' پڑھنے والا عزت میں محفوظ رہتا ہے۔ 3) ظلم کے وقت اخلاص سے 'یَا مُذِل' پڑھنے والا ظالم سے نجات پاتا ہے اور اللہ اُسے ذلیل کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "arabic": "ٱلسَّمِيعُ",
+    "translations": {
+      "english": {
+        "name": "As-Samīʿ – The All-Hearing",
+        "details": "\"As-Samīʿ\" means The All-Hearing. Allah hears everything — every sound, every whisper, every prayer, and even what is hidden in the hearts. His hearing is perfect, unlimited, and nothing escapes His notice. Unlike human beings who may fail to hear or misunderstand, Allah hears all languages, all voices, and all thoughts without confusion or limitation.",
+        "lesson": "We should be careful with our words and intentions, knowing that Allah hears everything. It should encourage us to call upon Him with sincerity, since every duʿā, even whispered in the heart, is heard by Him.",
+        "virtues": "Reciting 'Yā Samīʿ' strengthens duʿā acceptance, protects from heedlessness, and increases awareness that Allah is always listening.",
+        "wazifa": "1) For Duʿā Acceptance: Recite 'Yā Samīʿ' 100 times before making duʿā; Allah answers prayers. 2) For Protection from Harmful Speech: Recite 'Yā Samīʿ' abundantly; Allah protects from gossip, lies, and slander. 3) For Inner Peace: Whoever recites 'Yā Samīʿ' regularly after Fajr feels tranquility and closeness to Allah."
+      },
+      "urdu": {
+        "name": "ٱلسَّمِيعُ – سب کچھ سننے والا",
+        "details": "ٱلسَّمِيعُ کا مطلب ہے سب کچھ سننے والا۔ اللہ ہر آواز، ہر سرگوشی، ہر دعا اور دل کے ہر راز کو سنتا ہے۔ اُس کی سماعت کامل اور لامحدود ہے۔ انسان کی طرح اللہ کو نہ کسی آواز میں الجھن ہوتی ہے اور نہ وہ کسی بات کو سننے سے قاصر رہتا ہے۔ وہ تمام زبانوں، آوازوں اور خیالات کو ایک ساتھ سنتا ہے۔",
+        "lesson": "ہمیں اپنی زبان اور نیت کو درست رکھنا چاہیے کیونکہ اللہ ہر بات اور ہر ارادے کو سنتا ہے۔ یہ ہمیں سچائی اور اخلاص کے ساتھ دعا کرنے کی ترغیب دیتا ہے۔",
+        "virtues": "'یَا سَمِيع' کا ورد دعا کی قبولیت بڑھاتا ہے، انسان کو غفلت سے بچاتا ہے اور یہ احساس دلاتا ہے کہ اللہ ہمیشہ سن رہا ہے۔",
+        "wazifa": "1) دعا کی قبولیت کے لیے دعا سے پہلے 100 مرتبہ 'یَا سَمِيع' پڑھیں۔ اللہ دعا قبول کرتا ہے۔ 2) بری باتوں اور لوگوں کی بد زبانی سے بچنے کے لیے کثرت سے 'یَا سَمِيع' پڑھیں۔ 3) فجر کے بعد 'یَا سَمِيع' کا ورد کرنے والا دل کا سکون اور اللہ کے قریب ہونے کا احساس پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "arabic": "ٱلْبَصِيرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Baṣīr – The All-Seeing",
+        "details": "\"Al-Baṣīr\" means The All-Seeing. Allah sees everything — the smallest atom in the heavens and the earth, the hidden deeds, the darkness of the night, and the secrets within hearts. Nothing is invisible to Him, whether it is apparent or concealed. His sight is perfect, complete, and beyond human limitations.",
+        "lesson": "We should remain conscious that Allah sees us at all times. This awareness should prevent us from sin and motivate us to act sincerely in worship and dealings.",
+        "virtues": "Reciting 'Yā Baṣīr' increases spiritual awareness, sharpens inner vision, and protects from heedlessness.",
+        "wazifa": "1) For Righteousness: Recite 'Yā Baṣīr' 100 times daily to remain mindful of Allah’s watch. 2) For Clarity of Vision: Whoever recites 'Yā Baṣīr' abundantly will gain inner clarity and wisdom. 3) For Protection from Sin: Recite 'Yā Baṣīr' before leaving home; Allah safeguards the eyes and actions from wrongdoing."
+      },
+      "urdu": {
+        "name": "ٱلْبَصِيرُ – سب کچھ دیکھنے والا",
+        "details": "ٱلْبَصِيرُ کا مطلب ہے سب کچھ دیکھنے والا۔ اللہ ہر چیز کو دیکھتا ہے، چاہے وہ زمین و آسمان میں ذرہ برابر ہو، رات کی تاریکی میں چھپی ہوئی بات ہو یا دل کا راز۔ اُس کی نظر کامل اور لامحدود ہے، اور کوئی چیز اُس سے پوشیدہ نہیں۔",
+        "lesson": "ہمیں ہمیشہ یہ یاد رکھنا چاہیے کہ اللہ ہمیں ہر وقت دیکھ رہا ہے۔ یہ یقین ہمیں گناہوں سے بچاتا ہے اور عبادات میں اخلاص پیدا کرتا ہے۔",
+        "virtues": "'یَا بَصِير' کا ورد روحانی شعور بڑھاتا ہے، بصیرت عطا کرتا ہے اور غفلت سے بچاتا ہے۔",
+        "wazifa": "1) نیکی پر قائم رہنے کے لیے روزانہ 100 مرتبہ 'یَا بَصِير' پڑھیں۔ 2) بصیرت اور سمجھ بوجھ کے لیے کثرت سے 'یَا بَصِير' پڑھنے والا حکمت پاتا ہے۔ 3) گناہوں سے حفاظت کے لیے گھر سے نکلنے سے پہلے 'یَا بَصِير' پڑھیں۔ اللہ آنکھوں اور اعمال کو گناہوں سے محفوظ رکھتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "arabic": "ٱلْحَكَمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥakam – The Judge, The Arbitrator",
+        "details": "\"Al-Ḥakam\" means The Judge, The Arbitrator, The One who decides with absolute justice. Allah judges between His servants with truth and fairness, and His rulings can never be overturned. Unlike human judges who may be biased or unjust, Allah’s judgment is perfect, final, and based on His complete knowledge of everything.",
+        "lesson": "We should trust Allah’s decisions in our lives and remember that ultimate justice will be served on the Day of Judgment. We should also strive to be just and fair in our dealings with others.",
+        "virtues": "Reciting 'Yā Ḥakam' increases fairness in character, removes confusion in decisions, and brings Allah’s guidance in matters of judgment.",
+        "wazifa": "1) For Justice: Recite 'Yā Ḥakam' 68 times daily; Allah grants fairness in dealings. 2) For Clarity in Decisions: Whoever recites 'Yā Ḥakam' abundantly will be guided to make the right choices. 3) For Protection from Injustice: Recite 'Yā Ḥakam' before facing disputes or trials; Allah protects from oppression."
+      },
+      "urdu": {
+        "name": "ٱلْحَكَمُ – فیصلہ کرنے والا، انصاف کرنے والا",
+        "details": "ٱلْحَكَمُ کا مطلب ہے فیصلہ کرنے والا، انصاف کرنے والا۔ اللہ اپنے بندوں کے درمیان عدل و انصاف کے ساتھ فیصلہ کرتا ہے، اور اُس کا فیصلہ حتمی ہوتا ہے جسے کوئی بدل نہیں سکتا۔ انسان کے فیصلے کمزور اور ناانصافی پر مبنی ہو سکتے ہیں لیکن اللہ کا فیصلہ کامل علم اور انصاف پر مبنی ہوتا ہے۔",
+        "lesson": "ہمیں اللہ کے فیصلوں پر بھروسہ رکھنا چاہیے اور یاد رکھنا چاہیے کہ قیامت کے دن کامل انصاف قائم ہوگا۔ ہمیں بھی اپنی زندگی میں عدل اور انصاف سے کام لینا چاہیے۔",
+        "virtues": "'یَا حَكَم' کا ورد کردار میں عدل پیدا کرتا ہے، فیصلوں میں رہنمائی دیتا ہے اور دل کی الجھنوں کو دور کرتا ہے۔",
+        "wazifa": "1) انصاف کے لیے روزانہ 68 مرتبہ 'یَا حَكَم' پڑھیں۔ 2) فیصلوں میں رہنمائی کے لیے کثرت سے 'یَا حَكَم' پڑھنے والا صحیح فیصلہ پاتا ہے۔ 3) ناانصافی اور ظلم سے بچنے کے لیے مقدمات یا مشکل حالات سے پہلے 'یَا حَكَم' پڑھیں۔"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "arabic": "ٱلْعَدْلُ",
+    "translations": {
+      "english": {
+        "name": "Al-ʿAdl – The Utterly Just",
+        "details": "\"Al-ʿAdl\" means The Utterly Just, The One whose justice is perfect and cannot be influenced. Allah gives everyone their due rights and never wrongs anyone. All of His commands, decrees, and judgments are rooted in absolute justice, even if we may not fully understand them.",
+        "lesson": "We should be fair in our words, actions, and decisions, remembering that Allah loves justice. We should avoid oppressing others and stand firm for truth even against ourselves or loved ones.",
+        "virtues": "Reciting 'Yā ʿAdl' removes injustice from one’s life, strengthens fairness in dealings, and protects from being wronged by others.",
+        "wazifa": "1) For Fairness in Dealings: Recite 'Yā ʿAdl' 104 times daily; Allah makes one just and respected. 2) For Protection from Injustice: Whoever recites 'Yā ʿAdl' abundantly will be safeguarded from oppressors. 3) For Family Harmony: Recite 'Yā ʿAdl' 20 times before speaking in disputes; Allah creates balance and peace."
+      },
+      "urdu": {
+        "name": "ٱلْعَدْلُ – کامل انصاف کرنے والا",
+        "details": "ٱلْعَدْلُ کا مطلب ہے کامل انصاف کرنے والا۔ اللہ کا انصاف کامل ہے اور کبھی متاثر نہیں ہوتا۔ وہ ہر ایک کو اُس کا حق دیتا ہے اور کسی پر ظلم نہیں کرتا۔ اُس کے تمام فیصلے اور احکام عدل پر مبنی ہوتے ہیں، چاہے انسان کی سمجھ میں آئیں یا نہ آئیں۔",
+        "lesson": "ہمیں اپنی زندگی میں انصاف سے کام لینا چاہیے، چاہے فیصلہ اپنے خلاف ہی کیوں نہ ہو۔ اللہ عدل کو پسند کرتا ہے اور ظلم کرنے والوں کو پسند نہیں کرتا۔",
+        "virtues": "'یَا عَدْل' کا ورد انسان کو عدل پسند بناتا ہے، ظلم سے بچاتا ہے اور دوسروں کے ساتھ انصاف کرنے کی توفیق دیتا ہے۔",
+        "wazifa": "1) معاملات میں انصاف کے لیے روزانہ 104 مرتبہ 'یَا عَدْل' پڑھیں۔ 2) ظلم سے حفاظت کے لیے کثرت سے 'یَا عَدْل' پڑھنے والا محفوظ رہتا ہے۔ 3) گھریلو جھگڑوں میں بولنے سے پہلے 20 مرتبہ 'یَا عَدْل' پڑھنے والا سکون اور توازن پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "arabic": "ٱلْلَّطِيفُ",
+    "translations": {
+      "english": {
+        "name": "Al-Laṭīf – The Subtle, The Most Gentle",
+        "details": "\"Al-Laṭīf\" means The Subtle, The Most Gentle, The One whose kindness is beyond comprehension. Allah provides for His servants in ways they cannot perceive, and His mercy reaches them with gentleness and care. He guides hearts with subtlety and brings relief in hidden ways.",
+        "lesson": "We should trust Allah’s plans even when we cannot see them. His wisdom is subtle, and His care reaches us in ways we don’t realize. We should also be gentle and kind in our dealings with others.",
+        "virtues": "Reciting 'Yā Laṭīf' brings hidden blessings, relief from worries, and softness in the heart.",
+        "wazifa": "1) For Relief in Hardships: Recite 'Yā Laṭīf' 129 times daily; Allah grants ease and hidden help. 2) For Rizq & Blessings: Whoever recites 'Yā Laṭīf' abundantly will find unexpected doors of provision opened. 3) For Heart Softness: Recite 'Yā Laṭīf' 133 times after Tahajjud; Allah fills the heart with compassion and light."
+      },
+      "urdu": {
+        "name": "ٱلْلَّطِيفُ – باریک بین، نہایت مہربان",
+        "details": "ٱلْلَّطِيفُ کا مطلب ہے باریک بین، نہایت مہربان۔ اللہ اپنے بندوں پر ایسے طریقوں سے کرم کرتا ہے جو انسان کی سمجھ سے باہر ہیں۔ وہ دلوں کو نرمی سے ہدایت دیتا ہے، اور اپنی رحمت سے چھپی ہوئی آسانیاں عطا کرتا ہے۔",
+        "lesson": "ہمیں اللہ کی حکمت پر بھروسہ رکھنا چاہیے، چاہے ہمیں فوراً سمجھ نہ آئے۔ وہ نہایت باریک بینی سے ہماری مدد کرتا ہے۔ ہمیں بھی دوسروں کے ساتھ نرمی اور مہربانی سے پیش آنا چاہیے۔",
+        "virtues": "'یَا لَطِيف' کا ورد دل کو نرم کرتا ہے، غیب سے برکت لاتا ہے اور غموں کو دور کرتا ہے۔",
+        "wazifa": "1) مشکلات میں آسانی کے لیے روزانہ 129 مرتبہ 'یَا لَطِيف' پڑھیں۔ 2) رزق اور برکت کے لیے کثرت سے 'یَا لَطِيف' پڑھنے والا غیب سے عطا پاتا ہے۔ 3) تہجد کے بعد 133 مرتبہ 'یَا لَطِيف' پڑھنے والا دل میں نور اور نرمی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "arabic": "ٱلْخَبِيرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Khabīr – The All-Aware",
+        "details": "\"Al-Khabīr\" means The All-Aware, The One who knows the reality of everything in detail. Allah is aware of what is hidden and what is open, what is in our hearts, our intentions, and our deeds. His awareness is complete and nothing escapes His knowledge.",
+        "lesson": "We should act sincerely, knowing Allah is fully aware of our inner thoughts and actions. This awareness should keep us humble, honest, and cautious from hypocrisy.",
+        "virtues": "Reciting 'Yā Khabīr' strengthens sincerity, grants awareness of the self, and protects from deceit.",
+        "wazifa": "1) For Sincerity: Recite 'Yā Khabīr' 100 times daily; Allah purifies intentions. 2) For Awareness: Whoever recites 'Yā Khabīr' abundantly before sleeping will gain wisdom and insight. 3) For Protection: Recite 'Yā Khabīr' 812 times in hardship; Allah grants safety from harm and treachery."
+      },
+      "urdu": {
+        "name": "ٱلْخَبِيرُ – باخبر، سب حقیقت جاننے والا",
+        "details": "ٱلْخَبِيرُ کا مطلب ہے باخبر، سب حقیقت جاننے والا۔ اللہ ہر ظاہر و باطن، دلوں کے ارادے اور نیتوں کو جانتا ہے۔ کوئی چیز اس کے علم اور خبر سے چھپی نہیں۔",
+        "lesson": "ہمیں ہر عمل اخلاص کے ساتھ کرنا چاہیے کیونکہ اللہ نیتوں اور دلوں کے حال سے واقف ہے۔ یہ یقین انسان کو ریاکاری سے بچاتا ہے۔",
+        "virtues": "'یَا خَبِير' کا ورد اخلاص عطا کرتا ہے، بصیرت بخشتا ہے اور دھوکے سے محفوظ رکھتا ہے۔",
+        "wazifa": "1) نیتوں کو پاک کرنے کے لیے روزانہ 100 مرتبہ 'یَا خَبِير' پڑھیں۔ 2) سونے سے پہلے کثرت سے 'یَا خَبِير' پڑھنے والا حکمت اور بصیرت پاتا ہے۔ 3) مشکل میں 812 مرتبہ 'یَا خَبِير' پڑھنے والا اللہ کی حفاظت میں رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "arabic": "ٱلْحَلِيمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥalīm – The Forbearing, The Most Patient",
+        "details": "\"Al-Ḥalīm\" means The Forbearing, The Most Patient. Allah does not punish immediately despite the sins of His servants. He grants them time to repent, forgives, and overlooks their faults. His patience and tolerance are beyond human imagination.",
+        "lesson": "We should be patient with others, control our anger, and give people chances to improve, just as Allah gives us countless chances.",
+        "virtues": "Reciting 'Yā Ḥalīm' softens the heart, grants patience, and removes anger.",
+        "wazifa": "1) For Controlling Anger: Recite 'Yā Ḥalīm' 100 times when angry; Allah calms the heart. 2) For Patience: Recite 'Yā Ḥalīm' 88 times daily; Allah grants sabr in difficulties. 3) For Protection from Harm: Whoever recites 'Yā Ḥalīm' abundantly will be safe from the harm of enemies and hardships."
+      },
+      "urdu": {
+        "name": "ٱلْحَلِيمُ – بردبار، سب سے زیادہ صبر کرنے والا",
+        "details": "ٱلْحَلِيمُ کا مطلب ہے بردبار، سب سے زیادہ صبر کرنے والا۔ اللہ بندوں کے گناہوں پر فوراً سزا نہیں دیتا بلکہ مہلت دیتا ہے تاکہ وہ توبہ کریں۔ اس کی بردباری اور حلم لامحدود ہے۔",
+        "lesson": "ہمیں بھی دوسروں پر صبر کرنا چاہیے، غصے کو قابو میں رکھنا چاہیے اور دوسروں کو سنبھلنے کا موقع دینا چاہیے جیسا کہ اللہ ہمیں موقع دیتا ہے۔",
+        "virtues": "'یَا حَلِيم' کا ورد دل کو نرم کرتا ہے، صبر عطا کرتا ہے اور غصے کو ختم کرتا ہے۔",
+        "wazifa": "1) غصہ کم کرنے کے لیے غصے کے وقت 100 مرتبہ 'یَا حَلِيم' پڑھیں۔ 2) صبر کے لیے روزانہ 88 مرتبہ 'یَا حَلِيم' پڑھنے والا مشکلات میں ثابت قدم رہتا ہے۔ 3) دشمنوں اور مصیبتوں سے حفاظت کے لیے کثرت سے 'یَا حَلِيم' پڑھنے والا محفوظ رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "arabic": "ٱلْعَظِيمُ",
+    "translations": {
+      "english": {
+        "name": "Al-ʿAẓīm – The Magnificent, The Supreme",
+        "details": "\"Al-ʿAẓīm\" means The Magnificent, The Supreme, The One whose greatness and majesty are beyond imagination. Everything in the heavens and the earth testifies to His greatness. His power, knowledge, and authority have no limits.",
+        "lesson": "We should recognize the greatness of Allah and remain humble, knowing that no matter how powerful we seem, Allah is far greater.",
+        "virtues": "Reciting 'Yā ʿAẓīm' increases respect, strengthens faith, and fills the heart with awe of Allah.",
+        "wazifa": "1) For Respect & Dignity: Recite 'Yā ʿAẓīm' 12 times daily; Allah grants honor among people. 2) For Strong Faith: Recite 'Yā ʿAẓīm' 100 times after Fajr; faith and yaqīn increase. 3) For Protection: Whoever recites 'Yā ʿAẓīm' abundantly will be protected from hardships and humiliations."
+      },
+      "urdu": {
+        "name": "ٱلْعَظِيمُ – عظیم، سب سے بلند",
+        "details": "ٱلْعَظِيمُ کا مطلب ہے عظیم، سب سے بلند، جلال والا۔ اللہ کی عظمت اور بزرگی کی کوئی حد نہیں۔ زمین و آسمان کی ہر چیز اس کی عظمت کی گواہی دیتی ہے۔ اس کی قدرت، علم اور اختیار لامحدود ہے۔",
+        "lesson": "ہمیں اللہ کی عظمت کو پہچان کر عاجزی اختیار کرنی چاہیے اور یہ یاد رکھنا چاہیے کہ ہم کتنے ہی طاقتور کیوں نہ ہوں، اللہ سب سے بڑا ہے۔",
+        "virtues": "'یَا عَظِيم' کا ورد عزت بڑھاتا ہے، ایمان مضبوط کرتا ہے اور دل کو اللہ کے خوف اور عظمت سے بھر دیتا ہے۔",
+        "wazifa": "1) عزت کے لیے روزانہ 12 مرتبہ 'یَا عَظِيم' پڑھنے والا لوگوں میں عزت پاتا ہے۔ 2) ایمان کی مضبوطی کے لیے فجر کے بعد 100 مرتبہ پڑھنے والا یقین میں اضافہ پاتا ہے۔ 3) حفاظت کے لیے کثرت سے پڑھنے والا مشکلات اور ذلت سے محفوظ رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "arabic": "ٱلْغَفُورُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ghafūr – The All-Forgiving",
+        "details": "\"Al-Ghafūr\" means The All-Forgiving, The One who forgives sins again and again, no matter how great they are. His forgiveness covers faults, erases sins, and brings mercy to those who sincerely repent. Unlike humans, Allah never tires of forgiving His servants.",
+        "lesson": "We should never despair of Allah’s mercy, no matter how sinful we have been. Instead, we must repent sincerely and seek His forgiveness. We should also forgive others and not hold grudges.",
+        "virtues": "Reciting 'Yā Ghafūr' erases sins, brings peace of heart, and draws a person closer to Allah’s mercy.",
+        "wazifa": "1) For Forgiveness: Recite 'Yā Ghafūr' 100 times after Isha; Allah forgives past sins. 2) For Inner Peace: Recite 'Yā Ghafūr' abundantly in solitude; Allah fills the heart with sakīnah. 3) For Acceptance of Repentance: Recite 'Yā Ghafūr' 1000 times in tahajjud; Allah opens the doors of mercy."
+      },
+      "urdu": {
+        "name": "ٱلْغَفُورُ – سب سے زیادہ بخشنے والا",
+        "details": "ٱلْغَفُورُ کا مطلب ہے سب سے زیادہ بخشنے والا، جو بار بار گناہوں کو معاف کرتا ہے چاہے وہ کتنے ہی بڑے کیوں نہ ہوں۔ اللہ اپنے بندوں کی خطاؤں کو ڈھانپ لیتا ہے اور سچی توبہ کرنے والوں کو معاف کر دیتا ہے۔ انسان تھک جاتا ہے مگر اللہ کی مغفرت کبھی ختم نہیں ہوتی۔",
+        "lesson": "ہمیں کبھی اللہ کی رحمت سے مایوس نہیں ہونا چاہیے۔ سچے دل سے توبہ کرنی چاہیے اور دوسروں کو بھی معاف کرنا چاہیے۔",
+        "virtues": "'یَا غَفُور' کا ورد گناہوں کو مٹا دیتا ہے، دل کو سکون دیتا ہے اور اللہ کی رحمت کے قریب کر دیتا ہے۔",
+        "wazifa": "1) مغفرت کے لیے عشاء کے بعد 100 مرتبہ 'یَا غَفُور' پڑھنے والا اپنے گناہوں کی معافی پاتا ہے۔ 2) دل کے سکون کے لیے تنہائی میں کثرت سے پڑھنے والا سکینت پاتا ہے۔ 3) قبولِ توبہ کے لیے تہجد میں 1000 مرتبہ پڑھنے والا اللہ کی رحمت کے دروازے کھلے پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "arabic": "ٱلشَّكُورُ",
+    "translations": {
+      "english": {
+        "name": "Ash-Shakūr – The Most Appreciative",
+        "details": "\"Ash-Shakūr\" means The Most Appreciative, The One who values even the smallest good deeds of His servants and multiplies them greatly. Allah appreciates obedience, rewards beyond measure, and grants paradise for little acts of sincerity. He never lets a good deed go to waste.",
+        "lesson": "We should always do good deeds, even small ones, because Allah appreciates them and rewards abundantly. We should also show gratitude to people and never belittle anyone’s effort.",
+        "virtues": "Reciting 'Yā Shakūr' brings barakah in deeds, increases reward, and fills the heart with gratitude.",
+        "wazifa": "1) For Increase in Rewards: Recite 'Yā Shakūr' 41 times daily; Allah multiplies small deeds. 2) For Barakah in Rizq: Recite 'Yā Shakūr' 100 times after Fajr; Allah blesses sustenance. 3) For Grateful Heart: Recite 'Yā Shakūr' abundantly; Allah fills the heart with thankfulness."
+      },
+      "urdu": {
+        "name": "ٱلشَّكُورُ – سب سے زیادہ قدردان",
+        "details": "ٱلشَّكُورُ کا مطلب ہے سب سے زیادہ قدردان، جو اپنے بندوں کے چھوٹے سے چھوٹے نیک عمل کو بھی بے حد بڑھا کر اجر عطا کرتا ہے۔ اللہ اطاعت کو پسند کرتا ہے اور معمولی عمل پر بھی جنت عطا کر دیتا ہے۔ وہ کسی بھی نیکی کو ضائع نہیں کرتا۔",
+        "lesson": "ہمیں ہمیشہ نیکیاں کرتے رہنا چاہیے چاہے وہ چھوٹی ہوں، کیونکہ اللہ ان کو بڑھا کر اجر دیتا ہے۔ ہمیں دوسروں کا بھی شکریہ ادا کرنا چاہیے اور ان کی کوشش کو معمولی نہیں سمجھنا چاہیے۔",
+        "virtues": "'یَا شَكُور' کا ورد اعمال میں برکت لاتا ہے، اجر بڑھاتا ہے اور دل کو شکر گزار بناتا ہے۔",
+        "wazifa": "1) اجر میں اضافہ کے لیے روزانہ 41 مرتبہ 'یَا شَكُور' پڑھنے والا اپنے اعمال کا کئی گنا ثواب پاتا ہے۔ 2) رزق میں برکت کے لیے فجر کے بعد 100 مرتبہ پڑھنے والا برکت پاتا ہے۔ 3) دل میں شکرگزاری کے لیے کثرت سے پڑھنے والا دل کو شکر گزار پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "arabic": "ٱلْعَلِيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-ʿAlī – The Most High",
+        "details": "\"Al-ʿAlī\" means The Most High, The Exalted. Allah is above all creation in His essence, attributes, and authority. Nothing is higher than Him, and none can compare to His greatness. His knowledge, power, and glory surpass everything in existence.",
+        "lesson": "We should remain humble and remember that true greatness and elevation belong only to Allah. Seeking status or pride in dunya is temporary, but seeking closeness to Al-ʿAlī raises our rank forever.",
+        "virtues": "Reciting 'Yā ʿAlī' increases spiritual rank, brings respect, and strengthens faith.",
+        "wazifa": "1) For Spiritual Elevation: Recite 'Yā ʿAlī' 100 times after Tahajjud; Allah raises the soul in closeness to Him. 2) For Respect & Dignity: Recite 'Yā ʿAlī' 33 times daily; Allah grants honor among people. 3) For Strength in Hardship: Recite 'Yā ʿAlī' abundantly; Allah grants courage and removes weakness."
+      },
+      "urdu": {
+        "name": "ٱلْعَلِيُّ – سب سے بلند",
+        "details": "ٱلْعَلِيُّ کا مطلب ہے سب سے بلند، سب سے اعلیٰ۔ اللہ اپنی ذات، صفات اور اختیار میں سب سے بلند ہے۔ اس سے بلند کوئی نہیں۔ اس کا علم، طاقت اور عظمت ہر چیز سے بڑھ کر ہے۔",
+        "lesson": "ہمیں عاجزی اختیار کرنی چاہیے اور یاد رکھنا چاہیے کہ اصل بلندی صرف اللہ کے پاس ہے۔ دنیاوی مرتبہ اور غرور وقتی ہے، لیکن اللہ کی قربت انسان کو ہمیشہ کے لیے بلند کرتی ہے۔",
+        "virtues": "'یَا عَلِی' کا ورد روحانی ترقی عطا کرتا ہے، عزت بخشتا ہے اور ایمان کو مضبوط کرتا ہے۔",
+        "wazifa": "1) روحانی بلندی کے لیے تہجد کے بعد 100 مرتبہ 'یَا عَلِی' پڑھنے والا اللہ کے قریب ہوتا ہے۔ 2) عزت کے لیے روزانہ 33 مرتبہ پڑھنے والا لوگوں میں وقار پاتا ہے۔ 3) مشکل وقت میں کثرت سے پڑھنے والا ہمت اور طاقت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "arabic": "ٱلْكَبِيرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Kabīr – The Most Great",
+        "details": "\"Al-Kabīr\" means The Most Great, The Supreme in greatness. Allah is greater than everything in existence. His greatness cannot be measured or compared, as it encompasses all creation and beyond. Every atom in the universe reflects His greatness, and nothing can diminish His majesty.",
+        "lesson": "We should recognize our smallness before the greatness of Allah. This keeps us humble and prevents arrogance. True greatness belongs only to Allah, and seeking honor in His obedience elevates us.",
+        "virtues": "Reciting 'Yā Kabīr' brings humility, removes arrogance, and grants respect in both worlds.",
+        "wazifa": "1) For Humility: Recite 'Yā Kabīr' 100 times daily; Allah removes arrogance and fills the heart with sincerity. 2) For Respect & Authority: Recite 'Yā Kabīr' 232 times after Isha; Allah grants dignity and honor. 3) For Solving Problems: In times of difficulty, recite 'Yā Kabīr' abundantly; Allah makes hardships easy."
+      },
+      "urdu": {
+        "name": "ٱلْكَبِيرُ – سب سے بڑا",
+        "details": "ٱلْكَبِيرُ کا مطلب ہے سب سے بڑا، سب سے عظیم۔ اللہ کی عظمت ہر چیز سے بڑھ کر ہے۔ اس کی کبریائی کی کوئی حد نہیں، کائنات کی ہر چیز اس کی عظمت کی گواہی دیتی ہے۔ کوئی طاقت، دولت یا شہرت اس کی کبریائی کے برابر نہیں۔",
+        "lesson": "ہمیں اپنی حقیقت کو پہچان کر عاجزی اختیار کرنی چاہیے، کیونکہ اصل بڑائی صرف اللہ کی ہے۔ یہ ایمان انسان کو تکبر سے بچاتا ہے اور اللہ کی اطاعت کی طرف لے جاتا ہے۔",
+        "virtues": "'یَا کَبِیر' کا ورد دل کو عاجزی دیتا ہے، غرور کو ختم کرتا ہے اور عزت عطا کرتا ہے۔",
+        "wazifa": "1) عاجزی کے لیے روزانہ 100 مرتبہ 'یَا کَبِیر' پڑھنے والا تکبر سے بچتا ہے۔ 2) عزت اور وقار کے لیے عشاء کے بعد 232 مرتبہ پڑھنے والا اللہ کے ہاں اور لوگوں میں عزت پاتا ہے۔ 3) مشکل کے وقت کثرت سے پڑھنے والا آسانی اور سکون پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "arabic": "ٱلْحَفِيظُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥafīẓ – The Preserver, The Protector",
+        "details": "\"Al-Ḥafīẓ\" means The Preserver, The Protector, The Guardian. Allah preserves the heavens, the earth, and all creation from destruction. He protects our bodies, souls, faith, and deeds. Nothing escapes His preservation, and no one can harm what Allah protects. He guards both the physical world and the spiritual states of His servants.",
+        "lesson": "We should rely on Allah for protection in every matter. Just as He guards the universe, He can guard our lives, faith, and honor. Trust in His preservation gives peace of mind and removes fear.",
+        "virtues": "Reciting 'Yā Ḥafīẓ' ensures safety from harm, preserves faith, and protects from calamities.",
+        "wazifa": "1) For Protection: Recite 'Yā Ḥafīẓ' 99 times daily; Allah protects from enemies and accidents. 2) For Family Safety: Recite 'Yā Ḥafīẓ' 500 times and blow on family members; Allah keeps them safe from harm. 3) For Preservation of Faith: Recite 'Yā Ḥafīẓ' abundantly in times of fitnah; Allah protects iman and grants steadfastness."
+      },
+      "urdu": {
+        "name": "ٱلْحَفِيظُ – حفاظت کرنے والا",
+        "details": "ٱلْحَفِيظُ کا مطلب ہے حفاظت کرنے والا، نگہبان۔ اللہ آسمانوں، زمین اور پوری کائنات کی حفاظت کرتا ہے۔ وہ اپنے بندوں کے ایمان، جان، عزت اور اعمال کی بھی حفاظت کرتا ہے۔ کوئی چیز اس کی حفاظت سے باہر نہیں اور جسے وہ محفوظ رکھے، اسے کوئی نقصان نہیں پہنچا سکتا۔",
+        "lesson": "ہمیں ہر معاملے میں اللہ پر بھروسہ کرنا چاہیے، کیونکہ اصل حفاظت اسی کے ہاتھ میں ہے۔ جب انسان اللہ کی حفاظت پر ایمان رکھتا ہے تو خوف اور بے چینی ختم ہو جاتی ہے۔",
+        "virtues": "'یَا حَفِيظ' کا ورد حفاظت عطا کرتا ہے، ایمان کو محفوظ رکھتا ہے اور آفات و بلیات سے بچاتا ہے۔",
+        "wazifa": "1) روزانہ 99 مرتبہ 'یَا حَفِيظ' پڑھنے والا دشمنوں اور حادثات سے محفوظ رہتا ہے۔ 2) 500 مرتبہ پڑھ کر گھر والوں پر دم کرنے والا اپنے خاندان کو اللہ کی حفاظت میں دیتا ہے۔ 3) فتنوں کے دور میں کثرت سے پڑھنے والا ایمان اور استقامت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "arabic": "ٱلْمُقِيتُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muqīt – The Sustainer, The Nourisher",
+        "details": "\"Al-Muqīt\" means The Sustainer, The Nourisher, The Guardian who ensures that every creature receives what it needs for survival. Allah provides nourishment not only to bodies with food and drink but also to souls with faith, guidance, and mercy. He is aware of every need and sustains all creation with His perfect knowledge and wisdom.",
+        "lesson": "We should remember that sustenance, health, and strength all come from Allah. This teaches us to depend only on Him for our physical and spiritual nourishment. It also reminds us to share what we have with others as a form of gratitude.",
+        "virtues": "Reciting 'Yā Muqīt' strengthens the body and soul, removes weakness, and brings divine assistance.",
+        "wazifa": "1) For Strength: Recite 'Yā Muqīt' 7 times over food before eating; Allah fills it with blessings and nourishment. 2) For Protection from Weakness: Recite 'Yā Muqīt' 500 times daily; Allah grants strength and energy. 3) For Spiritual Nourishment: Abundantly recite in Tahajjud; Allah nourishes the heart with guidance and light."
+      },
+      "urdu": {
+        "name": "ٱلْمُقِيتُ – رزق دینے والا، قوت عطا کرنے والا",
+        "details": "ٱلْمُقِيتُ کا مطلب ہے رزق دینے والا، قوت عطا کرنے والا، محافظ۔ اللہ اپنی مخلوق کو نہ صرف جسمانی رزق دیتا ہے بلکہ روحانی غذا بھی عطا کرتا ہے جیسے ایمان، ہدایت اور رحمت۔ وہ ہر ضرورت کو جانتا ہے اور اپنی حکمت سے پورا کرتا ہے۔",
+        "lesson": "ہمیں یاد رکھنا چاہیے کہ اصل طاقت، صحت اور رزق صرف اللہ کے ہاتھ میں ہے۔ یہ ہمیں سکھاتا ہے کہ ہم دوسروں کے ساتھ بھی اپنا رزق بانٹیں اور شکر گزار رہیں۔",
+        "virtues": "'یَا مُقِيت' کا ورد جسم اور روح کو طاقت دیتا ہے، کمزوری کو دور کرتا ہے اور اللہ کی مدد عطا کرتا ہے۔",
+        "wazifa": "1) کھانے پر 7 مرتبہ 'یَا مُقِيت' پڑھ کر کھانے والا برکت اور توانائی پاتا ہے۔ 2) روزانہ 500 مرتبہ پڑھنے والا جسمانی طاقت پاتا ہے۔ 3) تہجد میں کثرت سے پڑھنے والا دل کی غذا اور ہدایت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "arabic": "ٱلْحسِيبُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥasīb – The Reckoner, The Sufficient",
+        "details": "\"Al-Ḥasīb\" means The Reckoner, The Sufficient, The One who takes full account of everything. Allah knows every deed, word, and thought, and He will hold everyone accountable for their actions. At the same time, He is sufficient for His servants, fulfilling their needs and protecting them from harm. No one can escape His reckoning, and no one can rely on anyone other than Him for sufficiency.",
+        "lesson": "We should live with the awareness that Allah is keeping account of our actions, so we should avoid sins and increase good deeds. It also teaches us reliance on Allah alone, knowing that He is enough for us in all matters.",
+        "virtues": "Reciting 'Yā Ḥasīb' grants protection from enemies, removes fear, and strengthens reliance on Allah.",
+        "wazifa": "1) For Protection from Enemies: Recite 'Yā Ḥasīb' 70 times daily; Allah protects from harm and conspiracies. 2) For Relief from Fear: Recite 'Yā Ḥasīb' abundantly in times of anxiety; Allah grants peace and strength. 3) For Dependence on Allah: Recite 100 times after Fajr prayer; Allah fulfills needs and suffices the servant."
+      },
+      "urdu": {
+        "name": "ٱلْحسِيبُ – حساب لینے والا، کفایت کرنے والا",
+        "details": "ٱلْحسِيبُ کا مطلب ہے حساب لینے والا اور کفایت کرنے والا۔ اللہ ہر عمل، ہر بات اور ہر نیت کا حساب رکھتا ہے اور قیامت کے دن سب کو جواب دہی کرنی ہوگی۔ ساتھ ہی وہ اپنے بندوں کے لیے کافی ہے، ان کی ضروریات پوری کرتا ہے اور ان کو دشمنوں سے بچاتا ہے۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ ہمیں گناہوں سے بچنا چاہیے کیونکہ اللہ سب کا حساب رکھتا ہے۔ یہ ہمیں یہ بھی سکھاتا ہے کہ صرف اللہ پر بھروسہ کریں کیونکہ وہی ہماری کفایت کرتا ہے۔",
+        "virtues": "'یَا حَسِيب' کا ورد دشمنوں سے حفاظت دیتا ہے، خوف دور کرتا ہے اور اللہ پر بھروسہ مضبوط کرتا ہے۔",
+        "wazifa": "1) دشمنوں سے بچنے کے لئے روزانہ 70 مرتبہ 'یَا حَسِيب' پڑھنے والا اللہ کی پناہ میں رہتا ہے۔ 2) خوف یا پریشانی میں کثرت سے پڑھنے والا دل کا سکون پاتا ہے۔ 3) فجر کے بعد 100 مرتبہ پڑھنے والا اللہ کی طرف سے کفایت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "arabic": "ٱلْجَلِيلُ",
+    "translations": {
+      "english": {
+        "name": "Al-Jalīl – The Majestic, The Mighty",
+        "details": "\"Al-Jalīl\" means The Majestic, The Mighty, The One of Greatness and Glory. Allah possesses all attributes of perfection, grandeur, and might. His majesty is beyond human comprehension, and everything in creation submits to His greatness. He is exalted above all weakness, imperfection, and limitation.",
+        "lesson": "This Name reminds us to glorify Allah with reverence, to remain humble, and to never compare Him with creation. We should honor His commands and respect His majesty in our worship and daily lives.",
+        "virtues": "Reciting 'Yā Jalīl' strengthens dignity, grants respect among people, and fills the heart with awe of Allah.",
+        "wazifa": "1) For Dignity & Respect: Recite 'Yā Jalīl' 100 times daily; Allah grants honor among people. 2) For Spiritual Strength: Recite abundantly in solitude; Allah fills the heart with His majesty and light. 3) For Authority: Whoever recites 'Yā Jalīl' 7 times before an important meeting will find respect and acceptance."
+      },
+      "urdu": {
+        "name": "ٱلْجَلِيلُ – جلال والا، عظمت والا",
+        "details": "ٱلْجَلِيلُ کا مطلب ہے جلال اور عظمت والا۔ اللہ کی شان اور عظمت انسان کی سمجھ سے باہر ہے۔ وہ ہر عیب اور کمزوری سے پاک ہے اور کائنات کی ہر چیز اس کی بڑائی کے سامنے عاجز ہے۔",
+        "lesson": "یہ نام ہمیں اللہ کی عظمت کو یاد دلاتا ہے کہ ہمیں ہمیشہ عاجزی اختیار کرنی چاہیے اور اللہ کی عبادت احترام اور خشوع کے ساتھ کرنی چاہیے۔",
+        "virtues": "'یَا جَلِيل' کا ورد عزت عطا کرتا ہے، دل کو اللہ کے جلال سے بھرتا ہے اور لوگوں میں وقار بخشتا ہے۔",
+        "wazifa": "1) عزت اور وقار کے لئے روزانہ 100 مرتبہ 'یَا جَلِيل' پڑھنے والا لوگوں میں معزز ہوتا ہے۔ 2) تنہائی میں کثرت سے پڑھنے والا روحانی طاقت پاتا ہے۔ 3) کسی اہم ملاقات سے پہلے 7 مرتبہ پڑھنے والا قبولیت اور عزت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "arabic": "ٱلْكَرِيمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Karīm – The Most Generous, The Bountiful",
+        "details": "\"Al-Karīm\" means The Most Generous, The Noble. Allah gives without limit, without us deserving, and without asking in return. His generosity includes both material and spiritual gifts — He gives guidance, forgiveness, knowledge, rizq, and blessings out of His pure grace.",
+        "lesson": "This Name teaches us to have hope in Allah’s generosity and to be generous ourselves. We should ask from Him without hesitation and believe that His treasures never decrease, no matter how much we ask.",
+        "virtues": "Reciting 'Yā Karīm' brings barakah, unlocks doors of rizq, and softens the hearts of people toward you.",
+        "wazifa": "1) For Rizq & Wealth: Recite 'Yā Karīm' 270 times after Fajr for barakah in sustenance. 2) For Acceptance & Favor: Recite abundantly before meeting someone or applying for something important. 3) For Forgiveness & Mercy: Recite in duʿā at Tahajjud; Allah showers with hidden blessings."
+      },
+      "urdu": {
+        "name": "ٱلْكَرِيمُ – سب سے زیادہ بخشش والا، مہربان",
+        "details": "ٱلْكَرِيمُ کا مطلب ہے سب سے زیادہ بخشش کرنے والا، عظمت والا۔ اللہ اپنی نعمتیں بے حساب دیتا ہے، بغیر مانگے، بغیر کسی بدلے کے۔ اس کی سخاوت میں دنیاوی رزق، ہدایت، علم، مغفرت اور روحانی انعامات سب شامل ہیں۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اللہ سے مانگنے میں کبھی جھجک نہ کریں، اور ہمیں خود بھی دوسروں کے ساتھ سخاوت کا رویہ اختیار کرنا چاہیے۔",
+        "virtues": "'یَا كَرِيم' کا ورد برکت لاتا ہے، رزق کے دروازے کھولتا ہے اور لوگوں کے دل نرم کرتا ہے۔",
+        "wazifa": "1) رزق میں برکت کے لیے فجر کے بعد 270 مرتبہ 'یَا كَرِيم' پڑھیں۔ 2) کسی ملاقات یا اہم کام سے پہلے کثرت سے پڑھیں تاکہ قبولیت پائیں۔ 3) تہجد کی دعا میں 'یَا كَرِيم' پڑھنے والا اللہ کی چھپی نعمتوں سے نوازا جاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "arabic": "ٱلْرَّقِيبُ",
+    "translations": {
+      "english": {
+        "name": "Ar-Raqīb – The Watchful, The All-Observing",
+        "details": "\"Ar-Raqīb\" means The Watchful, The Ever-Observant. Allah is the One who watches over every detail of His creation. Nothing escapes His observation — every action, thought, and intention is under His constant watch. He safeguards and protects His servants while also being fully aware of their deeds.",
+        "lesson": "This Name reminds us to live with ihsān (excellence), as if Allah sees us, because indeed He does. It encourages sincerity, mindfulness, and accountability in everything we do.",
+        "virtues": "Reciting 'Yā Raqīb' strengthens self-awareness, removes hypocrisy, and provides divine protection.",
+        "wazifa": "1) For Protection: Recite 'Yā Raqīb' 7 times daily for safety from harm. 2) For Sincerity: Recite 312 times to purify intentions and deeds. 3) For Family Safety: Recite abundantly while making duʿā for loved ones; Allah keeps them under His protection."
+      },
+      "urdu": {
+        "name": "ٱلْرَّقِيبُ – نگرانی کرنے والا، محافظ",
+        "details": "ٱلْرَّقِيبُ کا مطلب ہے نگرانی کرنے والا، ہر چیز پر نظر رکھنے والا۔ اللہ اپنی تمام مخلوقات کی ہر حرکت، ہر سوچ اور ہر نیت کو دیکھتا اور جانتا ہے۔ وہ اپنے بندوں کی حفاظت بھی کرتا ہے اور ان کے اعمال پر بھی نگاہ رکھتا ہے۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ ہمیں ہر کام اخلاص کے ساتھ کرنا چاہیے کیونکہ اللہ دیکھ رہا ہے۔ یہ ہمیں گناہوں سے بچاتا ہے اور نیکی میں ثابت قدم رکھتا ہے۔",
+        "virtues": "'یَا رَقِيب' کا ورد دل میں اخلاص پیدا کرتا ہے، نفاق کو دور کرتا ہے اور حفاظت عطا کرتا ہے۔",
+        "wazifa": "1) حفاظت کے لیے روزانہ 7 مرتبہ 'یَا رَقِيب' پڑھیں۔ 2) نیتوں کی پاکیزگی کے لیے 312 مرتبہ پڑھیں۔ 3) اپنے اہلِ خانہ کے لیے دعا کرتے وقت 'یَا رَقِيب' کثرت سے پڑھیں تاکہ اللہ ان کی حفاظت کرے۔"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "arabic": "ٱلْمُجِيبُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mujīb – The Responsive, The Answerer of Prayers",
+        "details": "\"Al-Mujīb\" means The One who responds, The Answerer. Allah is the One who answers the call of the supplicant, whether whispered silently or spoken aloud. His response is based on His wisdom — sometimes immediate, sometimes delayed, sometimes replaced with something better. Allah never ignores the call of His servants.",
+        "lesson": "This Name teaches us to always turn to Allah in supplication, with certainty that He hears and responds. It encourages patience and trust in Allah’s timing and wisdom.",
+        "virtues": "Reciting 'Yā Mujīb' strengthens faith in duʿā, brings peace of heart, and ensures acceptance of prayers.",
+        "wazifa": "1) For Accepted Duʿā: Recite 'Yā Mujīb' 55 times before making supplication. 2) For Relief in Hardship: Recite abundantly in times of difficulty; Allah grants ease. 3) For Peace at Home: Recite 'Yā Mujīb' 100 times daily to bring harmony and blessings to family life."
+      },
+      "urdu": {
+        "name": "ٱلْمُجِيبُ – دعا قبول کرنے والا",
+        "details": "ٱلْمُجِيبُ کا مطلب ہے دعا قبول کرنے والا، جواب دینے والا۔ اللہ اپنے بندوں کی پکار سنتا اور اس کا جواب دیتا ہے۔ کبھی فوراً، کبھی دیر سے، اور کبھی بہتر چیز عطا کرکے۔ اللہ کبھی بھی اپنے بندوں کی دعا کو ضائع نہیں کرتا۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہمیشہ اللہ سے دعا مانگنی چاہیے اور یقین رکھنا چاہیے کہ وہ سنتا اور قبول کرتا ہے۔ اس کے فیصلے میں حکمت ہوتی ہے۔",
+        "virtues": "'یَا مُجِيب' کا ورد دعا میں یقین بڑھاتا ہے، دل کو سکون دیتا ہے اور دعا کی قبولیت کا سبب بنتا ہے۔",
+        "wazifa": "1) دعا کی قبولیت کے لیے دعا سے پہلے 55 مرتبہ 'یَا مُجِيب' پڑھیں۔ 2) مشکل وقت میں کثرت سے پڑھنے والا آسانی پاتا ہے۔ 3) گھر کے سکون کے لیے روزانہ 100 مرتبہ پڑھنے والا برکت اور ہم آہنگی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "arabic": "ٱلْوَاسِعُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wāsiʿ – The All-Encompassing, The Boundless",
+        "details": "\"Al-Wāsiʿ\" means The All-Encompassing, The Vast, The Boundless. Allah’s mercy, knowledge, and provision extend to everything in existence. His generosity and giving are limitless, and nothing is beyond His capacity. His wisdom, forgiveness, and mercy cover every creation, seen and unseen.",
+        "lesson": "Believing in Al-Wāsiʿ teaches us that Allah’s blessings are unlimited. We should never fear scarcity, for His treasures never run out. It also reminds us to have vast hearts — forgiving others, being generous, and embracing diversity.",
+        "virtues": "Reciting 'Yā Wāsiʿ' opens the doors of mercy, grants barakah in rizq, and brings vastness in knowledge and heart.",
+        "wazifa": "1) For Rizq & Barakah: Recite 'Yā Wāsiʿ' 100 times daily; Allah blesses wealth and sustenance. 2) For Knowledge Expansion: Recite abundantly before studying; Allah grants wisdom and vast understanding. 3) For Inner Peace: Recite 'Yā Wāsiʿ' in solitude; Allah expands the heart with sakīnah (tranquility)."
+      },
+      "urdu": {
+        "name": "ٱلْوَاسِعُ – سب کو گھیرنے والا",
+        "details": "ٱلْوَاسِعُ کا مطلب ہے سب کو گھیرنے والا، بے حد عطا کرنے والا۔ اللہ کی رحمت، علم اور رزق ہر چیز پر محیط ہیں۔ اُس کی بخشش اور عطا کی کوئی حد نہیں۔ اُس کی رحمت اور حکمت کائنات کی ہر مخلوق کو ڈھانپ لیتی ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اللہ کے خزانوں کی کوئی حد نہیں۔ انسان کو تنگی یا کمی کا خوف نہیں ہونا چاہیے۔ یہ نام ہمیں وسیع دل رکھنے، دوسروں کو معاف کرنے اور سخاوت کرنے کی نصیحت بھی کرتا ہے۔",
+        "virtues": "'یَا وَاسِع' کا ورد رحمت کے دروازے کھولتا ہے، رزق میں برکت دیتا ہے اور علم و دل میں وسعت عطا کرتا ہے۔",
+        "wazifa": "1) رزق اور برکت کے لیے روزانہ 100 مرتبہ 'یَا وَاسِع' پڑھیں۔ 2) علم میں وسعت کے لیے پڑھائی سے پہلے پڑھیں؛ اللہ حکمت عطا کرتا ہے۔ 3) دل کے سکون کے لیے تنہائی میں کثرت سے پڑھیں؛ اللہ دل کو سکینت دیتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "arabic": "ٱلْحَكِيمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥakīm – The All-Wise",
+        "details": "\"Al-Ḥakīm\" means The All-Wise, The One whose wisdom is perfect and absolute. Allah creates, commands, and manages everything with complete wisdom. Nothing in creation is random; every detail has a purpose known to Him alone. His decisions are flawless and free from error.",
+        "lesson": "Believing in Al-Ḥakīm teaches us that everything happens with divine wisdom, even if we don’t understand it. Hardship, ease, loss, and gain are all part of Allah’s perfect plan. We must trust His wisdom and accept His decree with patience.",
+        "virtues": "Reciting 'Yā Ḥakīm' strengthens trust in Allah’s decisions, increases wisdom, and grants clarity of mind.",
+        "wazifa": "1) For Guidance: Recite 'Yā Ḥakīm' 78 times daily; Allah blesses decisions with wisdom. 2) For Success in Work/Studies: Recite before important tasks; Allah grants clarity and understanding. 3) For Patience in Trials: Abundant recitation brings peace and strengthens belief in divine wisdom."
+      },
+      "urdu": {
+        "name": "ٱلْحَكِيمُ – دانا، حکمت والا",
+        "details": "ٱلْحَكِيمُ کا مطلب ہے حکمت والا، کامل دانائی والا۔ اللہ کی تخلیق اور اُس کے فیصلے حکمت سے بھرپور ہیں۔ کائنات میں کوئی چیز بے مقصد نہیں۔ ہر حکم، ہر فیصلہ اُس کی کامل حکمت کے مطابق ہوتا ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہر حال، ہر آزمائش اور ہر نعمت اللہ کی حکمت کے تحت ہے۔ انسان کو اللہ کے فیصلوں پر بھروسہ رکھنا چاہیے اور صبر کرنا چاہیے، چاہے سمجھ نہ آئے۔",
+        "virtues": "'یَا حَکِيم' کا ورد عقل میں اضافہ کرتا ہے، دل کو سکون دیتا ہے اور فیصلوں میں برکت عطا کرتا ہے۔",
+        "wazifa": "1) رہنمائی کے لیے روزانہ 78 مرتبہ 'یَا حَکِيم' پڑھیں؛ اللہ حکمت عطا کرے گا۔ 2) کام یا پڑھائی سے پہلے پڑھیں تاکہ سمجھ بوجھ اور کامیابی ملے۔ 3) آزمائش کے وقت کثرت سے پڑھیں؛ دل میں سکون اور صبر آئے گا۔"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "arabic": "ٱلْوَدُودُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wadūd – The Most Loving",
+        "details": "\"Al-Wadūd\" means The Most Loving, The Affectionate. Allah’s love for His servants is pure, eternal, and unconditional. He loves His prophets, the righteous, and those who turn back to Him in repentance. Unlike human love, Allah’s love never decreases, never changes, and is free of imperfection.",
+        "lesson": "Believing in Al-Wadūd fills the heart with comfort, knowing that Allah loves His servants even when the world rejects them. His love motivates us to worship Him sincerely and to love others for His sake.",
+        "virtues": "Reciting 'Yā Wadūd' brings love between hearts, strengthens relationships, and attracts Allah’s mercy.",
+        "wazifa": "1) For Love & Harmony: Recite 'Yā Wadūd' 1000 times daily; Allah creates love between spouses and family members. 2) For Acceptance: Whoever recites abundantly will find people’s hearts inclined toward them. 3) For Inner Peace: Recite 'Yā Wadūd' after Tahajjud; Allah fills the heart with tranquility and love."
+      },
+      "urdu": {
+        "name": "ٱلْوَدُودُ – سب سے زیادہ محبت کرنے والا",
+        "details": "ٱلْوَدُودُ کا مطلب ہے سب سے زیادہ محبت کرنے والا۔ اللہ کی محبت اپنی مخلوق کے لیے خالص اور دائمی ہے۔ وہ اپنے نیک بندوں، انبیاء اور توبہ کرنے والوں سے محبت کرتا ہے۔ انسان کی محبت بدل سکتی ہے مگر اللہ کی محبت کبھی ختم نہیں ہوتی۔",
+        "lesson": "یہ نام ہمیں سکون دیتا ہے کہ اللہ کی محبت ہمیشہ ہمارے ساتھ ہے، چاہے دنیا چھوڑ دے۔ یہ ہمیں اللہ کی اطاعت پر قائم رہنے اور دوسروں سے محبت کرنے کی ترغیب دیتا ہے۔",
+        "virtues": "'یَا وَدُود' کا ورد دلوں میں محبت ڈالتا ہے، رشتوں کو مضبوط کرتا ہے اور اللہ کی رحمت کو قریب کرتا ہے۔",
+        "wazifa": "1) محبت اور ہم آہنگی کے لیے روزانہ 1000 مرتبہ 'یَا وَدُود' پڑھیں؛ اللہ دلوں میں محبت پیدا کرے گا۔ 2) قبولیت کے لیے کثرت سے پڑھیں؛ لوگ دل سے قریب ہوں گے۔ 3) تہجد کے بعد پڑھنے والا دل کا سکون اور اللہ کی محبت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "arabic": "ٱلْمَجِيدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Majīd – The Most Glorious, The Majestic",
+        "details": "\"Al-Majīd\" means The Most Glorious, The Majestic, The One full of honor, nobility, and generosity. Allah is perfect in glory, vast in honor, and His majesty is beyond comprehension. He is exalted in greatness and perfection, and all glory belongs to Him alone.",
+        "lesson": "Believing in Al-Majīd reminds us that true glory and honor come only from Allah, not from wealth, status, or fame. It teaches us to glorify Allah in our worship and actions and to remain humble.",
+        "virtues": "Reciting 'Yā Majīd' fills the heart with light, strengthens faith, and brings Allah’s mercy and blessings.",
+        "wazifa": "1) For Honor & Dignity: Recite 'Yā Majīd' 100 times daily; Allah grants respect among people. 2) For Barakah: Recite abundantly to increase blessings in home and life. 3) For Spiritual Light: Recite 'Yā Majīd' after Tahajjud; Allah fills the heart with nur and closeness to Him."
+      },
+      "urdu": {
+        "name": "ٱلْمَجِيدُ – سب سے زیادہ باعزت اور جلال والا",
+        "details": "ٱلْمَجِيدُ کا مطلب ہے سب سے زیادہ باعزت اور جلال والا۔ اللہ کی عظمت، عزت اور کرم کی کوئی حد نہیں۔ اُس کی شان بلند ہے اور اُس کی بزرگی انسان کی عقل سے پرے ہے۔ اصل جلال اور عزت صرف اللہ کے لیے ہے۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ عزت اور جلال صرف اللہ کے پاس ہے، نہ کہ دنیا کے مال یا شہرت میں۔ ہمیں عاجزی کے ساتھ اللہ کی بڑائی بیان کرنی چاہیے۔",
+        "virtues": "'یَا مَجِيد' کا ورد دل کو نورانی کرتا ہے، ایمان کو مضبوط کرتا ہے اور اللہ کی رحمت اور برکت کو قریب کرتا ہے۔",
+        "wazifa": "1) عزت کے لیے روزانہ 100 مرتبہ 'یَا مَجِيد' پڑھنے والا لوگوں میں مقام پاتا ہے۔ 2) برکت کے لیے کثرت سے پڑھنے والا گھر اور زندگی میں برکت پاتا ہے۔ 3) تہجد کے بعد پڑھنے والا دل میں نور اور اللہ کی قربت حاصل کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "arabic": "ٱلْبَاعِثُ",
+    "translations": {
+      "english": {
+        "name": "Al-Bāʿith – The Resurrector, The Awakener",
+        "details": "\"Al-Bāʿith\" means The Resurrector, The Awakener. Allah is the One who will resurrect all creation on the Day of Judgment. He awakens the dead from their graves and brings life after death. In this world, He also awakens hearts from heedlessness and ignorance with faith and guidance.",
+        "lesson": "Believing in Al-Bāʿith strengthens our faith in the Hereafter. It reminds us to live righteously, for we will be resurrected and held accountable for our deeds.",
+        "virtues": "Reciting 'Yā Bāʿith' softens the heart, increases awareness of the Hereafter, and strengthens īmān.",
+        "wazifa": "1) For Firm Faith: Recite 'Yā Bāʿith' 101 times daily; Allah strengthens belief in the Hereafter. 2) For Guidance: Recite abundantly to awaken the heart from negligence and sins. 3) For Knowledge: Recite 'Yā Bāʿith' before studying; Allah grants deep understanding."
+      },
+      "urdu": {
+        "name": "ٱلْبَاعِثُ – دوبارہ زندہ کرنے والا",
+        "details": "ٱلْبَاعِثُ کا مطلب ہے دوبارہ زندہ کرنے والا۔ اللہ قیامت کے دن تمام مخلوق کو قبروں سے اٹھائے گا۔ وہ موت کے بعد زندگی دینے والا ہے اور اس دنیا میں بھی غفلت اور جہالت سے دلوں کو ایمان اور ہدایت کے ساتھ بیدار کرتا ہے۔",
+        "lesson": "اس نام پر ایمان قیامت پر یقین کو مضبوط کرتا ہے۔ یہ یاد دلاتا ہے کہ ہر انسان کو دوبارہ اٹھایا جائے گا اور اپنے اعمال کا حساب دینا ہوگا۔",
+        "virtues": "'یَا بَاعِث' کا ورد دل کو نرم کرتا ہے، آخرت کی یاد بڑھاتا ہے اور ایمان کو مضبوط کرتا ہے۔",
+        "wazifa": "1) ایمان کی مضبوطی کے لیے روزانہ 101 مرتبہ 'یَا بَاعِث' پڑھنے والا آخرت پر یقین پاتا ہے۔ 2) ہدایت کے لیے کثرت سے پڑھنے والا دل کی غفلت سے جاگتا ہے۔ 3) علم کے لیے پڑھائی سے پہلے 'یَا بَاعِث' پڑھنے والا فہم و بصیرت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "arabic": "ٱلْشَّهِيدُ",
+    "translations": {
+      "english": {
+        "name": "Ash-Shahīd – The All-Witnessing",
+        "details": "\"Ash-Shahīd\" means The All-Witnessing. Allah is the One who witnesses everything—our actions, words, intentions, and even hidden thoughts. Nothing in the heavens or the earth escapes His sight. He is present everywhere and is a witness over all creation.",
+        "lesson": "Believing in Ash-Shahīd makes us conscious that Allah is always watching us. It inspires sincerity, honesty, and mindfulness in every deed.",
+        "virtues": "Reciting 'Yā Shahīd' increases awareness of Allah’s presence, removes hypocrisy, and brings sincerity in worship.",
+        "wazifa": "1) For Sincerity: Recite 'Yā Shahīd' 21 times after every prayer to purify intentions. 2) For Protection: Recite 70 times daily; Allah protects from hidden enemies. 3) For Justice: In times of false accusations, recite abundantly; Allah manifests the truth."
+      },
+      "urdu": {
+        "name": "ٱلْشَّهِيدُ – گواہ رہنے والا",
+        "details": "ٱلْشَّهِيدُ کا مطلب ہے سب پر گواہ رہنے والا۔ اللہ ہر چیز کا گواہ ہے—ہمارے اعمال، باتیں، نیتیں اور دل کے چھپے خیالات بھی۔ آسمان و زمین کی کوئی چیز اس کی نگاہ سے پوشیدہ نہیں۔ وہ ہر جگہ حاضر و ناظر ہے۔",
+        "lesson": "اس نام پر ایمان انسان کو یاد دلاتا ہے کہ اللہ ہر وقت دیکھ رہا ہے۔ یہ اخلاص، دیانت اور ہر عمل میں ہوشیاری پیدا کرتا ہے۔",
+        "virtues": "'یَا شَهِيد' کا ورد اللہ کی یاد کو دل میں زندہ رکھتا ہے، نفاق دور کرتا ہے اور عبادت میں اخلاص پیدا کرتا ہے۔",
+        "wazifa": "1) نیت کی پاکیزگی کے لیے ہر نماز کے بعد 21 مرتبہ 'یَا شَهِيد' پڑھنے والا اخلاص پاتا ہے۔ 2) حفاظت کے لیے روزانہ 70 مرتبہ پڑھنے والا دشمنوں کے شر سے محفوظ رہتا ہے۔ 3) جھوٹے الزام کے وقت کثرت سے پڑھنے والا حق پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "arabic": "ٱلْحَقُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥaqq – The Absolute Truth",
+        "details": "\"Al-Ḥaqq\" means The Absolute Truth, The Ultimate Reality. Allah is the eternal truth; everything else perishes but He remains. His words, His promises, and His existence are absolute truth. He is the source of justice and the one who reveals truth in all matters.",
+        "lesson": "Believing in Al-Ḥaqq teaches us to seek truth in all aspects of life and rely only on Allah’s words as ultimate guidance.",
+        "virtues": "Reciting 'Yā Ḥaqq' strengthens faith, removes doubts, and reveals hidden truths.",
+        "wazifa": "1) For Strong Īmān: Recite 'Yā Ḥaqq' 100 times daily; Allah strengthens the heart with faith. 2) For Removing Doubts: Recite abundantly to gain clarity and certainty. 3) For Justice: Recite 'Yā Ḥaqq' when seeking fairness in disputes; Allah manifests truth."
+      },
+      "urdu": {
+        "name": "ٱلْحَقُّ – کامل سچائی",
+        "details": "ٱلْحَقُّ کا مطلب ہے مطلق سچائی، کامل حقیقت۔ اللہ ہی ہمیشہ باقی رہنے والا ہے، باقی سب فانی ہیں۔ اس کے وعدے، اس کے کلمات اور اس کا وجود کامل حق ہے۔ وہی انصاف کا سرچشمہ ہے اور حق کو ظاہر کرنے والا ہے۔",
+        "lesson": "اس نام پر ایمان انسان کو زندگی کے ہر پہلو میں سچائی ڈھونڈنے اور اللہ کے کلام کو آخری رہنمائی ماننے کی تعلیم دیتا ہے۔",
+        "virtues": "'یَا حَق' کا ورد ایمان کو مضبوط کرتا ہے، شک کو دور کرتا ہے اور چھپی ہوئی حقیقت کو ظاہر کرتا ہے۔",
+        "wazifa": "1) ایمان کی مضبوطی کے لیے روزانہ 100 مرتبہ 'یَا حَق' پڑھنے والا دل میں یقین پاتا ہے۔ 2) شک و شبہ کے دور ہونے کے لیے کثرت سے پڑھنے والا یقین اور سکون پاتا ہے۔ 3) انصاف کے لیے جھگڑوں میں 'یَا حَق' پڑھنے والا حق کا ظہور دیکھتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "arabic": "ٱلْوَكِيلُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wakīl – The Trustee, The Disposer of Affairs",
+        "details": "\"Al-Wakīl\" means The Trustee, The One who manages all affairs of His creation. Allah is the ultimate disposer of all matters; when we rely upon Him, He takes care of our needs in the best possible way. He is sufficient for the believer who puts full trust in Him.",
+        "lesson": "Believing in Al-Wakīl teaches us to place complete trust in Allah, stop worrying excessively, and know that all affairs are in His perfect hands.",
+        "virtues": "Reciting 'Yā Wakīl' increases reliance on Allah, removes fear, and ensures protection in hardships.",
+        "wazifa": "1) For Protection: Recite 'Yā Wakīl' 66 times daily; Allah safeguards from harm. 2) For Anxiety Relief: Recite abundantly during stress; Allah replaces fear with peace. 3) For Dependence on Allah: Recite 'Yā Wakīl' before important decisions to find guidance."
+      },
+      "urdu": {
+        "name": "ٱلْوَكِيلُ – کارساز، وکیل",
+        "details": "ٱلْوَكِيلُ کا مطلب ہے کارساز، تمام کاموں کا ذمہ لینے والا۔ اللہ ہی اپنی مخلوق کے معاملات کا بہترین انتظام کرنے والا ہے۔ جو بندہ اللہ پر بھروسہ کرتا ہے، اللہ اس کے لیے کافی ہو جاتا ہے اور اس کے کام بہترین طریقے سے سنبھالتا ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں سکھاتا ہے کہ اللہ پر مکمل بھروسہ رکھیں اور بے جا فکروں سے نجات پائیں کیونکہ سب معاملات اللہ کے ہاتھ میں ہیں۔",
+        "virtues": "'یَا وَكِيل' کا ورد اللہ پر بھروسہ بڑھاتا ہے، خوف کو دور کرتا ہے اور مشکلات میں حفاظت عطا کرتا ہے۔",
+        "wazifa": "1) حفاظت کے لیے روزانہ 66 مرتبہ 'یَا وَكِيل' پڑھنے والا ہر نقصان سے محفوظ رہتا ہے۔ 2) پریشانی کے وقت کثرت سے پڑھنے والا سکون پاتا ہے۔ 3) اہم فیصلوں سے پہلے 'یَا وَكِيل' پڑھنے والا اللہ کی رہنمائی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "arabic": "ٱلْقَوِيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Qawiyy – The All-Strong",
+        "details": "\"Al-Qawiyy\" means The All-Strong, The One whose strength is perfect and unlimited. Allah’s power never weakens, and no force can overcome Him. He is the source of all strength, and all creation depends on His might.",
+        "lesson": "Believing in Al-Qawiyy reminds us that our strength is from Allah. We should seek His help in weakness and never misuse the power He grants us.",
+        "virtues": "Reciting 'Yā Qawiyy' grants inner strength, removes weakness, and provides victory over difficulties.",
+        "wazifa": "1) For Strength: Recite 'Yā Qawiyy' 100 times daily to gain physical and spiritual strength. 2) For Overcoming Enemies: Recite 'Yā Qawiyy' 41 times before facing challenges; Allah grants victory. 3) For Removing Weakness: Recite abundantly in illness or fatigue for renewed energy."
+      },
+      "urdu": {
+        "name": "ٱلْقَوِيُّ – سب سے طاقتور",
+        "details": "ٱلْقَوِيُّ کا مطلب ہے سب سے طاقتور، جس کی طاقت لامحدود ہے۔ اللہ کی قدرت کبھی کمزور نہیں ہوتی اور کوئی طاقت اس پر غالب نہیں آ سکتی۔ ہر طاقت اور قوت کا اصل سرچشمہ صرف اللہ ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں یاد دلاتا ہے کہ ہماری طاقت اللہ کی طرف سے ہے۔ ہمیں کمزوری کے وقت اسی سے مدد مانگنی چاہیے اور طاقت کا غلط استعمال نہیں کرنا چاہیے۔",
+        "virtues": "'یَا قَوِی' کا ورد دل کو طاقت دیتا ہے، کمزوری کو دور کرتا ہے اور مشکلات پر فتح عطا کرتا ہے۔",
+        "wazifa": "1) طاقت کے لیے روزانہ 100 مرتبہ 'یَا قَوِی' پڑھنے والا جسمانی و روحانی طاقت پاتا ہے۔ 2) دشمنوں پر قابو پانے کے لیے 41 مرتبہ پڑھنے والا کامیاب ہوتا ہے۔ 3) بیماری یا تھکن میں کثرت سے پڑھنے والا تازگی اور توانائی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "arabic": "ٱلْمَتِينُ",
+    "translations": {
+      "english": {
+        "name": "Al-Matīn – The Firm, The Steadfast",
+        "details": "\"Al-Matīn\" means The Firm, The Strong, The Steadfast whose strength is unshakable. Allah’s might is perfect, free from fatigue or weakness. His decree is firm, and His will cannot be resisted. Unlike human strength, His power is eternal and limitless.",
+        "lesson": "Believing in Al-Matīn gives us confidence that Allah’s support never weakens. We should rely on His firm power and remain steadfast in faith.",
+        "virtues": "Reciting 'Yā Matīn' strengthens faith, removes fear, and grants firmness in difficult times.",
+        "wazifa": "1) For Firm Faith: Recite 'Yā Matīn' 500 times daily to gain stability in īmān. 2) For Strength in Hardship: Recite 99 times in distress; Allah grants firmness and relief. 3) For Removing Fear: Recite abundantly when facing trials; Allah fills the heart with courage."
+      },
+      "urdu": {
+        "name": "ٱلْمَتِينُ – مضبوط، قائم رہنے والا",
+        "details": "ٱلْمَتِينُ کا مطلب ہے مضبوط، قائم رہنے والا، جس کی طاقت اٹل اور غیر متزلزل ہے۔ اللہ کی قدرت کامل ہے، وہ تھکن یا کمزوری سے پاک ہے۔ اس کا حکم پکا اور اس کی مشیت ناقابلِ مزاحمت ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں یقین دلاتا ہے کہ اللہ کی مدد کبھی کمزور نہیں ہوتی۔ ہمیں اس پر بھروسہ رکھنا چاہیے اور ایمان میں ثابت قدم رہنا چاہیے۔",
+        "virtues": "'یَا مَتِين' کا ورد ایمان کو مضبوط کرتا ہے، خوف دور کرتا ہے اور مشکلات میں ثابت قدمی عطا کرتا ہے۔",
+        "wazifa": "1) ایمان کی مضبوطی کے لیے روزانہ 500 مرتبہ 'یَا مَتِين' پڑھیں۔ 2) مصیبت میں 99 مرتبہ پڑھنے والا راحت اور استقامت پاتا ہے۔ 3) آزمائش کے وقت کثرت سے پڑھنے والا دل میں ہمت اور حوصلہ پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "arabic": "ٱلْوَلِيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Waliyy – The Protecting Friend, The Guardian",
+        "details": "\"Al-Waliyy\" means The Protecting Friend, The Guardian, The One who lovingly guides, supports, and protects His servants. Allah is the true Wali (guardian) of the believers, taking care of them in matters of dunya and ākhirah. He removes darkness and brings them into light.",
+        "lesson": "Believing in Al-Waliyy teaches us to trust Allah as our closest Protector and Friend. We should rely on Him instead of fearing creation.",
+        "virtues": "Reciting 'Yā Waliyy' brings closeness to Allah, removes loneliness, and grants divine protection.",
+        "wazifa": "1) For Protection: Recite 'Yā Waliyy' 100 times daily; Allah guards against enemies and harm. 2) For Loneliness: Recite abundantly to feel the closeness of Allah as a Friend. 3) For Family Safety: Recite 270 times after Fajr for household peace and divine guardianship."
+      },
+      "urdu": {
+        "name": "ٱلْوَلِيُّ – محافظ دوست، سرپرست",
+        "details": "ٱلْوَلِيُّ کا مطلب ہے دوست، مددگار، محافظ۔ اللہ اپنے بندوں کا سچا ولی ہے جو انہیں دنیا و آخرت میں رہنمائی، مدد اور حفاظت عطا کرتا ہے۔ وہ اندھیروں سے نکال کر نور میں لاتا ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں سکھاتا ہے کہ اللہ ہی ہمارا سب سے بڑا محافظ اور دوست ہے۔ ہمیں اسی پر بھروسہ کرنا چاہیے۔",
+        "virtues": "'یَا وَلِي' کا ورد اللہ سے قربت عطا کرتا ہے، تنہائی دور کرتا ہے اور حفاظت بخشتا ہے۔",
+        "wazifa": "1) حفاظت کے لیے روزانہ 100 مرتبہ 'یَا وَلِي' پڑھیں۔ 2) تنہائی کے وقت کثرت سے پڑھنے والا اللہ کی قربت پاتا ہے۔ 3) فجر کے بعد 270 مرتبہ پڑھنے والا اپنے گھرانے کے لیے امن و حفاظت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "arabic": "ٱلْحَمِيدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥamīd – The Praiseworthy",
+        "details": "\"Al-Ḥamīd\" means The Praiseworthy, The One who is worthy of all praise. All thanks and praise belong to Allah because every blessing and good is from Him. Whether or not His creation praises Him, Allah is always deserving of praise because of His perfection, mercy, and wisdom.",
+        "lesson": "Believing in Al-Ḥamīd reminds us to always praise and thank Allah in every situation, whether in ease or hardship.",
+        "virtues": "Reciting 'Yā Ḥamīd' fills the heart with gratitude, protects from arrogance, and increases barakah in life.",
+        "wazifa": "1) For Gratitude: Recite 'Yā Ḥamīd' 100 times after Fajr to develop a thankful heart. 2) For Respect: Recite 93 times daily; Allah grants honor and dignity. 3) For Blessings: Recite abundantly to attract Allah’s mercy and continuous blessings."
+      },
+      "urdu": {
+        "name": "ٱلْحَمِيدُ – تعریف کے لائق",
+        "details": "ٱلْحَمِيدُ کا مطلب ہے تعریف کے لائق، وہ جس کی ہر حال میں تعریف کی جائے۔ ساری حمد و ثنا اللہ کے لئے ہے کیونکہ ہر نعمت اسی کی طرف سے ہے۔ چاہے مخلوق تعریف کرے یا نہ کرے، اللہ ہمیشہ لائقِ حمد ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں سکھاتا ہے کہ ہر حال میں اللہ کی تعریف اور شکر کریں۔",
+        "virtues": "'یَا حَمِيد' کا ورد دل کو شکر گزار بناتا ہے، غرور سے بچاتا ہے اور زندگی میں برکت لاتا ہے۔",
+        "wazifa": "1) شکر گزاری کے لیے فجر کے بعد 100 مرتبہ 'یَا حَمِيد' پڑھیں۔ 2) عزت کے لیے روزانہ 93 مرتبہ پڑھنے والا وقار پاتا ہے۔ 3) نعمتوں کے لیے کثرت سے پڑھنے والا اللہ کی رحمت اور برکت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "arabic": "ٱلْمُحْصِي",
+    "translations": {
+      "english": {
+        "name": "Al-Muḥṣī – The Reckoner, The Counter",
+        "details": "\"Al-Muḥṣī\" means The Counter, The Reckoner, The One who takes account of everything in detail. Allah knows and counts every single creation, every deed, every word, and every breath. Nothing is hidden from His knowledge, and everything is recorded for accountability.",
+        "lesson": "Believing in Al-Muḥṣī makes us conscious of our actions, knowing that nothing escapes Allah’s record.",
+        "virtues": "Reciting 'Yā Muḥṣī' reminds us of accountability, softens the heart, and increases self-awareness.",
+        "wazifa": "1) For Accountability: Recite 'Yā Muḥṣī' 148 times daily to become mindful of deeds. 2) For Protection: Recite before sleeping to be protected from negligence and heedlessness. 3) For Awareness: Recite abundantly to develop consciousness of Allah’s presence."
+      },
+      "urdu": {
+        "name": "ٱلْمُحْصِي – شمار کرنے والا",
+        "details": "ٱلْمُحْصِي کا مطلب ہے شمار کرنے والا، حساب لینے والا۔ اللہ ہر چیز کو جانتا اور گنتا ہے، چاہے وہ چھوٹی ہو یا بڑی۔ ہر عمل، ہر بات، ہر سانس اللہ کے علم میں ہے اور سب کا حساب رکھا جا رہا ہے۔",
+        "lesson": "اس نام پر ایمان ہمیں یاد دلاتا ہے کہ ہمارا کوئی بھی عمل اللہ سے پوشیدہ نہیں۔",
+        "virtues": "'یَا مُحْصِي' کا ورد انسان کو حساب کی یاد دلاتا ہے، دل کو نرم کرتا ہے اور خود احتسابی پیدا کرتا ہے۔",
+        "wazifa": "1) محاسبے کے لیے روزانہ 148 مرتبہ 'یَا مُحْصِي' پڑھیں۔ 2) سونے سے پہلے پڑھنے والا غفلت سے بچتا ہے۔ 3) کثرت سے پڑھنے والا اللہ کی موجودگی کا احساس پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "arabic": "ٱلْمُبْدِئُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mubdiʾ – The Originator, The Starter",
+        "details": "\"Al-Mubdiʾ\" means The Originator, The One who begins creation from nothing. Allah is the One who brings everything into existence without any model, helper, or material. He initiates life, existence, and all realities, purely by His command: 'Be!' and it is.",
+        "lesson": "Believing in Al-Mubdiʾ reminds us that Allah is the true source of beginnings. Every start in life is in His hands, and He creates without limit.",
+        "virtues": "Reciting 'Yā Mubdiʾ' strengthens creativity, brings barakah in new beginnings, and fills the heart with tawakkul (trust).",
+        "wazifa": "1) For New Beginnings: Recite 'Yā Mubdiʾ' 100 times before starting a project. 2) For Creativity: Recite abundantly to unlock ideas and inspiration. 3) For Rizq & Opportunities: Recite after Fajr prayer to open new doors of sustenance."
+      },
+      "urdu": {
+        "name": "ٱلْمُبْدِئُ – پہلی بار پیدا کرنے والا",
+        "details": "ٱلْمُبْدِئُ کا مطلب ہے پہلی بار پیدا کرنے والا۔ اللہ وہ ہے جو سب سے پہلے ہر چیز کو عدم سے وجود میں لاتا ہے۔ وہ کسی نمونے یا مدد کے بغیر اپنی قدرت سے چیزوں کو 'ہو جا' کہتا ہے اور وہ ہو جاتی ہیں۔",
+        "lesson": "اس نام پر ایمان ہمیں سکھاتا ہے کہ ہر شروعات اللہ کے حکم سے ہے اور وہی اصل خالق ہے۔",
+        "virtues": "'یَا مُبْدِئُ' کا ورد نیتوں کو مضبوط کرتا ہے، نئے کاموں میں برکت دیتا ہے اور دل کو اللہ پر بھروسہ سکھاتا ہے۔",
+        "wazifa": "1) نیا کام شروع کرنے سے پہلے 100 مرتبہ 'یَا مُبْدِئُ' پڑھنے والا برکت پاتا ہے۔ 2) کثرت سے پڑھنے والا ذہانت اور تخلیقی سوچ پاتا ہے۔ 3) فجر کے بعد پڑھنے والا نئے رزق اور مواقع پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "arabic": "ٱلْمُعِيدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muʿīd – The Restorer, The Reproducer",
+        "details": "\"Al-Muʿīd\" means The Restorer, The One who brings back creation after its death, and the One who restores life after non-existence. Allah created us once, and He will bring us back again on the Day of Judgment. He restores health, blessings, and situations after difficulty.",
+        "lesson": "Believing in Al-Muʿīd reminds us of resurrection and accountability. It strengthens faith that just as Allah created us once, He will recreate us again for judgment.",
+        "virtues": "Reciting 'Yā Muʿīd' increases yaqīn (certainty), restores health, and strengthens hope in Allah’s mercy.",
+        "wazifa": "1) For Healing: Recite 'Yā Muʿīd' 70 times over water and drink for recovery. 2) For Returning Lost Things: Recite abundantly to restore lost possessions. 3) For Strengthening Faith: Recite after Tahajjud to increase conviction in resurrection."
+      },
+      "urdu": {
+        "name": "ٱلْمُعِيدُ – دوبارہ پیدا کرنے والا",
+        "details": "ٱلْمُعِيدُ کا مطلب ہے دوبارہ پیدا کرنے والا۔ اللہ پہلی بار پیدا کرتا ہے اور پھر دوبارہ اٹھائے گا۔ وہی قیامت کے دن انسانوں کو قبروں سے دوبارہ زندہ کرے گا۔ اسی طرح وہ بیماری کے بعد صحت، تنگی کے بعد آسانی اور کھوئی ہوئی چیز کو واپس کرتا ہے۔",
+        "lesson": "اس نام پر ایمان آخرت پر یقین کو مضبوط کرتا ہے اور یاد دلاتا ہے کہ اللہ ہمیں دوبارہ اٹھائے گا۔",
+        "virtues": "'یَا مُعِيدُ' کا ورد یقین میں اضافہ کرتا ہے، کھوئی ہوئی چیز واپس دلاتا ہے اور دل کو امید بخشتا ہے۔",
+        "wazifa": "1) صحت کی بحالی کے لئے 70 مرتبہ 'یَا مُعِيدُ' پڑھ کر پانی پر دم کریں۔ 2) کھوئی ہوئی چیز واپس پانے کے لئے کثرت سے پڑھیں۔ 3) تہجد کے بعد پڑھنے والا آخرت پر یقین میں اضافہ پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "arabic": "ٱلْمُحْيِى",
+    "translations": {
+      "english": {
+        "name": "Al-Muḥyī – The Giver of Life",
+        "details": "\"Al-Muḥyī\" means The Giver of Life. Allah is the One who gives life to the dead, who brings life to barren land with rain, and who revives hearts with faith and guidance. He alone creates life in the womb and restores life on the Day of Resurrection.",
+        "lesson": "Believing in Al-Muḥyī reminds us that life itself is a gift from Allah. It strengthens faith that Allah revives both physically and spiritually.",
+        "virtues": "Reciting 'Yā Muḥyī' increases vitality, strengthens the heart with īmān, and brings blessings in health and life.",
+        "wazifa": "1) For Health: Recite 'Yā Muḥyī' 68 times over water and drink for healing. 2) For Reviving Faith: Recite abundantly to revive the heart with īmān. 3) For Barakah in Life: Recite daily after Fajr to gain long life with blessings."
+      },
+      "urdu": {
+        "name": "ٱلْمُحْيِى – زندگی دینے والا",
+        "details": "ٱلْمُحْيِى کا مطلب ہے زندگی دینے والا۔ اللہ ہی ہے جو مردہ کو زندہ کرتا ہے، خشک زمین کو بارش سے زندہ کرتا ہے اور دلوں کو ایمان اور ہدایت سے زندہ کرتا ہے۔ وہی رحم مادر میں زندگی دیتا ہے اور قیامت کے دن دوبارہ زندہ کرے گا۔",
+        "lesson": "اس نام پر ایمان ہمیں یاد دلاتا ہے کہ زندگی اللہ کی عطا ہے اور وہی دل و جان کو زندہ رکھتا ہے۔",
+        "virtues": "'یَا مُحْيِى' کا ورد دل کو ایمان سے زندہ کرتا ہے، صحت میں برکت دیتا ہے اور زندگی میں برکت عطا کرتا ہے۔",
+        "wazifa": "1) صحت کے لئے 68 مرتبہ 'یَا مُحْيِى' پڑھ کر پانی پر دم کریں اور پیئیں۔ 2) دل کو ایمان سے زندہ کرنے کے لئے کثرت سے پڑھیں۔ 3) فجر کے بعد پڑھنے والا لمبی عمر اور برکت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "arabic": "ٱلْمُمِيتُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mumīt – The Creator of Death",
+        "details": "\"Al-Mumīt\" means The Creator of Death, The One who causes life to end. Allah gives death to whom He wills, when He wills, and how He wills. Just as He grants life, He also takes it back with wisdom and justice. Death is not the end, but the beginning of the eternal life in the Hereafter.",
+        "lesson": "Believing in Al-Mumīt makes us humble, reminding us that no one can escape death. It teaches us to prepare for the Hereafter with good deeds.",
+        "virtues": "Reciting 'Yā Mumīt' removes fear of death, strengthens īmān, and creates awareness of accountability in the Hereafter.",
+        "wazifa": "1) For Fearlessness: Recite 'Yā Mumīt' abundantly to remove fear of death. 2) For Protection from Sudden Death: Recite 490 times daily with sincerity. 3) For Preparation of Ākhirah: Recite after every prayer to keep mindful of the Hereafter."
+      },
+      "urdu": {
+        "name": "ٱلْمُمِيتُ – موت دینے والا",
+        "details": "ٱلْمُمِيتُ کا مطلب ہے موت دینے والا۔ اللہ ہی ہے جو زندگی عطا کرتا ہے اور وہی زندگی کو واپس لیتا ہے۔ موت اللہ کے حکم سے آتی ہے اور یہ آخرت کی زندگی کا دروازہ ہے۔",
+        "lesson": "اس نام پر ایمان انسان کو عاجز بناتا ہے اور یاد دلاتا ہے کہ موت یقینی ہے۔ ہمیں آخرت کے لئے نیک اعمال کے ساتھ تیار رہنا چاہیے۔",
+        "virtues": "'یَا مُميت' کا ورد موت کے خوف کو دور کرتا ہے، ایمان کو مضبوط کرتا ہے اور آخرت کی جوابدہی یاد دلاتا ہے۔",
+        "wazifa": "1) موت کے خوف سے نجات کے لئے کثرت سے 'یَا مُميت' پڑھیں۔ 2) اچانک موت سے حفاظت کے لئے روزانہ 490 مرتبہ پڑھیں۔ 3) ہر نماز کے بعد پڑھنے والا آخرت کی تیاری میں رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "arabic": "ٱلْحَيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Ḥayy – The Ever-Living",
+        "details": "\"Al-Ḥayy\" means The Ever-Living, The One who never dies. Allah is the source of all life; He was never created, nor will He ever perish. His life is perfect, eternal, and without beginning or end. Unlike humans and creation, who experience death and weakness, Allah’s life is everlasting and complete.",
+        "lesson": "Believing in Al-Ḥayy strengthens faith in Allah’s eternal presence. It reminds us to depend only on Him, for everything else is temporary.",
+        "virtues": "Reciting 'Yā Ḥayy' revives the heart with īmān, removes spiritual darkness, and brings blessings in life.",
+        "wazifa": "1) For Spiritual Strength: Recite 'Yā Ḥayy' 300 times daily for stronger īmān. 2) For Protection from Hardship: Recite 'Yā Ḥayy Yā Qayyūm' after Fajr for Allah’s support. 3) For Health & Longevity: Recite abundantly in duʿā for barakah in life and health."
+      },
+      "urdu": {
+        "name": "ٱلْحَيُّ – ہمیشہ زندہ رہنے والا",
+        "details": "ٱلْحَيُّ کا مطلب ہے ہمیشہ زندہ رہنے والا۔ اللہ کی ذات ہمیشہ سے ہے اور ہمیشہ رہے گی۔ اس کی زندگی کامل ہے، اس پر موت یا کمزوری کا اثر نہیں۔ ساری مخلوق فنا ہو جائے گی مگر اللہ کی ذات باقی رہے گی۔",
+        "lesson": "اس نام پر ایمان ہمیں یہ سکھاتا ہے کہ صرف اللہ پر بھروسہ کریں کیونکہ باقی سب فانی ہیں۔",
+        "virtues": "'یَا حَیُ' کا ورد دل کو ایمان سے زندہ کرتا ہے، روحانی اندھیروں کو دور کرتا ہے اور زندگی میں برکت لاتا ہے۔",
+        "wazifa": "1) ایمان مضبوط کرنے کے لئے روزانہ 300 مرتبہ 'یَا حَیُ' پڑھیں۔ 2) فجر کے بعد 'یَا حَیُ یَا قَیُّوم' پڑھنے والا اللہ کی مدد پاتا ہے۔ 3) صحت اور لمبی عمر کے لئے دعا میں کثرت سے پڑھیں۔"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "arabic": "ٱلْقَيُّومُ",
+    "translations": {
+      "english": {
+        "name": "Al-Qayyūm – The Sustainer, The Self-Subsisting",
+        "details": "\"Al-Qayyūm\" means The Self-Subsisting, The One who sustains and maintains everything. Allah is independent and in need of no one, while all creation depends on Him for existence, provision, and guidance. He never sleeps, never tires, and nothing can exist without His support. This Name is part of the greatest verse in the Qur’an — Ayat al-Kursi (Surah Al-Baqarah 2:255).",
+        "lesson": "Believing in Al-Qayyūm reminds us that everything is sustained only by Allah. It teaches reliance on Him alone, since no one else has power to maintain or control existence.",
+        "virtues": "Reciting 'Yā Qayyūm' brings inner strength, removes weakness, and grants stability in life and faith.",
+        "wazifa": "1) For Relief from Worries: Recite 'Yā Ḥayy Yā Qayyūm' 100 times daily; Allah removes hardships. 2) For Rizq & Stability: Recite 'Yā Qayyūm' abundantly after Fajr prayer. 3) For Protection: Recite 'Yā Qayyūm' before sleeping to remain under Allah’s care."
+      },
+      "urdu": {
+        "name": "ٱلْقَيُّومُ – قائم رکھنے والا",
+        "details": "ٱلْقَيُّومُ کا مطلب ہے قائم رکھنے والا، سب کو سنبھالنے والا۔ اللہ کسی کا محتاج نہیں بلکہ سب مخلوق اللہ پر قائم ہے۔ وہ نہ سوتا ہے نہ تھکتا ہے، اور ہر چیز کو وہی سہارا دیتا ہے۔ یہ نام قرآن کی سب سے بڑی آیت آیت الکرسی میں بھی آیا ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ سب کچھ اللہ کے سہارے ہے۔ ہمیں ہمیشہ اسی پر بھروسہ کرنا چاہیے۔",
+        "virtues": "'یَا قَیُّوم' کا ورد دل کو طاقت دیتا ہے، کمزوری دور کرتا ہے اور زندگی میں استحکام عطا کرتا ہے۔",
+        "wazifa": "1) پریشانی دور کرنے کے لئے روزانہ 100 مرتبہ 'یَا حَیُ یَا قَیُّوم' پڑھیں۔ 2) رزق اور برکت کے لئے فجر کے بعد 'یَا قَیُّوم' کثرت سے پڑھیں۔ 3) سونے سے پہلے پڑھنے والا اللہ کی حفاظت میں رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "arabic": "ٱلْوَاجِدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wājid – The Perceiver, The Finder",
+        "details": "\"Al-Wājid\" means The Perceiver, The Finder, The All-Resourceful. Allah is the One who lacks nothing and perceives everything. He finds and knows all things without effort, and He Himself is never in need of being found because He is apparent through His signs. Unlike creation, who may lose or lack, Allah is complete, self-sufficient, and always in possession of everything.",
+        "lesson": "Believing in Al-Wājid teaches us that Allah is aware of every detail and nothing escapes His perception. It also reminds us that true sufficiency and richness are only with Allah, not in material possessions.",
+        "virtues": "Reciting 'Yā Wājid' increases contentment, removes feelings of loss, and fills the heart with gratitude and peace.",
+        "wazifa": "1) For Inner Peace: Recite 'Yā Wājid' 40 times after Isha; Allah removes loneliness and grief. 2) For Contentment: Recite 'Yā Wājid' abundantly in times of financial or emotional difficulty. 3) For Finding Lost Things: Recite 'Yā Wājid' sincerely; Allah helps recover what is lost."
+      },
+      "urdu": {
+        "name": "ٱلْوَاجِدُ – پانے والا، سب کچھ جاننے والا",
+        "details": "ٱلْوَاجِدُ کا مطلب ہے پانے والا، سب کچھ جاننے والا۔ اللہ کسی چیز کا محتاج نہیں، وہ سب کچھ جانتا ہے اور ہر چیز اُس کے قبضے میں ہے۔ مخلوق کبھی کچھ کھو دیتی ہے مگر اللہ کامل ہے اور کچھ بھی اس سے پوشیدہ نہیں۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ اللہ ہر چیز کو جانتا اور پاتا ہے۔ اصل بے نیازی اور غنا صرف اللہ کے پاس ہے، دنیاوی مال میں نہیں۔",
+        "virtues": "'یَا وَاجِد' کا ورد دل کو سکون دیتا ہے، ناشکری دور کرتا ہے اور قناعت پیدا کرتا ہے۔",
+        "wazifa": "1) سکون کے لئے عشاء کے بعد 40 مرتبہ 'یَا وَاجِد' پڑھیں۔ 2) تنگ دستی یا غم میں کثرت سے پڑھنے والا قناعت پاتا ہے۔ 3) کھوئی ہوئی چیز کے لئے اخلاص سے پڑھنے والا اسے پا لیتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "arabic": "ٱلْمَاجِدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mājid – The Glorious, The Noble",
+        "details": "\"Al-Mājid\" means The Glorious, The Noble, The Most Honorable. Allah is full of majesty, generosity, and perfection. His glory is beyond imagination, and His nobility is unmatched. He is the source of all honor and dignity, and His generosity encompasses everything in creation. Every blessing and every goodness we experience is from Al-Mājid.",
+        "lesson": "Believing in Al-Mājid fills the heart with awe, gratitude, and respect for Allah. It teaches us that true glory belongs only to Allah, and that worldly honor fades but divine nobility remains eternal.",
+        "virtues": "Reciting 'Yā Mājid' increases dignity, attracts respect, and strengthens one’s connection with Allah.",
+        "wazifa": "1) For Respect: Recite 'Yā Mājid' 99 times daily; Allah grants dignity and honor among people. 2) For Barakah in Life: Recite 'Yā Mājid' abundantly after Fajr; Allah fills life with blessings. 3) For Nearness to Allah: Recite 'Yā Mājid' in seclusion; Allah increases spiritual closeness and love."
+      },
+      "urdu": {
+        "name": "ٱلْمَاجِدُ – بزرگی والا، عزت والا",
+        "details": "ٱلْمَاجِدُ کا مطلب ہے بزرگی والا، عزت والا، جلال والا۔ اللہ ہی سب سے عظیم ہے، اُس کی عزت اور بزرگی بے مثال ہے۔ اُس کی سخاوت اور کرم سب پر چھایا ہوا ہے۔ دنیا کی ہر نعمت اور بھلائی اُسی کی طرف سے ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اصل عزت اور جلال اللہ ہی کے پاس ہے۔ دنیا کی عزت اور شہرت عارضی ہے مگر اللہ کی بزرگی ہمیشہ قائم ہے۔",
+        "virtues": "'یَا مَاجِد' کا ورد عزت بڑھاتا ہے، عزت دلاتا ہے اور اللہ کے ساتھ تعلق کو مضبوط کرتا ہے۔",
+        "wazifa": "1) عزت کے لئے روزانہ 99 مرتبہ 'یَا مَاجِد' پڑھیں۔ 2) فجر کے بعد کثرت سے پڑھنے والا زندگی میں برکت پاتا ہے۔ 3) خلوت میں پڑھنے والا اللہ کے قریب اور اُس کی محبت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "arabic": "ٱلْوَاحِدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wāḥid – The One, The Unique",
+        "details": "\"Al-Wāḥid\" means The One, The Unique, without any partner, equal, or rival. Allah alone is worthy of worship, and none shares in His divinity, attributes, or essence. He is One in His being, One in His power, and One in His perfection. The entire universe bears witness to His Oneness.",
+        "lesson": "Believing in Al-Wāḥid purifies faith from shirk (associating partners with Allah). It reminds us that only Allah deserves worship, trust, and love above all else.",
+        "virtues": "Reciting 'Yā Wāḥid' strengthens faith, removes doubts, and brings peace to the heart.",
+        "wazifa": "1) For Strengthening Tawḥīd: Recite 'Yā Wāḥid' 1000 times daily; Allah fills the heart with pure īmān. 2) For Removing Doubts: Recite 'Yā Wāḥid' abundantly after Tahajjud; Allah removes confusion and grants clarity. 3) For Inner Peace: Whoever recites 'Yā Wāḥid' sincerely, Allah grants tranquility and protection from shirk."
+      },
+      "urdu": {
+        "name": "ٱلْوَاحِدُ – یکتا، واحد",
+        "details": "ٱلْوَاحِدُ کا مطلب ہے واحد، یکتا، جس کا کوئی شریک، ہمسر یا مثل نہیں۔ اللہ اپنی ذات، صفات اور قدرت میں یکتا ہے۔ وہی معبودِ برحق ہے اور اُس کے ساتھ کوئی شریک نہیں۔ پوری کائنات اُس کی وحدانیت کی گواہی دیتی ہے۔",
+        "lesson": "یہ نام ہمیں توحید کی یاد دلاتا ہے اور ہمیں شرک سے بچاتا ہے۔ یہ سکھاتا ہے کہ صرف اللہ ہی عبادت، محبت اور بھروسے کے لائق ہے۔",
+        "virtues": "'یَا وَاحِد' کا ورد ایمان کو مضبوط کرتا ہے، وسوسوں کو دور کرتا ہے اور دل کو سکون دیتا ہے۔",
+        "wazifa": "1) توحید کو مضبوط کرنے کے لئے روزانہ 1000 مرتبہ 'یَا وَاحِد' پڑھیں۔ 2) تہجد کے بعد کثرت سے پڑھنے والا شک و شبہ سے نجات پاتا ہے۔ 3) اخلاص کے ساتھ پڑھنے والا دل کا سکون اور شرک سے حفاظت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "arabic": "ٱلْأَحَدُ",
+    "translations": {
+      "english": {
+        "name": "Al-Aḥad – The One, The Indivisible",
+        "details": "\"Al-Aḥad\" means The One, The Indivisible, the One who has no second, no equal, no division, and no partner. Allah is absolutely unique in His essence and attributes. Unlike creation, He cannot be divided or compared. He is beyond all limitations and unlike anything we can imagine.",
+        "lesson": "Believing in Al-Aḥad strengthens pure monotheism and reminds us that Allah alone deserves devotion and worship, without associating anything or anyone with Him.",
+        "virtues": "Reciting 'Yā Aḥad' removes fear, grants spiritual strength, and increases yaqīn (certainty in faith).",
+        "wazifa": "1) For Removing Fear: Recite 'Yā Aḥad' 100 times daily; Allah fills the heart with courage. 2) For Certainty in Faith: Recite 'Yā Aḥad' abundantly after Fajr; Allah grants yaqīn and removes doubts. 3) For Protection from Shirk: Whoever recites 'Yā Aḥad' sincerely, Allah protects from associating partners with Him."
+      },
+      "urdu": {
+        "name": "ٱلْأَحَدُ – اکیلا، بے مثل",
+        "details": "ٱلْأَحَدُ کا مطلب ہے اکیلا، بے مثل، وہ جو نہ تقسیم ہوسکتا ہے نہ کسی کا شریک ہے۔ اللہ اپنی ذات اور صفات میں ایسا یکتا ہے کہ اُس جیسا کوئی نہیں۔ وہ ہر حد اور قیاس سے بالاتر ہے اور اُس کا کوئی ثانی نہیں۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ صرف اللہ ہی عبادت اور عقیدت کے لائق ہے۔ یہ دل سے شرک اور وسوسے ختم کرتا ہے اور توحید کو مضبوط کرتا ہے۔",
+        "virtues": "'یَا أَحَد' کا ورد خوف کو دور کرتا ہے، ایمان کو مضبوط کرتا ہے اور یقین کو بڑھاتا ہے۔",
+        "wazifa": "1) خوف کے وقت روزانہ 100 مرتبہ 'یَا أَحَد' پڑھنے والا دلیر بنتا ہے۔ 2) فجر کے بعد کثرت سے پڑھنے والا یقین اور ایمان کی قوت پاتا ہے۔ 3) اخلاص سے پڑھنے والا شرک اور گمراہی سے محفوظ رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "arabic": "ٱلصَّمَدُ",
+    "translations": {
+      "english": {
+        "name": "As-Ṣamad – The Eternal, The Self-Sufficient",
+        "details": "\"As-Ṣamad\" means The Eternal, The Self-Sufficient Master, The One upon whom all creation depends while He depends on none. He is perfect in His essence and attributes, free of all needs, and the refuge to whom everyone turns in times of need. Nothing can exist without Him, yet He is independent of all.",
+        "lesson": "Believing in As-Ṣamad teaches us to rely only on Allah, for He is the source of all strength, provision, and solutions. It removes attachment to creation and fills the heart with trust in the Creator.",
+        "virtues": "Reciting 'Yā Ṣamad' grants independence from people, fulfills needs, and strengthens reliance on Allah.",
+        "wazifa": "1) For Fulfillment of Needs: Recite 'Yā Ṣamad' 100 times after every prayer; Allah fulfills genuine needs. 2) For Freedom from Dependence: Recite 'Yā Ṣamad' abundantly in solitude; Allah grants independence from creation. 3) For Removing Worries: Whoever recites 'Yā Ṣamad' sincerely, Allah opens doors of ease and comfort."
+      },
+      "urdu": {
+        "name": "ٱلصَّمَدُ – بے نیاز، قائم بالذات",
+        "details": "ٱلصَّمَدُ کا مطلب ہے بے نیاز، قائم بالذات، وہ جس پر سب کا انحصار ہے مگر وہ کسی پر محتاج نہیں۔ اللہ ہر طرح کی کمی اور حاجت سے پاک ہے۔ ساری مخلوق اُس کی محتاج ہے، مگر وہ کسی کا محتاج نہیں۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہمیشہ اللہ پر بھروسہ کریں اور مخلوق سے امید نہ لگائیں۔ ہر ضرورت کا مالک وہی ہے۔",
+        "virtues": "'یَا صَمَد' کا ورد انسان کو لوگوں کی محتاجی سے بچاتا ہے، حاجتیں پوری کرتا ہے اور اللہ پر توکل بڑھاتا ہے۔",
+        "wazifa": "1) ہر نماز کے بعد 100 مرتبہ 'یَا صَمَد' پڑھنے والا اپنی حاجت پوری پاتا ہے۔ 2) خلوت میں کثرت سے پڑھنے والا اللہ کے سوا کسی کا محتاج نہیں رہتا۔ 3) اخلاص سے پڑھنے والا غموں اور پریشانیوں سے نجات پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "arabic": "ٱلْقَادِرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Qādir – The Omnipotent, The Able",
+        "details": "\"Al-Qādir\" means The All-Powerful, The One fully able to do whatever He wills. Allah has complete power over all things in the universe—creation, life, death, provision, and destiny. Nothing is difficult or impossible for Him.",
+        "lesson": "Believing in Al-Qādir teaches us that nothing is beyond Allah’s control. It strengthens faith during hardships, reminding us that Allah is able to change any situation instantly.",
+        "virtues": "Reciting 'Yā Qādir' increases inner strength, grants ability to overcome difficulties, and fills the heart with reliance on Allah’s power.",
+        "wazifa": "1) For Overcoming Hardships: Recite 'Yā Qādir' 100 times daily; Allah grants relief and ease. 2) For Success in Goals: Recite 'Yā Qādir' abundantly before starting tasks; Allah makes them possible. 3) For Strength in Weakness: Whoever recites 'Yā Qādir' sincerely in times of fear, Allah grants courage and victory."
+      },
+      "urdu": {
+        "name": "ٱلْقَادِرُ – قدرت والا، سب پر قادر",
+        "details": "ٱلْقَادِرُ کا مطلب ہے سب پر قدرت رکھنے والا، ہر چیز پر قابو رکھنے والا۔ اللہ کے لئے کچھ بھی مشکل نہیں۔ وہ پیدا کرنے، زندگی دینے، موت دینے اور رزق عطا کرنے پر قادر ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہر کام اللہ کی قدرت میں ہے۔ مشکل وقت میں یقین رکھیں کہ اللہ لمحوں میں حالات بدل سکتا ہے۔",
+        "virtues": "'یَا قَادِر' کا ورد دل کو طاقت دیتا ہے، مشکلات آسان کرتا ہے اور انسان کو اللہ پر بھروسہ عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا قَادِر' پڑھنے والا مشکلات سے نجات پاتا ہے۔ 2) اہم کام سے پہلے پڑھنے والا کامیابی پاتا ہے۔ 3) خوف یا کمزوری میں پڑھنے والا ہمت اور فتح پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "arabic": "ٱلْمُقْتَدِرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muqtadir – The All-Determining, The Supreme Power",
+        "details": "\"Al-Muqtadir\" means The One who has supreme power and absolute authority to decide and enforce His will. Allah’s control is perfect, precise, and comprehensive over every detail of creation. Unlike human power, His authority never weakens or fails.",
+        "lesson": "Believing in Al-Muqtadir strengthens trust in Allah’s perfect planning. Even when things seem out of control, we remember that Allah’s power governs every detail with wisdom.",
+        "virtues": "Reciting 'Yā Muqtadir' increases faith in destiny, grants protection from enemies, and fills the heart with submission to Allah’s will.",
+        "wazifa": "1) For Victory: Recite 'Yā Muqtadir' 100 times daily; Allah grants success over hardships and enemies. 2) For Strengthening Faith: Recite abundantly in solitude; Allah increases yaqīn (certainty) and tawakkul (trust). 3) For Protection: Recite 'Yā Muqtadir' before travel; Allah safeguards from harm."
+      },
+      "urdu": {
+        "name": "ٱلْمُقْتَدِرُ – سب پر قابو رکھنے والا، کامل قدرت والا",
+        "details": "ٱلْمُقْتَدِرُ کا مطلب ہے وہ ذات جو مکمل اور کامل قدرت رکھتی ہے۔ اللہ ہر چھوٹی بڑی چیز پر قابو رکھتا ہے۔ اُس کا فیصلہ کبھی غلط نہیں ہوتا اور اُس کی قدرت کبھی کمزور نہیں پڑتی۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ کائنات کے تمام فیصلے اللہ کے قبضے میں ہیں۔ مشکل حالات میں بھی یقین رکھنا چاہیے کہ اللہ بہترین تدبیر والا ہے۔",
+        "virtues": "'یَا مُقْتَدِر' کا ورد ایمان کو مضبوط کرتا ہے، دشمنوں سے بچاتا ہے اور دل کو اللہ کی رضا کے سپرد کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا مُقْتَدِر' پڑھنے والا مشکلات اور دشمنوں پر غالب آتا ہے۔ 2) خلوت میں کثرت سے پڑھنے والا یقین اور توکل میں اضافہ پاتا ہے۔ 3) سفر سے پہلے پڑھنے والا اللہ کی حفاظت میں رہتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "arabic": "ٱلْمُقَدِّمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muqaddim – The Expediter, The One Who Brings Forward",
+        "details": "\"Al-Muqaddim\" means The One who brings forward, advances, and grants priority to whom He wills. Allah promotes some people in rank, position, and blessings, while others are delayed, all according to His wisdom and justice.",
+        "lesson": "Believing in Al-Muqaddim teaches us that true promotion and success come only from Allah. We should seek nearness to Him rather than relying solely on worldly means.",
+        "virtues": "Reciting 'Yā Muqaddim' grants progress, spiritual elevation, and success in righteous goals.",
+        "wazifa": "1) For Progress in Life: Recite 'Yā Muqaddim' 184 times daily; Allah grants advancement in work and life. 2) For Spiritual Growth: Recite after Tahajjud; Allah elevates one’s soul and īmān. 3) For Success in Goals: Before starting an important task, recite 'Yā Muqaddim' abundantly; Allah grants ease and success."
+      },
+      "urdu": {
+        "name": "ٱلْمُقَدِّمُ – آگے بڑھانے والا، فضیلت دینے والا",
+        "details": "ٱلْمُقَدِّمُ کا مطلب ہے وہ ذات جو جسے چاہے آگے بڑھا دیتی ہے، عزت دیتی ہے اور ترقی عطا کرتی ہے۔ اللہ اپنے بندوں میں سے جسے چاہے بلند مقام عطا کرتا ہے اور جسے چاہے مؤخر کر دیتا ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اصل ترقی اور عزت اللہ کے حکم سے ہے۔ ہمیں دنیا کے ذرائع پر بھروسہ کرنے کے بجائے اللہ کے قریب ہونا چاہیے۔",
+        "virtues": "'یَا مُقَدِّم' کا ورد ترقی عطا کرتا ہے، روحانی بلندی دیتا ہے اور مقاصد میں کامیابی عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 184 مرتبہ 'یَا مُقَدِّم' پڑھنے والا دنیاوی کاموں میں ترقی پاتا ہے۔ 2) تہجد کے بعد پڑھنے والا روحانی ترقی پاتا ہے۔ 3) کسی اہم کام سے پہلے پڑھنے والا آسانی اور کامیابی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "arabic": "ٱلْمُؤَخِّرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Mu’akhkhir – The Delayer, The One Who Puts Back",
+        "details": "\"Al-Mu’akhkhir\" means The One who delays, holds back, and postpones matters with wisdom. Allah delays the rise of some people and the fulfillment of certain matters, not out of neglect, but for a wise purpose. His delay is never without reason; it is always for the best outcome.",
+        "lesson": "Believing in Al-Mu’akhkhir teaches patience and trust in Allah’s timing. Not everything comes when we want; some delays are blessings in disguise.",
+        "virtues": "Reciting 'Yā Mu’akhkhir' brings patience, removes haste, and grants peace in waiting for Allah’s decree.",
+        "wazifa": "1) For Patience: Recite 'Yā Mu’akhkhir' 100 times daily; Allah strengthens patience. 2) For Removing Haste: Whoever recites abundantly gains peace and avoids regret. 3) For Delayed Blessings: Recite 'Yā Mu’akhkhir' after Fajr; Allah grants goodness at the right time."
+      },
+      "urdu": {
+        "name": "ٱلْمُؤَخِّرُ – پیچھے رکھنے والا، مؤخر کرنے والا",
+        "details": "ٱلْمُؤَخِّرُ کا مطلب ہے وہ ذات جو جسے چاہے پیچھے رکھے یا مؤخر کرے۔ اللہ اپنے حکمت کے تحت بعض چیزوں کو دیر سے عطا کرتا ہے، تاکہ بندے کے لئے بہتر انجام ہو۔ اُس کا مؤخر کرنا کبھی بلاوجہ نہیں ہوتا بلکہ اس میں حکمت اور بھلائی چھپی ہوتی ہے۔",
+        "lesson": "یہ نام ہمیں صبر اور اللہ کے وقت پر اعتماد کرنا سکھاتا ہے۔ ہر چیز ہماری مرضی کے وقت پر نہیں ملتی بلکہ اللہ کے وقت پر ہی بہتر ہوتی ہے۔",
+        "virtues": "'یَا مُؤَخِّر' کا ورد صبر عطا کرتا ہے، جلدبازی ختم کرتا ہے اور دل کو سکون دیتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا مُؤَخِّر' پڑھنے والا صبر پاتا ہے۔ 2) کثرت سے پڑھنے والا جلدبازی سے بچتا ہے۔ 3) فجر کے بعد پڑھنے والا مؤخر ہونے والی نعمتیں بہترین وقت پر پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "arabic": "ٱلْأَوَّلُ",
+    "translations": {
+      "english": {
+        "name": "Al-Awwal – The First, The One Without Beginning",
+        "details": "\"Al-Awwal\" means The First, the One who existed before everything and has no beginning. Everything else was created by Him, while He Himself has always existed. He is the source of all creation, the origin of every blessing, and the first cause behind everything.",
+        "lesson": "Believing in Al-Awwal reminds us that everything begins with Allah. We should start every task by remembering Him, seeking His help and guidance.",
+        "virtues": "Reciting 'Yā Awwal' brings barakah in beginnings, success in endeavors, and closeness to Allah.",
+        "wazifa": "1) For Success: Recite 'Yā Awwal' 37 times before starting any task for blessings. 2) For New Beginnings: Recite abundantly at the start of projects or journeys. 3) For Spiritual Strength: Recite after Tahajjud to draw near to Allah."
+      },
+      "urdu": {
+        "name": "ٱلْأَوَّلُ – سب سے پہلا، ابتداء کے بغیر",
+        "details": "ٱلْأَوَّلُ کا مطلب ہے سب سے پہلا، وہ جس کی کوئی ابتدا نہیں۔ اللہ ہمیشہ سے ہے اور سب کچھ اُس کے بعد وجود میں آیا۔ وہ ہر چیز کا آغاز ہے اور ہر نعمت کا منبع ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہر کام اللہ کے نام سے شروع کریں اور اس کی مدد طلب کریں کیونکہ اصل آغاز اسی کے ہاتھ میں ہے۔",
+        "virtues": "'یَا أَوَّل' کا ورد آغاز میں برکت ڈالتا ہے اور اللہ کے قرب کو بڑھاتا ہے۔",
+        "wazifa": "1) کسی بھی کام سے پہلے 37 مرتبہ 'یَا أَوَّل' پڑھنے والا کامیابی پاتا ہے۔ 2) نئے کام یا سفر کے آغاز پر کثرت سے پڑھنے والا برکت پاتا ہے۔ 3) تہجد کے بعد پڑھنے والا روحانی طاقت اور اللہ کا قرب پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "arabic": "ٱلْآخِرُ",
+    "translations": {
+      "english": {
+        "name": "Al-Ākhir – The Last, The One Without End",
+        "details": "\"Al-Ākhir\" means The Last, the One who remains after everything else perishes. Allah has no end, just as He has no beginning. He is eternal and everlasting, beyond time and creation. When everything else comes to an end, Allah alone will remain.",
+        "lesson": "Believing in Al-Ākhir reminds us that worldly life is temporary, but Allah is eternal. It teaches us to prepare for the Hereafter, which is everlasting.",
+        "virtues": "Reciting 'Yā Ākhir' protects from worldly attachment and fills the heart with focus on the Hereafter.",
+        "wazifa": "1) For Detachment from Dunya: Recite 'Yā Ākhir' 100 times daily to soften the heart. 2) For Long Life in Barakah: Recite abundantly with reflection on the Hereafter. 3) In Times of Loss: Recite 'Yā Ākhir' for patience and strength."
+      },
+      "urdu": {
+        "name": "ٱلْآخِرُ – سب کے بعد باقی رہنے والا",
+        "details": "ٱلْآخِرُ کا مطلب ہے سب کے بعد باقی رہنے والا۔ جس طرح اللہ کی کوئی ابتدا نہیں، اسی طرح اس کا کوئی انجام بھی نہیں۔ ہر چیز فنا ہو جائے گی مگر اللہ ہمیشہ باقی رہے گا۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ دنیا کی زندگی عارضی ہے، اصل زندگی آخرت کی ہے۔ اس لیے ہمیں اپنے اعمال کی تیاری آخرت کے لیے کرنی چاہیے۔",
+        "virtues": "'یَا آخِر' کا ورد دل کو دنیا کی محبت سے پاک کرتا ہے اور آخرت کی فکر عطا کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا آخِر' پڑھنے والا دل کی نرمی پاتا ہے اور دنیا سے بے رغبت ہوتا ہے۔ 2) کثرت سے پڑھنے والا اپنی زندگی میں برکت پاتا ہے۔ 3) کسی نقصان یا صدمے کے وقت پڑھنے والا صبر اور طاقت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "arabic": "ٱلظَّاهِرُ",
+    "translations": {
+      "english": {
+        "name": "Aẓ-Ẓāhir – The Manifest, The Evident",
+        "details": "\"Aẓ-Ẓāhir\" means The Manifest, The One who is evident and whose existence is clear through His signs in creation. Though Allah cannot be seen by eyes in this world, His power, mercy, and wisdom are evident everywhere in the universe. Everything in existence points to His reality.",
+        "lesson": "Believing in Aẓ-Ẓāhir teaches us to recognize Allah through His creation. Every star, tree, and breath is a sign of Him. Nothing can hide His existence.",
+        "virtues": "Reciting 'Yā Ẓāhir' increases spiritual awareness, strengthens īmān, and opens the eyes of the heart.",
+        "wazifa": "1) For Spiritual Clarity: Recite 'Yā Ẓāhir' 500 times daily; Allah opens the inner vision. 2) For Relief from Doubts: Recite abundantly to remove waswās (whispers of doubt). 3) For Hidden Truths: Recite before sleep; Allah reveals clarity in dreams and decisions."
+      },
+      "urdu": {
+        "name": "ٱلظَّاهِرُ – ظاہر ہونے والا",
+        "details": "ٱلظَّاهِرُ کا مطلب ہے ظاہر، واضح۔ اللہ کی ذات کو آنکھوں سے نہیں دیکھا جا سکتا لیکن اُس کی قدرت اور نشانیاں پوری کائنات میں ظاہر ہیں۔ ہر چیز اُس کی موجودگی اور طاقت کی گواہی دیتی ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اللہ کی پہچان اُس کی مخلوق اور نشانیوں سے کی جا سکتی ہے۔ کوئی چیز اللہ کے وجود کو چھپا نہیں سکتی۔",
+        "virtues": "'یَا ظَاہِر' کا ورد دل کو ایمان میں مضبوط کرتا ہے اور روحانی آنکھیں کھولتا ہے۔",
+        "wazifa": "1) روزانہ 500 مرتبہ 'یَا ظَاہِر' پڑھنے والا روحانی بصیرت پاتا ہے۔ 2) شک اور وسوسوں کے وقت کثرت سے پڑھنے والا سکون پاتا ہے۔ 3) سونے سے پہلے پڑھنے والا اپنے معاملات میں وضاحت اور رہنمائی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "arabic": "ٱلْبَاطِنُ",
+    "translations": {
+      "english": {
+        "name": "Al-Bāṭin – The Hidden, The Inward One",
+        "details": "\"Al-Bāṭin\" means The Hidden, The One who is beyond perception and not grasped by senses. Allah’s essence is concealed from creation, but His knowledge encompasses everything. He knows the inner realities of our hearts, intentions, and secrets that no one else can know.",
+        "lesson": "Believing in Al-Bāṭin teaches us that Allah is aware of our innermost thoughts and hidden intentions. We cannot hide from Him, even what is in our hearts.",
+        "virtues": "Reciting 'Yā Bāṭin' strengthens sincerity, removes hypocrisy, and purifies the soul.",
+        "wazifa": "1) For Sincerity: Recite 'Yā Bāṭin' 33 times after each prayer; Allah purifies the heart. 2) For Hidden Protection: Recite 309 times daily; Allah protects from hidden dangers. 3) For Inner Peace: Recite abundantly in solitude; Allah grants tranquility to the heart."
+      },
+      "urdu": {
+        "name": "ٱلْبَاطِنُ – پوشیدہ، باطن والا",
+        "details": "ٱلْبَاطِنُ کا مطلب ہے چھپا ہوا، باطن والا۔ اللہ کی ذات آنکھوں سے اوجھل ہے مگر اُس کا علم سب کو گھیرے ہوئے ہے۔ وہ دلوں کے حال، نیتوں اور رازوں کو جانتا ہے جو کوئی اور نہیں جان سکتا۔",
+        "lesson": "یہ نام ہمیں یاد دلاتا ہے کہ اللہ ہمارے دل کی نیتوں اور باطن کو جانتا ہے۔ ہم اُس سے کچھ بھی چھپا نہیں سکتے۔",
+        "virtues": "'یَا بَاطِن' کا ورد دل کو اخلاص بخشتا ہے، ریاکاری سے بچاتا ہے اور روح کو پاک کرتا ہے۔",
+        "wazifa": "1) ہر نماز کے بعد 33 مرتبہ 'یَا بَاطِن' پڑھنے والا دل کی پاکیزگی پاتا ہے۔ 2) روزانہ 309 مرتبہ پڑھنے والا چھپے ہوئے خطرات سے محفوظ رہتا ہے۔ 3) تنہائی میں کثرت سے پڑھنے والا دل کا سکون پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "arabic": "ٱلْوَالِي",
+    "translations": {
+      "english": {
+        "name": "Al-Wālī – The Protecting Friend, The Governor",
+        "details": "\"Al-Wālī\" means The Protector, The Friend, The One who governs and manages all affairs of His creation. Allah takes charge of the universe, protects His servants, and supports them in ways no one else can. He is the true Guardian who never abandons His creation.",
+        "lesson": "Believing in Al-Wālī makes us rely only on Allah as our true Protector and Guardian. It teaches us to seek His support in hardships and never depend solely on people.",
+        "virtues": "Reciting 'Yā Wālī' brings divine protection, strengthens reliance on Allah, and saves from calamities.",
+        "wazifa": "1) For Protection: Recite 'Yā Wālī' 100 times daily; Allah safeguards from harm. 2) For Peace in Family: Recite 'Yā Wālī' 41 times after Maghrib; Allah brings harmony. 3) For Success in Affairs: Recite 'Yā Wālī' abundantly before starting tasks; Allah grants ease and success."
+      },
+      "urdu": {
+        "name": "ٱلْوَالِي – کارساز، محافظ، دوست",
+        "details": "ٱلْوَالِي کا مطلب ہے محافظ، کارساز، دوست۔ اللہ اپنی مخلوق کے تمام امور کا انتظام کرتا ہے، اُن کی حفاظت کرتا ہے اور اُن کی مدد کرتا ہے۔ وہی حقیقی ولی ہے جو کبھی اپنے بندوں کو تنہا نہیں چھوڑتا۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ اصل مددگار اور کارساز صرف اللہ ہے۔ ہمیں ہر مشکل میں اُسی پر بھروسہ کرنا چاہیے اور لوگوں پر مکمل انحصار نہیں کرنا چاہیے۔",
+        "virtues": "'یَا وَالِي' کا ورد اللہ کی حفاظت دیتا ہے، دل کو توکل سے مضبوط کرتا ہے اور مصیبتوں سے بچاتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا وَالِي' پڑھنے والا ہر شر سے محفوظ رہتا ہے۔ 2) مغرب کے بعد 41 مرتبہ پڑھنے والا گھر میں سکون اور محبت پاتا ہے۔ 3) اہم کام شروع کرنے سے پہلے کثرت سے پڑھنے والا کامیابی اور آسانی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "arabic": "ٱلْمُتَعَالِي",
+    "translations": {
+      "english": {
+        "name": "Al-Mutaʿālī – The Supremely Exalted",
+        "details": "\"Al-Mutaʿālī\" means The Supremely Exalted, The One far above all imperfections, weaknesses, and limitations. Allah is exalted above His creation in rank, honor, and majesty. Nothing can reach His level, and no one can compare to His greatness.",
+        "lesson": "Believing in Al-Mutaʿālī teaches us humility, reminding us that no matter how high our status, Allah is infinitely higher. It also strengthens awe and reverence in the heart.",
+        "virtues": "Reciting 'Yā Mutaʿālī' increases humility, protects from arrogance, and brings closeness to Allah.",
+        "wazifa": "1) For Humility: Recite 'Yā Mutaʿālī' 170 times daily; Allah removes pride and arrogance. 2) For Honor: Recite 'Yā Mutaʿālī' after Fajr; Allah grants respect and dignity. 3) For Nearness to Allah: Recite abundantly in solitude; Allah fills the heart with light and closeness."
+      },
+      "urdu": {
+        "name": "ٱلْمُتَعَالِي – سب سے بلند، برتر",
+        "details": "ٱلْمُتَعَالِي کا مطلب ہے سب سے بلند، سب پر برتر، ہر کمی اور نقص سے پاک۔ اللہ اپنی مخلوق سے ہر طرح بلند ہے۔ اُس کی شان، اُس کا مقام اور اُس کی عظمت کسی کے برابر نہیں ہو سکتی۔",
+        "lesson": "یہ نام ہمیں عاجزی سکھاتا ہے کہ دنیا میں ہمارا مقام کتنا ہی بڑا کیوں نہ ہو، اللہ کا مقام اس سے کہیں زیادہ بلند ہے۔ یہ دل میں اللہ کی عظمت اور خوف پیدا کرتا ہے۔",
+        "virtues": "'یَا مُتَعَالِي' کا ورد عاجزی عطا کرتا ہے، تکبر سے بچاتا ہے اور اللہ کے قریب کرتا ہے۔",
+        "wazifa": "1) روزانہ 170 مرتبہ 'یَا مُتَعَالِي' پڑھنے والا تکبر سے محفوظ رہتا ہے۔ 2) فجر کے بعد پڑھنے والا عزت اور وقار پاتا ہے۔ 3) تنہائی میں کثرت سے پڑھنے والا دل میں نور اور اللہ کی قربت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "arabic": "ٱلْبَرُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Barr – The Source of All Goodness, The Most Kind",
+        "details": "\"Al-Barr\" means The Most Kind, The Source of Goodness, The One who is gentle, compassionate, and always bestows goodness upon His creation. Allah’s kindness surrounds us in every breath, blessing, and moment of our lives. He nurtures, guides, and forgives His servants out of pure mercy.",
+        "lesson": "Believing in Al-Barr fills the heart with gratitude and inspires us to also be kind and merciful to others. It reminds us that Allah’s goodness never fails, even when we are ungrateful.",
+        "virtues": "Reciting 'Yā Barr' brings Allah’s mercy, increases kindness in the heart, and protects from calamities.",
+        "wazifa": "1) For Mercy: Recite 'Yā Barr' 66 times daily; Allah surrounds the servant with His compassion. 2) For Protection: Recite 'Yā Barr' before traveling; Allah keeps one safe from harm. 3) For Righteous Children: Recite abundantly with duʿā; Allah blesses with obedient and kind offspring."
+      },
+      "urdu": {
+        "name": "ٱلْبَرُّ – بھلائی کا سرچشمہ، مہربان",
+        "details": "ٱلْبَرُّ کا مطلب ہے سب سے مہربان، بھلائی کرنے والا، اپنی مخلوق پر ہمیشہ کرم کرنے والا۔ اللہ کی بھلائی اور رحمت ہر وقت ہمیں گھیرے ہوئے ہے۔ وہ ہمیں رزق دیتا ہے، ہدایت دیتا ہے اور ہماری خطاؤں کو معاف کرتا ہے۔",
+        "lesson": "یہ نام ہمیں شکر گزار بناتا ہے اور دوسروں پر بھی مہربان اور نرم دل رہنے کی تعلیم دیتا ہے۔ یہ یقین دلاتا ہے کہ اللہ کی بھلائی کبھی ختم نہیں ہوتی۔",
+        "virtues": "'یَا بَرُّ' کا ورد اللہ کی رحمت کو کھینچتا ہے، دل میں نرمی پیدا کرتا ہے اور مصیبتوں سے حفاظت دیتا ہے۔",
+        "wazifa": "1) روزانہ 66 مرتبہ 'یَا بَرُّ' پڑھنے والا اللہ کی رحمت میں ڈھکا رہتا ہے۔ 2) سفر سے پہلے پڑھنے والا اللہ کی حفاظت میں رہتا ہے۔ 3) اولاد کی نیکی کے لیے دعا کے ساتھ پڑھنے والا نیک اور فرمانبردار اولاد پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "arabic": "ٱلتَّوَّابُ",
+    "translations": {
+      "english": {
+        "name": "At-Tawwāb – The Accepter of Repentance",
+        "details": "\"At-Tawwāb\" means The One who continuously accepts repentance, The One who turns to His servants with forgiveness again and again. No matter how many times a believer sins, if they sincerely repent, Allah accepts their repentance and wipes away their sins. His door of mercy is always open until the last breath.",
+        "lesson": "Believing in At-Tawwāb inspires us never to despair from Allah’s mercy and to repent frequently. It teaches us that sincere repentance brings forgiveness, closeness to Allah, and spiritual renewal.",
+        "virtues": "Reciting 'Yā Tawwāb' purifies the heart, opens the doors of forgiveness, and increases acceptance of duʿās.",
+        "wazifa": "1) For Forgiveness: Recite 'Yā Tawwāb' 40 times after Fajr prayer with sincerity; Allah forgives sins. 2) For a Pure Heart: Recite 'Yā Tawwāb' abundantly; Allah removes hardness from the heart. 3) For Acceptance of Repentance: Recite 'Yā Tawwāb' daily after every salah; Allah draws the servant closer to Him."
+      },
+      "urdu": {
+        "name": "ٱلتَّوَّابُ – توبہ قبول کرنے والا",
+        "details": "ٱلتَّوَّابُ کا مطلب ہے بار بار توبہ قبول کرنے والا۔ بندہ کتنی ہی مرتبہ خطا کرے، اگر وہ سچے دل سے توبہ کرے تو اللہ اس کی توبہ کو قبول فرما لیتا ہے۔ اللہ کی رحمت کا دروازہ آخری سانس تک کھلا رہتا ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ کبھی اللہ کی رحمت سے مایوس نہ ہوں بلکہ بار بار توبہ کریں، کیونکہ سچی توبہ سے گناہ مٹ جاتے ہیں اور دل کو سکون ملتا ہے۔",
+        "virtues": "'یَا تَوَّاب' کا ورد دل کو پاک کرتا ہے، دعاؤں کی قبولیت بڑھاتا ہے اور بخشش کے دروازے کھول دیتا ہے۔",
+        "wazifa": "1) فجر کے بعد 40 مرتبہ 'یَا تَوَّاب' پڑھنے والا اللہ کی مغفرت پاتا ہے۔ 2) کثرت سے پڑھنے والا دل کی سختی سے نجات پاتا ہے۔ 3) ہر نماز کے بعد پڑھنے والا اللہ کے قریب ہو جاتا ہے اور توبہ قبول ہوتی ہے۔"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "arabic": "ٱلْمُنْتَقِمُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muntaqim – The Avenger",
+        "details": "\"Al-Muntaqim\" means The Avenger, The One who justly inflicts punishment upon the oppressors, the arrogant, and those who spread corruption. Allah never wrongs anyone; His punishment is always with justice and wisdom. He gives many chances for repentance, but if someone persists in wrongdoing, He takes retribution against them.",
+        "lesson": "Believing in Al-Muntaqim makes us cautious of committing injustice or oppression. It also comforts the oppressed that no tyranny will go unpunished, even if justice seems delayed in this world.",
+        "virtues": "Reciting 'Yā Muntaqim' brings protection from oppressors, removes fear of enemies, and strengthens trust in Allah’s justice.",
+        "wazifa": "1) For Protection from Oppressors: Recite 'Yā Muntaqim' 100 times daily; Allah protects from injustice. 2) For Victory against Enemies: In times of hardship, recite 'Yā Muntaqim' abundantly; Allah grants help. 3) For Inner Strength: Recite 'Yā Muntaqim' after Tahajjud to strengthen faith and reliance on Allah’s justice."
+      },
+      "urdu": {
+        "name": "ٱلْمُنْتَقِمُ – بدلہ لینے والا",
+        "details": "ٱلْمُنْتَقِمُ کا مطلب ہے بدلہ لینے والا، انصاف کے ساتھ سزا دینے والا۔ اللہ ظالموں، متکبروں اور فساد پھیلانے والوں کو سزا دیتا ہے۔ اللہ کبھی ظلم نہیں کرتا، اُس کی پکڑ عدل اور حکمت کے ساتھ ہوتی ہے۔ وہ بار بار مہلت دیتا ہے، مگر اگر کوئی باز نہ آئے تو پھر اُس پر سختی کرتا ہے۔",
+        "lesson": "یہ نام ہمیں ظلم اور گناہ سے بچنے کی نصیحت کرتا ہے۔ اور مظلوم کے دل کو تسلی دیتا ہے کہ ظالم کی پکڑ ضرور ہوگی، چاہے دنیا میں ہو یا آخرت میں۔",
+        "virtues": "'یَا مُنْتَقِم' کا ورد ظالموں کے شر سے بچاتا ہے، دل کو سکون دیتا ہے اور اللہ کی عدل پر یقین کو مضبوط کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا مُنْتَقِم' پڑھنے والا ظلم سے محفوظ رہتا ہے۔ 2) دشمنوں کے شر کے وقت کثرت سے پڑھنے والا اللہ کی مدد پاتا ہے۔ 3) تہجد کے بعد پڑھنے والا ایمان اور حوصلے میں مضبوط ہوتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "arabic": "ٱلْعَفُوُ",
+    "translations": {
+      "english": {
+        "name": "Al-‘Afuww – The Pardoner",
+        "details": "\"Al-‘Afuww\" means The Pardoner, The Forgiver, The One who erases sins completely. Unlike forgiveness (Maghfirah), which means to cover sins, ‘Afw means to erase them entirely as if they never existed. Allah pardons abundantly, especially for those who repent sincerely and seek His forgiveness.",
+        "lesson": "Believing in Al-‘Afuww encourages us to repent often and seek forgiveness. It also teaches us to pardon others, just as we hope Allah pardons us.",
+        "virtues": "Reciting 'Yā ‘Afuww' wipes away sins, brings Allah’s mercy, and softens the heart.",
+        "wazifa": "1) On Laylat-ul-Qadr, recite 'Allāhumma innaka ‘Afuwwun tuḥibbul-‘afwa fa‘fu ‘annī' to gain Allah’s pardon. 2) Recite 'Yā ‘Afuww' 100 times daily to erase minor sins. 3) After every salah, recite 'Yā ‘Afuww' to attain peace and Allah’s forgiveness."
+      },
+      "urdu": {
+        "name": "ٱلْعَفُوُ – معاف کرنے والا",
+        "details": "ٱلْعَفُوُ کا مطلب ہے درگزر کرنے والا، معاف کرنے والا، ایسا جو گناہوں کو اس طرح مٹا دیتا ہے جیسے وہ کبھی ہوئے ہی نہ ہوں۔ مغفرت (گناہ چھپانے) سے بھی بڑھ کر یہ ہے کہ اللہ گناہوں کو مکمل طور پر مٹا دیتا ہے۔ اللہ اپنے بندوں کو خاص طور پر معاف کرتا ہے جب وہ سچے دل سے توبہ کرتے ہیں۔",
+        "lesson": "یہ نام ہمیں کثرت سے توبہ کرنے اور اللہ سے معافی مانگنے کی ترغیب دیتا ہے۔ یہ ہمیں دوسروں کو معاف کرنے کا بھی سبق دیتا ہے۔",
+        "virtues": "'یَا عَفُو' کا ورد گناہوں کو مٹا دیتا ہے، دل کو نرم کرتا ہے اور اللہ کی رحمت لاتا ہے۔",
+        "wazifa": "1) لیلة القدر پر یہ دعا پڑھو: 'اَللّٰهُمَّ اِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي' تاکہ اللہ مکمل معافی دے۔ 2) روزانہ 100 مرتبہ 'یَا عَفُو' پڑھنے والا گناہوں سے پاک ہوتا ہے۔ 3) ہر نماز کے بعد پڑھنے والا سکون اور بخشش پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "arabic": "ٱلْرَّؤُفُ",
+    "translations": {
+      "english": {
+        "name": "Ar-Ra’ūf – The Most Kind, The Compassionate",
+        "details": "\"Ar-Ra’ūf\" means The Most Kind, The Tenderly Compassionate. It describes Allah’s extreme gentleness and kindness towards His creation. While Ar-Rahmān and Ar-Rahīm denote mercy, Ar-Ra’ūf emphasizes Allah’s delicate, soft care that protects us even from hidden harms. He provides guidance, opportunities, and blessings with subtle mercy beyond our comprehension.",
+        "lesson": "Believing in Ar-Ra’ūf fills the heart with gratitude and love for Allah’s care. It teaches us to deal gently with people, showing kindness and compassion in our own lives.",
+        "virtues": "Reciting 'Yā Ra’ūf' brings Allah’s kindness, removes hardships, and fills the heart with softness and empathy.",
+        "wazifa": "1) Recite 'Yā Ra’ūf' 100 times after Fajr for ease in daily affairs. 2) In distress, recite 'Yā Ra’ūf' abundantly to receive Allah’s tender help. 3) For family harmony and love, recite 'Yā Ra’ūf' 70 times daily."
+      },
+      "urdu": {
+        "name": "ٱلْرَّؤُفُ – نہایت مہربان",
+        "details": "ٱلْرَّؤُفُ کا مطلب ہے نہایت مہربان، انتہائی شفیق۔ یہ اللہ کی بے حد نرمی اور شفقت کو ظاہر کرتا ہے۔ جہاں 'الرَّحْمٰن' اور 'الرَّحِيم' رحمت کو ظاہر کرتے ہیں، وہاں 'الرَّؤُفُ' خاص طور پر اللہ کی لطیف اور نازک شفقت کو بیان کرتا ہے جو بندوں کو چھپی ہوئی آفات سے بھی بچاتی ہے۔",
+        "lesson": "یہ نام ہمیں شکر گزاری اور محبت سکھاتا ہے۔ ہمیں دوسروں کے ساتھ بھی نرمی، مہربانی اور شفقت سے پیش آنا چاہیے۔",
+        "virtues": "'یَا رَؤُف' کا ورد دل کو نرم کرتا ہے، مشکلات کو دور کرتا ہے اور اللہ کی شفقت عطا کرتا ہے۔",
+        "wazifa": "1) فجر کے بعد 100 مرتبہ 'یَا رَؤُف' پڑھنے والا روزمرہ معاملات میں آسانی پاتا ہے۔ 2) پریشانی میں کثرت سے پڑھنے والا اللہ کی مدد اور شفقت پاتا ہے۔ 3) روزانہ 70 مرتبہ پڑھنے والا خاندان میں محبت اور ہم آہنگی پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "arabic": "مَالِكُ الْمُلْكُ",
+    "translations": {
+      "english": {
+        "name": "Mālik-ul-Mulk – The Owner of Sovereignty",
+        "details": "\"Mālik-ul-Mulk\" means The Owner of All Dominion, The Eternal King. Allah is the absolute Master of all creation, the true Owner of the heavens, the earth, and everything within. He gives power and authority to whom He wills and takes it away whenever He wills. All kings, rulers, and nations are under His control, and no one can challenge His authority.",
+        "lesson": "This Name teaches us that worldly power, wealth, and status are temporary. True ownership and authority belong only to Allah. Therefore, we should not be arrogant over our positions and should remain humble.",
+        "virtues": "Reciting 'Yā Mālik-ul-Mulk' protects from oppression, grants inner strength, and reminds the heart that all power rests with Allah.",
+        "wazifa": "1) Recite 'Yā Mālik-ul-Mulk' 100 times daily to be protected from injustice. 2) Recite after Isha prayer for relief from financial hardship. 3) Recite abundantly in times of weakness to gain strength and confidence."
+      },
+      "urdu": {
+        "name": "مَالِكُ الْمُلْكُ – بادشاہت کا مالک",
+        "details": "مَالِكُ الْمُلْكُ کا مطلب ہے بادشاہت کا مالک، کائنات کا حقیقی حکمران۔ زمین و آسمان اور اس کے درمیان جو کچھ ہے سب اللہ کی ملکیت ہے۔ وہ جسے چاہے حکومت دیتا ہے اور جس سے چاہے چھین لیتا ہے۔ دنیا کے بادشاہ اور حکمران بھی اللہ کے محتاج ہیں۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ دنیا کی طاقت اور عزت عارضی ہے۔ اصل اختیار اور ملکیت صرف اللہ کے پاس ہے۔ اس لئے انسان کو غرور نہیں کرنا چاہیے بلکہ عاجزی اختیار کرنی چاہیے۔",
+        "virtues": "'یَا مَالِكُ الْمُلْكُ' کا ورد ظلم سے حفاظت کرتا ہے، دل کو طاقت دیتا ہے اور انسان کو یاد دلاتا ہے کہ سب اختیار اللہ کے پاس ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ 'یَا مَالِكُ الْمُلْكُ' پڑھنے والا ظلم سے محفوظ رہتا ہے۔ 2) عشاء کے بعد پڑھنے والا مالی مشکلات سے نجات پاتا ہے۔ 3) کمزوری یا خوف میں کثرت سے پڑھنے والا طاقت اور اعتماد پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "translations": {
+      "english": {
+        "name": "Dhul-Jalāli wal-Ikrām – The Lord of Majesty and Generosity",
+        "details": "\"Dhul-Jalāli wal-Ikrām\" means The Possessor of Majesty and Honor, The Lord of Glory and Bounty. Allah is the One who is full of Majesty, Perfection, and Greatness, and at the same time, He is the Most Generous and Kind, bestowing endless mercy and blessings upon His servants. This Name combines both awe and beauty: His greatness inspires reverence, while His generosity inspires love and gratitude.",
+        "lesson": "This Name teaches us to recognize both Allah’s Majesty (Jalāl) and His Generosity (Ikrām). We should live in humility before His Majesty and be grateful for His endless kindness.",
+        "virtues": "Reciting 'Yā Dhul-Jalāli wal-Ikrām' softens the heart, removes hardships, increases honor, and brings divine generosity in life.",
+        "wazifa": "1) Recite 'Yā Dhul-Jalāli wal-Ikrām' abundantly after Fajr and Maghrib to gain Allah’s special mercy. 2) Recite 100 times daily for barakah in rizq and family. 3) In times of distress, recite it sincerely to find relief and honor."
+      },
+      "urdu": {
+        "name": "ذُو الْجَلَالِ وَالْإِكْرَامِ – عظمت اور عزت والا",
+        "details": "ذُو الْجَلَالِ وَالْإِكْرَامِ کا مطلب ہے عظمت اور عزت والا، جلال اور کرم والا۔ اللہ اپنی شان و عظمت میں کامل ہے اور اپنی سخاوت و کرم میں بے مثال ہے۔ یہ نام ہمیں اللہ کی ہیبت اور اس کے فضل و رحمت دونوں کو یاد دلاتا ہے۔ اس کی عظمت سے دل میں خشیت پیدا ہوتی ہے اور اس کے کرم سے محبت اور شکر گزاری۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہمیں اللہ کی عظمت کے سامنے عاجزی اختیار کرنی چاہیے اور اس کی بے پایاں رحمت پر شکر ادا کرنا چاہیے۔",
+        "virtues": "'یَا ذُو الْجَلَالِ وَالْإِكْرَامِ' کا ورد دل کو نرم کرتا ہے، مشکلات کو دور کرتا ہے، عزت میں اضافہ کرتا ہے اور اللہ کے کرم کو اپنی زندگی میں کھینچتا ہے۔",
+        "wazifa": "1) فجر اور مغرب کے بعد کثرت سے پڑھنے والا اللہ کی خاص رحمت پاتا ہے۔ 2) روزانہ 100 مرتبہ پڑھنے والا رزق اور خاندان میں برکت پاتا ہے۔ 3) مشکل وقت میں اخلاص کے ساتھ پڑھنے والا سکون اور عزت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "arabic": "ٱلْمُقْسِطُ",
+    "translations": {
+      "english": {
+        "name": "Al-Muqsit – The Just, The Equitable",
+        "details": "\"Al-Muqsit\" means The Just, The One who delivers justice with complete fairness and balance. Allah ensures that everyone receives their due without oppression or favoritism. He establishes perfect justice in this world and the Hereafter. Even if injustices appear in the world, ultimate fairness will be fulfilled by Al-Muqsit on the Day of Judgment.",
+        "lesson": "This Name teaches us to practice fairness in our dealings, avoid oppression, and trust that Allah will restore balance and justice in all matters.",
+        "virtues": "Reciting 'Yā Muqsit' purifies the heart from injustice, helps one act fairly, and protects from oppression.",
+        "wazifa": "1) Recite 'Yā Muqsit' 100 times daily to develop justice and sincerity. 2) Recite abundantly in disputes to bring fairness and peace. 3) For protection against oppression, recite after Fajr and trust Allah’s justice."
+      },
+      "urdu": {
+        "name": "ٱلْمُقْسِطُ – انصاف کرنے والا",
+        "details": "ٱلْمُقْسِطُ کا مطلب ہے انصاف کرنے والا، عدل قائم کرنے والا۔ اللہ تعالیٰ ہر معاملے میں مکمل انصاف کرتا ہے۔ دنیا میں چاہے ظلم ہوتا نظر آئے مگر قیامت کے دن اللہ تعالیٰ مکمل عدل کے ساتھ ہر ایک کا حق دے گا۔ وہ کسی پر ذرہ برابر بھی ظلم نہیں کرتا۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہمیں بھی اپنے معاملات میں انصاف کرنا چاہیے، ظلم اور ناانصافی سے بچنا چاہیے اور یہ یقین رکھنا چاہیے کہ اللہ ہر چیز کا فیصلہ عدل کے ساتھ کرے گا۔",
+        "virtues": "'یَا مُقْسِط' کا ورد دل کو عدل کی طرف مائل کرتا ہے، ناانصافی سے بچاتا ہے اور ظلم سے حفاظت دیتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ پڑھنے والا انصاف پسند بنتا ہے۔ 2) جھگڑوں اور اختلافات میں کثرت سے پڑھنے والا صلح اور انصاف پاتا ہے۔ 3) ظلم سے بچنے کے لئے فجر کے بعد پڑھنے والا اللہ کی طرف سے حفاظت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "arabic": "ٱلْجَامِعُ",
+    "translations": {
+      "english": {
+        "name": "Al-Jāmiʿ – The Gatherer, The Uniter",
+        "details": "\"Al-Jāmiʿ\" means The Gatherer, The One who unites and brings together what is scattered. Allah gathers people, hearts, sustenance, and deeds. On the Day of Judgment, He will gather all creation for accountability. He unites believers in love, mercy, and faith, and brings together what was separated by distance, time, or circumstances.",
+        "lesson": "This Name reminds us to work towards unity, avoid division, and trust that Allah will gather us with our loved ones and the righteous in this world and the Hereafter.",
+        "virtues": "Reciting 'Yā Jāmiʿ' strengthens relationships, removes loneliness, and brings unity of hearts.",
+        "wazifa": "1) Recite 'Yā Jāmiʿ' 11 times daily to strengthen family bonds. 2) Recite 70 times after Fajr to be united with loved ones. 3) For solving disputes, recite abundantly and Allah brings harmony."
+      },
+      "urdu": {
+        "name": "ٱلْجَامِعُ – جمع کرنے والا",
+        "details": "ٱلْجَامِعُ کا مطلب ہے جمع کرنے والا، اکٹھا کرنے والا۔ اللہ دلوں کو جوڑتا ہے، رشتوں میں محبت ڈالتا ہے اور بکھری ہوئی چیزوں کو یکجا کرتا ہے۔ قیامت کے دن وہ سب مخلوق کو ایک جگہ جمع کرے گا تاکہ ہر ایک سے حساب لیا جائے۔",
+        "lesson": "یہ نام ہمیں اتحاد اور محبت کی تعلیم دیتا ہے، ہمیں تفرقہ سے بچنا چاہیے اور یہ یقین رکھنا چاہیے کہ اللہ ہمیں اپنے پیاروں اور نیک لوگوں کے ساتھ جمع کرے گا۔",
+        "virtues": "'یَا جَامِع' کا ورد تعلقات کو مضبوط کرتا ہے، دلوں کو جوڑتا ہے اور تنہائی کو ختم کرتا ہے۔",
+        "wazifa": "1) روزانہ 11 مرتبہ پڑھنے والا خاندان میں محبت پاتا ہے۔ 2) فجر کے بعد 70 مرتبہ پڑھنے والا اپنے پیاروں کے ساتھ جمع ہوتا ہے۔ 3) جھگڑوں کے حل کے لئے کثرت سے پڑھنے والا اتحاد اور سکون پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "arabic": "ٱلْغَنِيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Ghaniyy – The Self-Sufficient, The Independent",
+        "details": "\"Al-Ghaniyy\" means The One who is completely Independent, Free of all needs. Allah does not need His creation, while every creature depends on Him. His treasures never diminish, and He grants without measure. All richness, wealth, and sufficiency belong to Him alone.",
+        "lesson": "This Name teaches us not to depend too much on people or material things, but to rely on Allah, the Truly Self-Sufficient. Our worship and obedience are for our benefit, not because Allah needs them.",
+        "virtues": "Reciting 'Yā Ghaniyy' removes poverty from the heart, fills life with contentment, and brings blessings in sustenance.",
+        "wazifa": "1) Recite 'Yā Ghaniyy' 100 times daily for relief from financial worries. 2) Recite abundantly to gain self-sufficiency and contentment. 3) Recite after Fajr prayer to attract barakah in wealth and life."
+      },
+      "urdu": {
+        "name": "ٱلْغَنِيُّ – بے نیاز",
+        "details": "ٱلْغَنِيُّ کا مطلب ہے بے نیاز، کسی کا محتاج نہ ہونا۔ اللہ تعالیٰ ہر چیز سے بے نیاز ہے، مگر ہر مخلوق اسی پر محتاج ہے۔ اس کے خزانوں میں کوئی کمی نہیں آتی اور وہ جسے چاہے بے حساب عطا کرتا ہے۔",
+        "lesson": "یہ نام ہمیں سکھاتا ہے کہ ہمیں لوگوں یا دنیا پر زیادہ بھروسہ نہیں کرنا چاہیے بلکہ اللہ پر اعتماد رکھنا چاہیے، کیونکہ وہی حقیقی بے نیاز ہے۔",
+        "virtues": "'یَا غَنِی' کا ورد دل کو قناعت عطا کرتا ہے، رزق میں برکت دیتا ہے اور غربت کو ختم کرتا ہے۔",
+        "wazifa": "1) روزانہ 100 مرتبہ پڑھنے والا مالی پریشانیوں سے نجات پاتا ہے۔ 2) کثرت سے پڑھنے والا دل کا غنی ہو جاتا ہے اور قناعت پاتا ہے۔ 3) فجر کے بعد پڑھنے والا رزق اور زندگی میں برکت پاتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "arabic": "ٱلْمُغْنِيُّ",
+    "translations": {
+      "english": {
+        "name": "Al-Mughnī – The Enricher",
+        "details": "\"Al-Mughnī\" means The One who enriches and bestows wealth, sufficiency, and independence upon whom He wills. He is the true source of prosperity and fulfillment in every form—spiritual, emotional, and material. Allah enriches both hearts and hands.",
+        "lesson": "We should ask only Allah to enrich us—be it in wealth, knowledge, or inner peace. True richness is contentment, and He alone grants it.",
+        "virtues": "Reciting 'Yā Mughnī' brings halal rizq, removes financial blockages, and opens doors of unseen blessings.",
+        "wazifa": "1) Recite 'Yā Mughnī' 1100 times after Isha for 11 days for increase in halal rizq. 2) Recite daily to become self-reliant and financially independent. 3) Use in du'as while seeking lawful provisions and relief from debts."
+      },
+      "urdu": {
+        "name": "ٱلْمُغْنِيُّ – غنی کرنے والا",
+        "details": "ٱلْمُغْنِيُّ کا مطلب ہے وہ ذات جو غنی کرتی ہے، جو اپنے بندوں کو رزق، کفایت، اور خود کفالت عطا کرتی ہے۔ اللہ تعالیٰ دلوں اور ہاتھوں دونوں کو مالا مال کر دیتا ہے۔",
+        "lesson": "ہمیں صرف اللہ سے ہی غناء مانگنا چاہیے، چاہے وہ علم ہو، رزق ہو یا دل کا سکون۔ حقیقی غنا قناعت ہے، جو اللہ ہی عطا کرتا ہے۔",
+        "virtues": "'یَا مُغْنِي' کا ورد رزقِ حلال میں اضافہ، مالی رکاوٹوں کا خاتمہ اور غیبی دروازوں کے کھلنے کا سبب بنتا ہے۔",
+        "wazifa": "1) عشاء کے بعد 'یَا مُغْنِي' کو 1100 مرتبہ 11 دن تک پڑھیں، رزق میں اضافہ ہوگا۔ 2) روزانہ پڑھنے والا مالی طور پر خود کفیل ہو جاتا ہے۔ 3) قرض سے نجات کے لیے دعا کے ساتھ پڑھیں۔"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "arabic": "ٱلْمَانِعُ",
+    "translations": {
+      "english": {
+        "name": "Al-Māniʿ – The Withholder / The Preventer",
+        "details": "\"Al-Māniʿ\" means The One who prevents harm, withholds what is not beneficial, and protects His servants from what is harmful in ways they may not even realize. He blocks what would mislead or damage us—even if we desire it.",
+        "lesson": "Sometimes not getting what we want is a mercy from Allah. Trust His wisdom in withholding, as He knows what we do not.",
+        "virtues": "Reciting 'Yā Māniʿ' protects from harm, envy, and spiritual misguidance. It builds trust in divine wisdom during times of denial or delay.",
+        "wazifa": "1) Recite 'Yā Māniʿ' 99 times after Fajr for protection from evil and harm. 2) Read before traveling for safety. 3) In moments of grief or loss, repeat to calm the heart and find contentment."
+      },
+      "urdu": {
+        "name": "ٱلْمَانِعُ – روکنے والا",
+        "details": "ٱلْمَانِعُ کا مطلب ہے وہ ذات جو نقصان دہ چیزوں سے روکتی ہے، اور جو بندے کے حق میں نہ ہو، اسے عطا نہیں کرتی۔ اللہ ہمیں ان چیزوں سے بھی بچاتا ہے جن کے نقصان ہم نہیں جانتے۔",
+        "lesson": "کبھی کبھار نہ ملنا بھی اللہ کی رحمت ہوتی ہے۔ اللہ کی روکنے والی حکمت پر بھروسا رکھو، وہ جانتا ہے جو ہم نہیں جانتے۔",
+        "virtues": "'یَا مَانِع' کا ورد حسد، نقصان اور گمراہی سے تحفظ دیتا ہے، اور دل کو سکون بخشتا ہے۔",
+        "wazifa": "1) فجر کے بعد 'یَا مَانِع' کو 99 مرتبہ پڑھیں تاکہ برائیوں سے حفاظت ہو۔ 2) سفر سے پہلے پڑھیں حفاظت کے لیے۔ 3) غم یا کمی کے وقت پڑھیں تاکہ دل کو سکون ملے۔"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "arabic": "ٱلضَّارُّ",
+    "translations": {
+      "english": {
+        "name": "Ad-Dārr – The Distresser / The Afflicter",
+        "details": "Ad-Dārr means The One who allows harm or affliction by His wisdom and justice. Nothing harmful touches creation without His permission, and every trial has a purpose in the grand design.",
+        "lesson": "Hardships are not punishments—they're often means of purification, growth, and awakening. Turn to Him in trials and trust that there's wisdom behind every pain.",
+        "virtues": "Remembering 'Yā Dārr' can deepen understanding of divine balance—how even pain can bring hidden blessings. It instills humility and acceptance during tough times.",
+        "wazifa": "1) Recite 'Yā Dārr' when going through difficulties to develop sabr (patience). 2) Helps understand deeper purpose behind hardships. 3) Brings clarity in confusing moments of loss or trial."
+      },
+      "urdu": {
+        "name": "ٱلضَّارُّ – تکلیف دینے والا",
+        "details": "ٱلضَّارُّ کا مطلب ہے وہ ذات جو اپنے علم و حکمت سے آزمائش یا تکلیف نازل کرتی ہے۔ کوئی بھی تکلیف اس کی اجازت کے بغیر نہیں پہنچ سکتی۔ ہر درد میں چھپی حکمت ہوتی ہے۔",
+        "lesson": "مصیبتیں اکثر تربیت، پاکیزگی، اور رجوع کا ذریعہ ہوتی ہیں۔ صبر کے ساتھ اللہ پر بھروسا رکھو، وہی جانتا ہے کہ کب کیا بہتر ہے۔",
+        "virtues": "'یَا ضَار' کا ذکر آزمائشوں میں صبر پیدا کرتا ہے، اور دکھ کی گھڑیوں میں حکمت کو سمجھنے میں مدد دیتا ہے۔",
+        "wazifa": "1) مشکل وقت میں 'یَا ضَار' پڑھیں تاکہ صبر حاصل ہو۔ 2) دکھ کی گہرائیوں میں اللہ کی حکمت کو سمجھنے کی توفیق ملتی ہے۔ 3) گمراہی یا دکھ کی کیفیت میں روشنی عطا کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "arabic": "ٱلنَّافِعُ",
+    "translations": {
+      "english": {
+        "name": "An-Nāfiʿ – The Propitious / The Benefactor",
+        "details": "An-Nāfiʿ is The One who brings about benefit and advantage to His creation. Every good, healing, blessing, and success ultimately comes from Him. He grants benefit through means seen and unseen.",
+        "lesson": "Never rely solely on the means—always turn to the Source of all benefit. Ask Him to place goodness in your efforts, relationships, and intentions.",
+        "virtues": "Reciting 'Yā Nāfiʿ' brings barakah (blessing) in work, knowledge, and life. It increases rizq (sustenance) and invites hidden ease in daily matters.",
+        "wazifa": "1) Recite 'Yā Nāfiʿ' 41 times daily for benefit in health and wealth. 2) Brings divine support in endeavors. 3) Enhances clarity, wisdom, and impact in one’s actions."
+      },
+      "urdu": {
+        "name": "ٱلنَّافِعُ – نفع پہنچانے والا",
+        "details": "ٱلنَّافِعُ وہ ذات ہے جو مخلوق کو فائدہ پہنچاتی ہے۔ ہر نعمت، کامیابی اور شفا اسی کی عطا سے ہے، چاہے وہ ظاہر ہو یا چھپی ہوئی۔",
+        "lesson": "وسائل پر نہیں، وسیلہ دینے والے پر بھروسا کرو۔ اللہ ہی ہر فائدے اور بہتری کا اصل ذریعہ ہے۔",
+        "virtues": "'یَا نَافِع' کا ورد رزق میں برکت، علم میں فائدہ اور کاموں میں آسانی پیدا کرتا ہے۔",
+        "wazifa": "1) 'یَا نَافِع' کو روزانہ 41 مرتبہ پڑھنے سے صحت و رزق میں فائدہ ہوتا ہے۔ 2) کوششوں میں اللہ کی مدد شامل ہوتی ہے۔ 3) اعمال میں اثر اور حکمت آتی ہے۔"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "arabic": "ٱلنُّورُ",
+    "translations": {
+      "english": {
+        "name": "An-Nūr – The Light",
+        "details": "An-Nūr is the One who is Light and who guides with His Light. He illuminates hearts, minds, and paths with truth. All guidance, clarity, and inner peace stem from His divine Light.",
+        "lesson": "When you're lost in confusion, seek Allah’s Light to guide your heart. His Light removes darkness from within and without.",
+        "virtues": "Reciting 'Yā Nūr' brightens the heart, increases inner clarity, and dispels spiritual darkness. It strengthens iman and attracts divine guidance.",
+        "wazifa": "1) Recite 'Yā Nūr' 256 times after Fajr for noor in the heart and life. 2) Helpful in finding solutions and clear decisions. 3) Enhances vision (basirah) and spiritual strength."
+      },
+      "urdu": {
+        "name": "ٱلنُّورُ – روشنی دینے والا",
+        "details": "ٱلنُّورُ وہ ذات ہے جو ہر ظاہری اور باطنی اندھیرے کو دور کرتی ہے۔ وہ دلوں کو ہدایت اور بصیرت سے منور کرتا ہے۔",
+        "lesson": "جب راہ نہ سوجھے، تو اللہ کے نور سے رہنمائی مانگو۔ وہی دل کی تاریکیوں کو روشنی میں بدلتا ہے۔",
+        "virtues": "'یَا نُور' کے ورد سے دل منور ہوتا ہے، روحانیت بڑھتی ہے اور ذہنی الجھنیں دور ہوتی ہیں۔",
+        "wazifa": "1) 'یَا نُور' کو فجر کے بعد 256 بار پڑھنے سے دل روشن ہوتا ہے۔ 2) فیصلہ سازی میں مدد ملتی ہے۔ 3) بصیرت اور روحانی طاقت بڑھتی ہے۔"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "arabic": "ٱلْهَادِي",
+    "translations": {
+      "english": {
+        "name": "Al-Hādī – The Guide",
+        "details": "Al-Hādī is the One who guides hearts and minds to the truth. He directs all creation towards righteousness and opens paths for those who sincerely seek Him.",
+        "lesson": "True guidance comes only from Allah. When confused or lost, turn to Him with humility and ask for His direction.",
+        "virtues": "Reciting 'Yā Hādī' brings clarity in decisions, strengthens faith, and removes misguidance from the heart. It opens spiritual paths and brings closeness to Allah.",
+        "wazifa": "1) Recite 'Yā Hādī' 100 times daily to remain on the straight path. 2) Beneficial for students, seekers of knowledge, and those confused in life matters. 3) Helps in overcoming doubts and distractions."
+      },
+      "urdu": {
+        "name": "ٱلْهَادِي – ہدایت دینے والا",
+        "details": "ٱلْهَادِي وہ ذات ہے جو دلوں کو حق کی طرف رہنمائی کرتی ہے۔ وہی سیدھی راہ دکھاتا ہے اور تلاش کرنے والوں کے لیے دروازے کھولتا ہے۔",
+        "lesson": "سچی ہدایت صرف اللہ سے ہے۔ جب الجھن یا بھٹکاؤ ہو تو عاجزی سے اس کی رہنمائی طلب کرو۔",
+        "virtues": "'یَا هَادِی' کا ورد دل کی راہنمائی کے لیے مفید ہے، ایمان میں اضافہ کرتا ہے اور گمراہی سے بچاتا ہے۔",
+        "wazifa": "1) روزانہ 100 بار 'یَا هَادِی' پڑھنا سیدھے راستے پر قائم رکھتا ہے۔ 2) طالب علموں اور سچ کی تلاش کرنے والوں کے لیے بہت مفید ہے۔ 3) شکوک اور وسوسوں کو ختم کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "arabic": "ٱلْبَدِيعُ",
+    "translations": {
+      "english": {
+        "name": "Al-Badīʿ – The Incomparable Originator",
+        "details": "Al-Badīʿ is the One who creates without any prior model or material. His creations are unique and beyond human imagination. He brings forth wonders from nothingness.",
+        "lesson": "Allah’s creativity is limitless. Trust Him to bring new solutions, paths, and blessings into your life—even when none seem possible.",
+        "virtues": "Reciting 'Yā Badīʿ' can inspire innovation, heal hopelessness, and invite divine intervention in seemingly impossible situations.",
+        "wazifa": "1) Recite 'Yā Badīʿ' 100 times after Fajr for miraculous help. 2) Beneficial in times of despair or confusion. 3) Helps unlock creativity and spiritual insight."
+      },
+      "urdu": {
+        "name": "ٱلْبَدِيعُ – بے مثال پیدا کرنے والا",
+        "details": "ٱلْبَدِيعُ وہ ذات ہے جو بغیر کسی مثال کے نئی مخلوق پیدا کرتا ہے۔ اس کی تخلیقات نرالی اور حیرت انگیز ہوتی ہیں۔",
+        "lesson": "اللہ کی تخلیق کی قدرت بے حد ہے۔ وہ وہاں سے راہ نکالتا ہے جہاں کوئی راستہ نظر نہیں آتا۔",
+        "virtues": "'یَا بَدِیْع' کا ورد ناممکن کو ممکن بنانے میں مدد دیتا ہے، ناامیدی دور کرتا ہے اور نئی راہیں کھولتا ہے۔",
+        "wazifa": "1) روزانہ فجر کے بعد 100 بار 'یَا بَدِیْع' پڑھیں۔ 2) مشکل حالات میں فائدہ مند ہے۔ 3) تخلیقی قوتوں اور روحانی بصیرت میں اضافہ کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "arabic": "ٱلْبَاقِي",
+    "translations": {
+      "english": {
+        "name": "Al-Bāqī – The Everlasting",
+        "details": "Al-Bāqī is the One whose existence has no end. He remains forever while all else perishes. Everything in creation is temporary, but Allah alone is eternal.",
+        "lesson": "Rely on the Everlasting for true stability. Everything else—people, status, material things—will fade, but Allah remains.",
+        "virtues": "Reciting 'Yā Bāqī' strengthens connection with the eternal and helps let go of worldly attachments.",
+        "wazifa": "1) Recite 'Yā Bāqī' 100 times before sleeping to calm the heart. 2) Useful in moments of loss, reminding us that Allah is always present. 3) Builds inner peace and spiritual focus."
+      },
+      "urdu": {
+        "name": "ٱلْبَاقِي – ہمیشہ باقی رہنے والا",
+        "details": "ٱلْبَاقِي وہ ذات ہے جو کبھی ختم نہیں ہوتی۔ ہر چیز فنا ہو جائے گی، مگر اللہ ہمیشہ باقی ہے۔",
+        "lesson": "ہمیشہ باقی رہنے والے رب پر بھروسہ رکھو۔ دنیا کی چیزیں عارضی ہیں، مگر اللہ ہمیشہ کے لیے ہے۔",
+        "virtues": "'یَا بَاقِی' کا ورد دنیاوی تعلقات سے بےنیازی پیدا کرتا ہے اور دل کو سکون دیتا ہے۔",
+        "wazifa": "1) سونے سے پہلے 100 بار 'یَا بَاقِی' پڑھیں۔ 2) نقصان یا جدائی کے وقت فائدہ مند ہے۔ 3) روحانی سکون اور استقامت عطا کرتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "arabic": "ٱلْوَارِثُ",
+    "translations": {
+      "english": {
+        "name": "Al-Wārith – The Inheritor",
+        "details": "Al-Wārith is the One who remains after everything ends. He inherits all that was, when everyone else is gone. Everything returns to Him in the end.",
+        "lesson": "Nothing we own is truly ours—it all belongs to Allah. Use your blessings wisely, for one day they will return to their true Owner.",
+        "virtues": "Reminds us to be humble and generous. Helps detach from excessive love for material possessions.",
+        "wazifa": "1) Recite 'Yā Wārith' to ease grief after losing loved ones. 2) Useful for spiritual grounding and letting go. 3) Strengthens belief in the temporary nature of the world."
+      },
+      "urdu": {
+        "name": "ٱلْوَارِثُ – سب کچھ وارث ہونے والا",
+        "details": "ٱلْوَارِثُ وہ ذات ہے جو ہر چیز کے ختم ہونے کے بعد باقی رہتی ہے۔ سب کچھ اسی کے پاس لوٹ کر جانا ہے۔",
+        "lesson": "ہم جو کچھ رکھتے ہیں، وہ وقتی ہے۔ اصل مالک اللہ ہے۔ اس کے دیے ہوئے مال کو نیکی میں خرچ کریں۔",
+        "virtues": "'یَا وَارِث' کا ورد دنیا سے محبت کم کرتا ہے اور آخرت کی یاد دلاتا ہے۔",
+        "wazifa": "1) کسی کی وفات کے بعد 'یَا وَارِث' کا ورد دل کو تسلی دیتا ہے۔ 2) دنیاوی چیزوں سے دل لگانے سے بچاتا ہے۔ 3) زہد اور قناعت میں مدد دیتا ہے۔"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "arabic": "ٱلْرَّشِيدُ",
+    "translations": {
+      "english": {
+        "name": "Ar-Rashīd – The Guide, Infallible Teacher and Knower",
+        "details": "Ar-Rashīd is the One who guides with perfect wisdom. He shows the right path, aligning us with His divine purpose without forcing us.",
+        "lesson": "Seek Allah's guidance in every decision. True success lies in following His path with sincerity.",
+        "virtues": "Brings clarity in confusion and steadiness in uncertainty. Inspires wise choices and divine direction.",
+        "wazifa": "1) Recite 'Yā Rashīd' to seek clarity in important matters. 2) Helps in making wise decisions. 3) Beneficial for students and those seeking guidance."
+      },
+      "urdu": {
+        "name": "ٱلْرَّشِيدُ – ہدایت دینے والا، دانائی سے راہ دکھانے والا",
+        "details": "ٱلْرَّشِيدُ وہ ذات ہے جو حکمت کے ساتھ راہنمائی کرتی ہے۔ ہر فیصلہ میں بہترین راہ دکھاتا ہے۔",
+        "lesson": "ہر معاملے میں اللہ سے رہنمائی مانگو۔ اصل کامیابی اس کے راستے پر چلنے میں ہے۔",
+        "virtues": "مشکل فیصلوں میں سکون اور وضاحت عطا کرتا ہے۔ روحانی بصیرت میں اضافہ ہوتا ہے۔",
+        "wazifa": "1) اہم فیصلوں سے پہلے 'یَا رَشِيد' پڑھنا مفید ہے۔ 2) طلبہ کے لیے خاص طور پر فائدہ مند ہے۔ 3) الجھنوں میں رہنمائی ملتی ہے۔"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "arabic": "ٱلصَّبُورُ",
+    "translations": {
+      "english": {
+        "name": "As-Sabūr – The Most Patient",
+        "details": "As-Sabūr is the One who does not hasten the punishment of sinners. He is patient beyond human comprehension and delays consequences with wisdom and mercy.",
+        "lesson": "Practice patience in your trials as Allah is patient with His creation. Trust in His timing and be steadfast.",
+        "virtues": "Instills calmness and composure. Helps overcome anxiety and impulsiveness. Builds spiritual endurance.",
+        "wazifa": "1) Recite 'Yā Sabūr' to gain patience during hardships. 2) Helpful for those who react quickly in anger or distress. 3) Brings inner peace and reliance on divine timing."
+      },
+      "urdu": {
+        "name": "ٱلصَّبُورُ – سب سے زیادہ صبر کرنے والا",
+        "details": "ٱلصَّبُورُ وہ ذات ہے جو گناہگاروں کو فوراً سزا نہیں دیتی بلکہ اپنے بندوں پر مہربانی اور صبر سے کام لیتی ہے۔",
+        "lesson": "مصیبتوں میں صبر کرو جیسے اللہ اپنے بندوں پر صبر کرتا ہے۔ اس کے وقت پر بھروسا رکھو۔",
+        "virtues": "دل میں سکون اور ٹھہراؤ لاتا ہے۔ غصے پر قابو پانے اور بے چینی کو کم کرنے میں مددگار ہے۔",
+        "wazifa": "1) مصیبت یا پریشانی کے وقت 'یَا صَبُور' کا ورد فائدہ دیتا ہے۔ 2) جلد باز یا غصے والے افراد کے لیے مفید ہے۔ 3) دل کو اطمینان اور صبر عطا ہوتا ہے۔"
+      }
+    }
   }
 ]
